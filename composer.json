@@ -1,0 +1,29 @@
+{
+    "name": "dleno/alisdk-aop",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "php",
+        "alipay-sdk-php-all"
+    ],
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "Dleno\\AliSdkAop\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    },
+    "require-dev": {
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "scripts": {
+        "test": "co-phpunit -c phpunit.xml --colors=always",
+        "analyse": "phpstan analyse --memory-limit 300M -l 0 ./src",
+        "cs-fix": "php-cs-fixer fix $1"
+    },
+    "extra": {}
+}
