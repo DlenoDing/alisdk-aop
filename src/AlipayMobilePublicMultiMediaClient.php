@@ -1,4 +1,5 @@
 <?php
+
 namespace Dleno\AliSdkAop;
 
 /**
@@ -6,40 +7,37 @@ namespace Dleno\AliSdkAop;
  * @author yikai.hu
  * @version $Id: AlipayMobilePublicMultiMediaClient.php, v 0.1 Aug 15, 2014 10:19:01 AM yikai.hu Exp $
  */
-
-include("AlipayMobilePublicMultiMediaExecute.php");
-
 class AlipayMobilePublicMultiMediaClient
 {
     private $DEFAULT_CHARSET = 'UTF-8';
-    private $METHOD_POST = "POST";
-    private $METHOD_GET = "GET";
-    private $SIGN = 'sign'; //get name
+    private $METHOD_POST     = "POST";
+    private $METHOD_GET      = "GET";
+    private $SIGN            = 'sign'; //get name
 
-    private $timeout = 10;// 超时时间
+    private $timeout   = 10;// 超时时间
     private $serverUrl;
     private $appId;
     private $privateKey;
     private $prodCode;
-    private $format = 'json'; //todo
+    private $format    = 'json'; //todo
     private $sign_type = 'RSA'; //todo
 
     private $charset;
-    private $apiVersion = "1.0";
+    private $apiVersion    = "1.0";
     private $apiMethodName = "alipay.mobile.public.multimedia.download";
-    private $media_id = "L21pZnMvVDFQV3hYWGJKWFhYYUNucHJYP3Q9YW13ZiZ4c2lnPTU0MzRhYjg1ZTZjNWJmZTMxZGJiNjIzNDdjMzFkNzkw575";
+    private $media_id      = "L21pZnMvVDFQV3hYWGJKWFhYYUNucHJYP3Q9YW13ZiZ4c2lnPTU0MzRhYjg1ZTZjNWJmZTMxZGJiNjIzNDdjMzFkNzkw575";
     //此处写死的，实际开发中，请传入
 
     private $connectTimeout = 3000;
-    private $readTimeout = 15000;
+    private $readTimeout    = 15000;
 
     function __construct($serverUrl = '', $appId = '', $partner_private_key = '', $format = '', $charset = 'GBK')
     {
-        $this->serverUrl = $serverUrl;
-        $this->appId = $appId;
+        $this->serverUrl  = $serverUrl;
+        $this->appId      = $appId;
         $this->privateKey = $partner_private_key;
-        $this->format = $format;
-        $this->charset = $charset;
+        $this->format     = $format;
+        $this->charset    = $charset;
     }
 
     /**
@@ -50,13 +48,13 @@ class AlipayMobilePublicMultiMediaClient
     public function getContents()
     {
         $datas = array(
-            "app_id" => $this->appId,
-            "method" => $this->METHOD_POST,
-            "sign_type" => $this->sign_type,
-            "version" => $this->apiVersion,
-            "timestamp" => date('Y-m-d H:i:s'),//yyyy-MM-dd HH:mm:ss
+            "app_id"      => $this->appId,
+            "method"      => $this->METHOD_POST,
+            "sign_type"   => $this->sign_type,
+            "version"     => $this->apiVersion,
+            "timestamp"   => date('Y-m-d H:i:s'),//yyyy-MM-dd HH:mm:ss
             "biz_content" => '{"mediaId":"' . $this->media_id . '"}',
-            "charset" => $this->charset
+            "charset"     => $this->charset
         );
 
         //要提交的数据
@@ -67,7 +65,7 @@ class AlipayMobilePublicMultiMediaClient
         $ch = curl_init();
         //设置目标服务器
         curl_setopt($ch, CURLOPT_URL, $this->serverUrl);
-        curl_setopt($ch, CURLOPT_HEADER, TRUE);
+        curl_setopt($ch, CURLOPT_HEADER, true);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
         //超时时间
         curl_setopt($ch, CURLOPT_TIMEOUT, $this->timeout);
@@ -80,20 +78,19 @@ class AlipayMobilePublicMultiMediaClient
         }
 
 
-        $output = curl_exec($ch);
+        $output   = curl_exec($ch);
         $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
         curl_close($ch);
 
         echo $output;
 
-        $datas = explode("\r\n\r\n", $output, 2);
+        $datas  = explode("\r\n\r\n", $output, 2);
         $header = $datas[0];
 
         if ($httpCode == '200') {
             $body = $datas[1];
         } else {
             $body = '';
-
         }
 
         return $this->execute($header, $body, $httpCode);
@@ -113,18 +110,18 @@ class AlipayMobilePublicMultiMediaClient
     public function buildGetUrl($query = array())
     {
         if (!is_array($query)) {
-            //exit;
+            return $query;
         }
         //排序参数，
         $data = $this->buildQuery($query);
 
         // 私钥密码
         $passphrase = '';
-        $key_width = 64;
+        $key_width  = 64;
 
         //私钥
         $privateKey = $this->privateKey;
-        $p_key = array();
+        $p_key      = array();
         //如果私钥是 1行
         if (!stripos($privateKey, "\n")) {
             $i = 0;
@@ -145,10 +142,8 @@ class AlipayMobilePublicMultiMediaClient
         $signature = '';
 
         if ("RSA2" == $this->sign_type) {
-
             openssl_sign($data, $signature, $private_id, OPENSSL_ALGO_SHA256);
         } else {
-
             openssl_sign($data, $signature, $private_id, OPENSSL_ALGO_SHA1);
         }
 

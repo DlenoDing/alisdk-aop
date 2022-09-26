@@ -1,6 +1,6 @@
-
 <?php
 namespace Dleno\AliSdkAop;
+
 class AlipayConfig {
     /**
      * 网关地址

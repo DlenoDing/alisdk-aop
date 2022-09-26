@@ -1,4 +1,5 @@
 <?php
+
 namespace Dleno\AliSdkAop;
 
 /**
@@ -6,16 +7,15 @@ namespace Dleno\AliSdkAop;
  * @author yuanwai.wang
  * @version $Id: AlipayMobilePublicMultiMediaExecute.php, v 0.1 Aug 15, 2014 10:19:01 AM yuanwai.wang Exp $
  */
-
 //namespace alipay\api ;
 
 
 class AlipayMobilePublicMultiMediaExecute
 {
 
-    private $code = 200;
-    private $msg = '';
-    private $body = '';
+    private $code   = 200;
+    private $msg    = '';
+    private $body   = '';
     private $params = '';
 
     private $fileSuffix = array(
@@ -28,15 +28,15 @@ class AlipayMobilePublicMultiMediaExecute
      * */
     function __construct($header, $body, $httpCode)
     {
-        $this->code = $httpCode;
-        $this->msg = '';
+        $this->code   = $httpCode;
+        $this->msg    = '';
         $this->params = $header;
-        $this->body = $body;
+        $this->body   = $body;
     }
 
     /**
      *
-     * @return text | bin
+     * @return int
      */
     public function getCode()
     {
@@ -45,7 +45,7 @@ class AlipayMobilePublicMultiMediaExecute
 
     /**
      *
-     * @return text | bin
+     * @return string
      */
     public function getMsg()
     {
@@ -54,7 +54,7 @@ class AlipayMobilePublicMultiMediaExecute
 
     /**
      *
-     * @return text | bin
+     * @return string
      */
     public function getType()
     {
@@ -72,7 +72,7 @@ class AlipayMobilePublicMultiMediaExecute
 
     /**
      *
-     * @return text | bin
+     * @return int
      */
     public function getContentLength()
     {
@@ -95,7 +95,7 @@ class AlipayMobilePublicMultiMediaExecute
 
     /**
      *
-     * @return text | bin
+     * @return string
      */
     public function getBody()
     {
@@ -105,7 +105,7 @@ class AlipayMobilePublicMultiMediaExecute
 
     /**
      * 获取参数
-     * @return text | bin
+     * @return string
      */
     public function getParams()
     {
