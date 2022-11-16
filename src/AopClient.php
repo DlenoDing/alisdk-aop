@@ -576,7 +576,8 @@ class AopClient
 
 
         // 将返回结果转换本地文件编码
-        $r = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
+        //$r = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
+        $r = mb_convert_encoding($resp, $this->fileCharset, $this->postCharset);
 
 
         $signData = null;
@@ -617,12 +618,14 @@ class AopClient
                 $resp = $this->encryptJSONSignSource($request, $resp);
 
                 // 将返回结果转换本地文件编码
-                $r          = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
+                //$r          = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
+                $r = mb_convert_encoding($resp, $this->fileCharset, $this->postCharset);
                 $respObject = json_decode($r);
             } else {
                 $resp = $this->encryptXMLSignSource($request, $resp);
 
-                $r                         = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
+                //$r                         = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
+                $r = mb_convert_encoding($resp, $this->fileCharset, $this->postCharset);
                 $disableLibxmlEntityLoader = libxml_disable_entity_loader(true);
                 $respObject                = @ simplexml_load_string($r);
                 libxml_disable_entity_loader($disableLibxmlEntityLoader);
