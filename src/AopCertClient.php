@@ -708,7 +708,8 @@ class AopCertClient
         $respWellFormed = false;
 
         // 将返回结果转换本地文件编码
-        $r        = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
+        //$r        = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
+        $r        = mb_convert_encoding($resp, $this->fileCharset, $this->postCharset);
         $signData = null;
 
         if ("json" == strtolower($this->format)) {
@@ -743,11 +744,13 @@ class AopCertClient
             if ("json" == strtolower($this->format)) {
                 $resp = $this->encryptJSONSignSource($request, $resp);
                 // 将返回结果转换本地文件编码
-                $r          = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
+                //$r        = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
+                $r        = mb_convert_encoding($resp, $this->fileCharset, $this->postCharset);
                 $respObject = json_decode($r);
             } else {
                 $resp                      = $this->encryptXMLSignSource($request, $resp);
-                $r                         = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
+                //$r                       = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
+                $r                         = mb_convert_encoding($resp, $this->fileCharset, $this->postCharset);
                 $disableLibxmlEntityLoader = libxml_disable_entity_loader(true);
                 $respObject                = @ simplexml_load_string($r);
                 libxml_disable_entity_loader($disableLibxmlEntityLoader);
@@ -1203,7 +1206,8 @@ class AopCertClient
                     }
 
                     // 将返回结果转换本地文件编码
-                    $r = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
+                    //$r = iconv($this->postCharset, $this->fileCharset . "//IGNORE", $resp);
+                    $r = mb_convert_encoding($resp, $this->fileCharset, $this->postCharset);
 
                     $respObject  = json_decode($r);
                     $resultCode  = $respObject->alipay_open_app_alipaycert_download_response->code;
