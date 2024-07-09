@@ -1,5 +1,6 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.blockchain.finance.asset.issue.apply request
  *

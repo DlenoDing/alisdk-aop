@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.operation.bizfee.aftech.subscribe request
  *
  * @author auto create
- * @since 1.0, 2019-07-08 21:13:08
+ * @since 1.0, 2023-05-29 21:22:57
  */
 class AlipayOpenOperationBizfeeAftechSubscribeRequest
 {

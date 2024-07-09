@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.jf.instmessage.notify request
  *
  * @author auto create
- * @since 1.0, 2022-06-30 09:56:49
+ * @since 1.0, 2023-09-03 23:16:48
  */
 class AlipayEbppJfInstmessageNotifyRequest
 {

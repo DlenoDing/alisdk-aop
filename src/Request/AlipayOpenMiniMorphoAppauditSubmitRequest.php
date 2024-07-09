@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.morpho.appaudit.submit request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:13:35
+ * @since 1.0, 2023-05-30 23:34:56
  */
 class AlipayOpenMiniMorphoAppauditSubmitRequest
 {

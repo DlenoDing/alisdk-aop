@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.mrchsurp.activitysignup.create request
  *
  * @author auto create
- * @since 1.0, 2021-06-25 14:02:36
+ * @since 1.0, 2023-08-21 03:04:12
  */
 class AlipayMerchantMrchsurpActivitysignupCreateRequest
 {

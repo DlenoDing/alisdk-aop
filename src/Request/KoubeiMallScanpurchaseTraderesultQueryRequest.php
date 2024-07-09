@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.mall.scanpurchase.traderesult.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 11:06:02
+ * @since 1.0, 2024-03-01 16:26:16
  */
 class KoubeiMallScanpurchaseTraderesultQueryRequest
 {

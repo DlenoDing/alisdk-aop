@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.public.message.total.send request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:06:40
+ * @since 1.0, 2023-09-12 06:51:03
  */
 class AlipayOpenPublicMessageTotalSendRequest
 {

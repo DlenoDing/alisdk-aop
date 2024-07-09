@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pcredit.huabei.mobileauth.sign.apply request
  *
  * @author auto create
- * @since 1.0, 2021-10-26 22:26:36
+ * @since 1.0, 2022-11-14 16:36:17
  */
 class AlipayPcreditHuabeiMobileauthSignApplyRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pay.app.smartwear.status.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-27 10:30:22
+ * @since 1.0, 2023-08-21 04:23:59
  */
 class AlipayPayAppSmartwearStatusQueryRequest
 {

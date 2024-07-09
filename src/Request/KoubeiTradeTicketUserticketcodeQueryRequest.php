@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.trade.ticket.userticketcode.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:37:25
+ * @since 1.0, 2023-08-20 16:40:55
  */
 class KoubeiTradeTicketUserticketcodeQueryRequest
 {

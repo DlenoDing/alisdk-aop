@@ -1,5 +1,6 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.advert.delivery.discount.get request
  *

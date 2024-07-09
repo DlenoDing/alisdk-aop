@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.educate.faceuser.modify request
  *
  * @author auto create
- * @since 1.0, 2022-08-22 19:37:22
+ * @since 1.0, 2023-05-29 21:13:39
  */
 class AlipayCommerceEducateFaceuserModifyRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.enterprisepay.traderule.set request
  *
  * @author auto create
- * @since 1.0, 2022-08-23 23:11:45
+ * @since 1.0, 2023-09-04 00:24:05
  */
 class AlipayFundEnterprisepayTraderuleSetRequest
 {

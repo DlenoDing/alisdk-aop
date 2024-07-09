@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.search.orderwordnum.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-19 19:57:47
+ * @since 1.0, 2023-09-04 00:21:21
  */
 class AlipayOpenSearchOrderwordnumQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.trade.contract.quicksettlement.query request
  *
  * @author auto create
- * @since 1.0, 2022-02-28 10:33:16
+ * @since 1.0, 2023-08-21 02:28:00
  */
 class AlipayTradeContractQuicksettlementQueryRequest
 {

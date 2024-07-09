@@ -1,5 +1,6 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.trade.settle.confirm.cancel request
  *

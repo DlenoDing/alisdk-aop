@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.qipan.crowd.create request
  *
  * @author auto create
- * @since 1.0, 2022-08-04 15:51:39
+ * @since 1.0, 2024-04-23 21:51:00
  */
 class AlipayMerchantQipanCrowdCreateRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.marketing.discount.preuse request
  *
  * @author auto create
- * @since 1.0, 2022-03-28 17:19:31
+ * @since 1.0, 2023-08-20 17:51:34
  */
 class AlipayInsMarketingDiscountPreuseRequest
 {

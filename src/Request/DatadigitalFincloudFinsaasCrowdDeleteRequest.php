@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: datadigital.fincloud.finsaas.crowd.delete request
  *
  * @author auto create
- * @since 1.0, 2022-06-27 21:07:00
+ * @since 1.0, 2023-09-04 01:59:30
  */
 class DatadigitalFincloudFinsaasCrowdDeleteRequest
 {

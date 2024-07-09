@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.app.service.promo.query request
  *
  * @author auto create
- * @since 1.0, 2022-04-21 14:42:03
+ * @since 1.0, 2023-05-29 23:18:34
  */
 class AlipayOpenAppServicePromoQueryRequest
 {

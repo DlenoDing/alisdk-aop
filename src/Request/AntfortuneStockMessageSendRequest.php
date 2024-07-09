@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: antfortune.stock.message.send request
  *
  * @author auto create
- * @since 1.0, 2022-09-13 14:58:33
+ * @since 1.0, 2023-08-24 22:47:18
  */
 class AntfortuneStockMessageSendRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.quanyibao.pointdeduct.submit request
  *
  * @author auto create
- * @since 1.0, 2022-07-04 20:51:49
+ * @since 1.0, 2023-08-23 19:56:48
  */
 class AlipayUserQuanyibaoPointdeductSubmitRequest
 {

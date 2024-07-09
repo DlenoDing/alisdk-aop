@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pay.codec.hschool.decode.use request
  *
  * @author auto create
- * @since 1.0, 2022-06-20 18:43:29
+ * @since 1.0, 2024-03-01 16:27:00
  */
 class AlipayPayCodecHschoolDecodeUseRequest
 {

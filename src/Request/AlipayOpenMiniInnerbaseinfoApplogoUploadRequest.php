@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.innerbaseinfo.applogo.upload request
  *
  * @author auto create
- * @since 1.0, 2022-06-22 11:39:28
+ * @since 1.0, 2023-09-11 17:02:44
  */
 class AlipayOpenMiniInnerbaseinfoApplogoUploadRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.iot.advertiser.material.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-06-16 16:43:17
+ * @since 1.0, 2024-05-10 14:01:17
  */
 class AlipayCommerceIotAdvertiserMaterialBatchqueryRequest
 {

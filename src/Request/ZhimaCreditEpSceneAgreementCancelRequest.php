@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.ep.scene.agreement.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-10-27 17:12:43
+ * @since 1.0, 2023-08-20 17:59:02
  */
 class ZhimaCreditEpSceneAgreementCancelRequest
 {

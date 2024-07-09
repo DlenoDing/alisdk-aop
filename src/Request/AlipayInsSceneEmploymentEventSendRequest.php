@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.employment.event.send request
  *
  * @author auto create
- * @since 1.0, 2022-08-22 13:51:48
+ * @since 1.0, 2024-03-26 21:47:03
  */
 class AlipayInsSceneEmploymentEventSendRequest
 {

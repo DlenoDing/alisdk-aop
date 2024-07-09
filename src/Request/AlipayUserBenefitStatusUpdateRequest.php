@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.benefit.status.update request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:55:21
+ * @since 1.0, 2023-08-23 19:55:44
  */
 class AlipayUserBenefitStatusUpdateRequest
 {

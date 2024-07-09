@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.related.bill.consult request
  *
  * @author auto create
- * @since 1.0, 2022-06-06 21:31:42
+ * @since 1.0, 2024-04-16 15:37:03
  */
 class AlipayBossRelatedBillConsultRequest
 {

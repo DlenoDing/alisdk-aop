@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.trade.account.fundcomposition.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 20:45:22
+ * @since 1.0, 2024-03-01 16:34:33
  */
 class AlipayTradeAccountFundcompositionQueryRequest
 {

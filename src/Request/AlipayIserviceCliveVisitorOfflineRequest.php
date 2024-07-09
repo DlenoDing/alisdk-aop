@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.iservice.clive.visitor.offline request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:17:52
+ * @since 1.0, 2023-10-07 15:24:06
  */
 class AlipayIserviceCliveVisitorOfflineRequest
 {

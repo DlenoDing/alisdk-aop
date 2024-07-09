@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.business.paymenthub.close request
  *
  * @author auto create
- * @since 1.0, 2020-03-23 22:00:35
+ * @since 1.0, 2023-08-21 05:28:49
  */
 class AlipayBusinessPaymenthubCloseRequest
 {

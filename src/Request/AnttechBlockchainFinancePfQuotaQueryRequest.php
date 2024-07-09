@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.blockchain.finance.pf.quota.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:01
+ * @since 1.0, 2024-03-01 16:29:13
  */
 class AnttechBlockchainFinancePfQuotaQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.base.chat.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:07:31
+ * @since 1.0, 2023-05-31 06:08:36
  */
 class AlipaySocialBaseChatSendRequest
 {

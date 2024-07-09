@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.overseas.remit.fund.transfer request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:40:44
+ * @since 1.0, 2023-05-29 20:58:30
  */
 class AlipayOverseasRemitFundTransferRequest
 {

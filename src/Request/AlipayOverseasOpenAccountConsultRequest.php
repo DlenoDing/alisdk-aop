@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.overseas.open.account.consult request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:08
+ * @since 1.0, 2024-05-28 11:52:04
  */
 class AlipayOverseasOpenAccountConsultRequest
 {

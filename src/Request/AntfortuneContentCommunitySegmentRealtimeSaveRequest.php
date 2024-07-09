@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: antfortune.content.community.segment.realtime.save request
  *
  * @author auto create
- * @since 1.0, 2022-04-06 21:36:41
+ * @since 1.0, 2023-08-23 20:26:52
  */
 class AntfortuneContentCommunitySegmentRealtimeSaveRequest
 {

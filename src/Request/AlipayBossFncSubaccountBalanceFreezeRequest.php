@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.fnc.subaccount.balance.freeze request
  *
  * @author auto create
- * @since 1.0, 2020-08-31 19:45:14
+ * @since 1.0, 2023-08-21 02:43:37
  */
 class AlipayBossFncSubaccountBalanceFreezeRequest
 {

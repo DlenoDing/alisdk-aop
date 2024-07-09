@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.marketing.tessssssssssst.query request
  *
  * @author auto create
- * @since 1.0, 2019-10-31 11:29:23
+ * @since 1.0, 2023-08-20 17:06:32
  */
 class KoubeiMarketingTessssssssssstQueryRequest
 {

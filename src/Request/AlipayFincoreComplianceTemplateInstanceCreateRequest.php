@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fincore.compliance.template.instance.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-23 14:30:40
+ * @since 1.0, 2024-05-13 15:02:25
  */
 class AlipayFincoreComplianceTemplateInstanceCreateRequest
 {

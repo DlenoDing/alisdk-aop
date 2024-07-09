@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.charity.forestsendpic.send request
  *
  * @author auto create
- * @since 1.0, 2020-02-21 10:03:39
+ * @since 1.0, 2024-03-14 16:48:26
  */
 class AlipayUserCharityForestsendpicSendRequest
 {

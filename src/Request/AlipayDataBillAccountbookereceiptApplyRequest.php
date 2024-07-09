@@ -1,5 +1,6 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.bill.accountbookereceipt.apply request
  *

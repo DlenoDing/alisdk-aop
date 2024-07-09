@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.payment.trade.business.order.close request
  *
  * @author auto create
- * @since 1.0, 2022-02-09 14:41:51
+ * @since 1.0, 2023-08-23 21:40:50
  */
 class MybankPaymentTradeBusinessOrderCloseRequest
 {

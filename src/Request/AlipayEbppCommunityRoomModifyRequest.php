@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.community.room.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:05:36
+ * @since 1.0, 2024-03-01 16:28:52
  */
 class AlipayEbppCommunityRoomModifyRequest
 {

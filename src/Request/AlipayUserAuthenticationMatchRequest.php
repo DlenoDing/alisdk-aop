@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.authentication.match request
  *
  * @author auto create
- * @since 1.0, 2022-06-29 11:06:59
+ * @since 1.0, 2023-05-30 10:50:13
  */
 class AlipayUserAuthenticationMatchRequest
 {

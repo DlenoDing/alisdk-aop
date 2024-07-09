@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.merchant.contract.common.confirm request
  *
  * @author auto create
- * @since 1.0, 2020-03-18 20:00:08
+ * @since 1.0, 2023-08-20 16:54:35
  */
 class ZhimaMerchantContractCommonConfirmRequest
 {

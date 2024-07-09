@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.cityservice.message.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:39:33
+ * @since 1.0, 2024-06-17 14:12:03
  */
 class AlipayEcoCityserviceMessageSendRequest
 {

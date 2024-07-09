@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.finance.yulibao.capital.ransom request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:08:49
+ * @since 1.0, 2023-08-21 02:36:55
  */
 class MybankFinanceYulibaoCapitalRansomRequest
 {

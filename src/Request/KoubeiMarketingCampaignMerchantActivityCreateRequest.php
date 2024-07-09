@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.marketing.campaign.merchant.activity.create request
  *
  * @author auto create
- * @since 1.0, 2021-10-20 11:19:04
+ * @since 1.0, 2023-09-03 23:20:46
  */
 class KoubeiMarketingCampaignMerchantActivityCreateRequest
 {

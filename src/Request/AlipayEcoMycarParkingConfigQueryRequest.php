@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.mycar.parking.config.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-28 11:10:20
+ * @since 1.0, 2023-09-11 17:32:04
  */
 class AlipayEcoMycarParkingConfigQueryRequest
 {

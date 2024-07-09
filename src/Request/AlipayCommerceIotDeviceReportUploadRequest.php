@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.iot.device.report.upload request
  *
  * @author auto create
- * @since 1.0, 2022-01-12 20:00:26
+ * @since 1.0, 2023-09-11 18:24:17
  */
 class AlipayCommerceIotDeviceReportUploadRequest
 {

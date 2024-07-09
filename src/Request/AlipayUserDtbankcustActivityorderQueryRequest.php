@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.dtbankcust.activityorder.query request
  *
  * @author auto create
- * @since 1.0, 2021-10-15 19:32:45
+ * @since 1.0, 2024-03-27 08:50:54
  */
 class AlipayUserDtbankcustActivityorderQueryRequest
 {

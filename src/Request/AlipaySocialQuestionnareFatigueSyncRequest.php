@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.questionnare.fatigue.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:50:32
+ * @since 1.0, 2024-03-01 16:29:08
  */
 class AlipaySocialQuestionnareFatigueSyncRequest
 {

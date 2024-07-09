@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.finance.quotation.stocktools.freeuser.exchange request
  *
  * @author auto create
- * @since 1.0, 2022-02-21 11:12:21
+ * @since 1.0, 2024-03-01 16:27:40
  */
 class AlipayFinanceQuotationStocktoolsFreeuserExchangeRequest
 {

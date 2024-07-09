@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.blockchain.defin.base.file.submit request
  *
  * @author auto create
- * @since 1.0, 2020-06-02 16:20:10
+ * @since 1.0, 2023-08-21 06:21:48
  */
 class AnttechBlockchainDefinBaseFileSubmitRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.antiep.scene.send request
  *
  * @author auto create
- * @since 1.0, 2020-02-27 09:40:05
+ * @since 1.0, 2023-08-23 21:33:16
  */
 class AlipaySocialAntiepSceneSendRequest
 {

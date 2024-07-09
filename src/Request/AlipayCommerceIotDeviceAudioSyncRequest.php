@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.iot.device.audio.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:40:40
+ * @since 1.0, 2024-03-01 16:27:36
  */
 class AlipayCommerceIotDeviceAudioSyncRequest
 {

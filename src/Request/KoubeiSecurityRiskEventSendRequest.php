@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.security.risk.event.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:37:50
+ * @since 1.0, 2023-08-24 21:07:11
  */
 class KoubeiSecurityRiskEventSendRequest
 {

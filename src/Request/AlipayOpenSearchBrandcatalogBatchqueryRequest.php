@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.search.brandcatalog.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-08-19 19:57:38
+ * @since 1.0, 2023-08-20 18:07:21
  */
 class AlipayOpenSearchBrandcatalogBatchqueryRequest
 {

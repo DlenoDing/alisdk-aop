@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.retail.wms.inboundorder.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:35:26
+ * @since 1.0, 2023-08-23 21:07:03
  */
 class KoubeiRetailWmsInboundorderConfirmRequest
 {

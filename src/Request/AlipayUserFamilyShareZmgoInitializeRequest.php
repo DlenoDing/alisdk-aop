@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.family.share.zmgo.initialize request
  *
  * @author auto create
- * @since 1.0, 2021-01-20 11:01:21
+ * @since 1.0, 2023-08-20 18:10:56
  */
 class AlipayUserFamilyShareZmgoInitializeRequest
 {

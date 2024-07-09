@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.overseas.travel.fliggy.shop.transfer request
  *
  * @author auto create
- * @since 1.0, 2022-01-17 17:48:55
+ * @since 1.0, 2023-08-21 05:11:46
  */
 class AlipayOverseasTravelFliggyShopTransferRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.antid.virtual.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-17 15:19:36
+ * @since 1.0, 2023-08-21 01:13:51
  */
 class AlipayUserAntidVirtualQueryRequest
 {

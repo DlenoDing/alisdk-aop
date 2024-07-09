@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.merchant.contract.onoffer.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-17 10:39:20
+ * @since 1.0, 2023-05-29 20:42:59
  */
 class ZhimaMerchantContractOnofferQueryRequest
 {

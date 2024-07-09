@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.servicemarket.order.sync request
  *
  * @author auto create
- * @since 1.0, 2021-08-10 10:37:36
+ * @since 1.0, 2023-08-20 18:00:22
  */
 class AlipayOpenServicemarketOrderSyncRequest
 {

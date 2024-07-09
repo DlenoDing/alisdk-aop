@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.fnc.outputinvoice.rcpt.query request
  *
  * @author auto create
- * @since 1.0, 2021-10-12 11:26:37
+ * @since 1.0, 2024-01-22 09:38:39
  */
 class AlipayBossFncOutputinvoiceRcptQueryRequest
 {

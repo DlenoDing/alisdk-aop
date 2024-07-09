@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.contract.borrow.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:45:10
+ * @since 1.0, 2023-09-04 01:42:54
  */
 class ZhimaCreditContractBorrowCreateRequest
 {

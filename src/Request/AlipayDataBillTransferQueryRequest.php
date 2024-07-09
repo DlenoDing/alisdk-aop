@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.bill.transfer.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-23 11:58:52
+ * @since 1.0, 2024-03-01 16:34:27
  */
 class AlipayDataBillTransferQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.mycar.fuelling.shop.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:48:30
+ * @since 1.0, 2023-05-29 20:26:23
  */
 class AlipayEcoMycarFuellingShopModifyRequest
 {

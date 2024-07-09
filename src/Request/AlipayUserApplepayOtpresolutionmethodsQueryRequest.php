@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.applepay.otpresolutionmethods.query request
  *
  * @author auto create
- * @since 1.0, 2020-05-29 10:25:32
+ * @since 1.0, 2023-05-30 20:02:28
  */
 class AlipayUserApplepayOtpresolutionmethodsQueryRequest
 {

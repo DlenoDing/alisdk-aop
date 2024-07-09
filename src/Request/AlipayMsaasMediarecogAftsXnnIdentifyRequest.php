@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.msaas.mediarecog.afts.xnn.identify request
  *
  * @author auto create
- * @since 1.0, 2022-06-21 11:37:09
+ * @since 1.0, 2024-03-01 16:28:36
  */
 class AlipayMsaasMediarecogAftsXnnIdentifyRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.pdeduct.sign.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:43:57
+ * @since 1.0, 2024-03-26 21:36:10
  */
 class AlipayEbppPdeductSignQueryRequest
 {

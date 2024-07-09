@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.sp.isv.signauth.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-17 17:27:47
+ * @since 1.0, 2024-04-28 16:13:51
  */
 class AlipayOpenSpIsvSignauthQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.zdataassets.easyservice request
  *
  * @author auto create
- * @since 1.0, 2021-12-30 15:04:01
+ * @since 1.0, 2023-09-04 01:15:03
  */
 class AlipayZdataassetsEasyserviceRequest
 {

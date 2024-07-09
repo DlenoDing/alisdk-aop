@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.sceneprod.plan.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-01-09 17:28:34
  */
 class MybankCreditSceneprodPlanQueryRequest
 {

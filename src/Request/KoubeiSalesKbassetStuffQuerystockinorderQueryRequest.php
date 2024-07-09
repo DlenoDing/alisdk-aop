@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.sales.kbasset.stuff.querystockinorder.query request
  *
  * @author auto create
- * @since 1.0, 2019-05-31 09:04:25
+ * @since 1.0, 2023-09-04 00:04:31
  */
 class KoubeiSalesKbassetStuffQuerystockinorderQueryRequest
 {

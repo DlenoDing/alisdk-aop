@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.intelligentize.workschedule.create request
  *
  * @author auto create
- * @since 1.0, 2022-08-18 17:28:39
+ * @since 1.0, 2024-03-01 16:29:55
  */
 class AlipayCommerceTransportIntelligentizeWorkscheduleCreateRequest
 {

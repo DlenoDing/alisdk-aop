@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.prod.fingerprint.delete request
  *
  * @author auto create
- * @since 1.0, 2022-07-18 14:43:17
+ * @since 1.0, 2023-05-30 21:00:54
  */
 class AlipaySecurityProdFingerprintDeleteRequest
 {

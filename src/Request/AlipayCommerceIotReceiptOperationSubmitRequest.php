@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.iot.receipt.operation.submit request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:46:01
+ * @since 1.0, 2023-09-03 23:01:32
  */
 class AlipayCommerceIotReceiptOperationSubmitRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.cplife.residentinfo.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:42:15
+ * @since 1.0, 2023-08-20 16:59:58
  */
 class AlipayEcoCplifeResidentinfoDeleteRequest
 {

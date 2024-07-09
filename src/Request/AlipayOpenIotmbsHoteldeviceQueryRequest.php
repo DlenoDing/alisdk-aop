@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.iotmbs.hoteldevice.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-29 16:11:47
+ * @since 1.0, 2023-05-30 23:11:17
  */
 class AlipayOpenIotmbsHoteldeviceQueryRequest
 {

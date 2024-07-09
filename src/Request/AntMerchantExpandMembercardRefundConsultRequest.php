@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.membercard.refund.consult request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:16:50
+ * @since 1.0, 2024-03-27 08:53:53
  */
 class AntMerchantExpandMembercardRefundConsultRequest
 {

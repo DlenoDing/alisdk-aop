@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.operation.gamemarketing.benefit.apply request
  *
  * @author auto create
- * @since 1.0, 2020-09-18 16:45:12
+ * @since 1.0, 2023-09-04 01:56:50
  */
 class AlipayCommerceOperationGamemarketingBenefitApplyRequest
 {

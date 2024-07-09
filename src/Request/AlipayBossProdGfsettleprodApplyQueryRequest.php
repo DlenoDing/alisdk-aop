@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.prod.gfsettleprod.apply.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-28 14:24:27
+ * @since 1.0, 2024-03-01 16:26:12
  */
 class AlipayBossProdGfsettleprodApplyQueryRequest
 {

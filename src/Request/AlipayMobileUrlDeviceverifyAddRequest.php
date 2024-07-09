@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.mobile.url.deviceverify.add request
  *
  * @author auto create
- * @since 1.0, 2022-02-10 10:28:55
+ * @since 1.0, 2024-03-01 16:27:38
  */
 class AlipayMobileUrlDeviceverifyAddRequest
 {

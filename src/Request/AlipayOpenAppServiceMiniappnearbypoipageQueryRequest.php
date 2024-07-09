@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.app.service.miniappnearbypoipage.query request
  *
  * @author auto create
- * @since 1.0, 2019-08-01 20:35:12
+ * @since 1.0, 2023-08-20 18:39:50
  */
 class AlipayOpenAppServiceMiniappnearbypoipageQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.risk.policy.query request
  *
  * @author auto create
- * @since 1.0, 2019-03-07 19:19:11
+ * @since 1.0, 2023-09-04 02:11:46
  */
 class AlipaySecurityRiskPolicyQueryRequest
 {

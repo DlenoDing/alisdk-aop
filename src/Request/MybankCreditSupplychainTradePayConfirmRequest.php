@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.supplychain.trade.pay.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:18
+ * @since 1.0, 2024-03-01 16:25:18
  */
 class MybankCreditSupplychainTradePayConfirmRequest
 {

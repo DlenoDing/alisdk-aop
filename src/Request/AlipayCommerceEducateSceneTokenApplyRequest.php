@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.educate.scene.token.apply request
  *
  * @author auto create
- * @since 1.0, 2022-03-23 13:51:38
+ * @since 1.0, 2024-04-01 23:17:39
  */
 class AlipayCommerceEducateSceneTokenApplyRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.content.contentinfo.create request
  *
  * @author auto create
- * @since 1.0, 2019-03-21 17:15:00
+ * @since 1.0, 2023-05-31 22:42:24
  */
 class KoubeiContentContentinfoCreateRequest
 {

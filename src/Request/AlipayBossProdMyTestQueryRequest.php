@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.prod.my.test.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-08 20:28:25
+ * @since 1.0, 2024-03-01 16:27:43
  */
 class AlipayBossProdMyTestQueryRequest
 {

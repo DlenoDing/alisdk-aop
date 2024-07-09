@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.trade.batch.refund request
  *
  * @author auto create
- * @since 1.0, 2022-05-09 12:19:29
+ * @since 1.0, 2023-08-20 18:36:25
  */
 class AlipayTradeBatchRefundRequest
 {

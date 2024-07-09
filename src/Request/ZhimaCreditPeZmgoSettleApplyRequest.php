@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.pe.zmgo.settle.apply request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 14:18:04
+ * @since 1.0, 2024-05-20 17:29:39
  */
 class ZhimaCreditPeZmgoSettleApplyRequest
 {

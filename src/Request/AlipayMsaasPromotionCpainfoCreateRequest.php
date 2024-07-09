@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.msaas.promotion.cpainfo.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:30:08
+ * @since 1.0, 2024-03-01 16:28:36
  */
 class AlipayMsaasPromotionCpainfoCreateRequest
 {

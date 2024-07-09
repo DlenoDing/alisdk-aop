@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.base.frastress.queryriskdomain.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-25 17:46:38
+ * @since 1.0, 2023-09-03 23:31:40
  */
 class AlipayBossBaseFrastressQueryriskdomainQueryRequest
 {

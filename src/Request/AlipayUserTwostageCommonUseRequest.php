@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.twostage.common.use request
  *
  * @author auto create
- * @since 1.0, 2022-06-20 18:41:37
+ * @since 1.0, 2024-05-17 14:36:52
  */
 class AlipayUserTwostageCommonUseRequest
 {

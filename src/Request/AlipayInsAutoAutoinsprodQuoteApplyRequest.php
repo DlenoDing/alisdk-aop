@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.auto.autoinsprod.quote.apply request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:29:24
+ * @since 1.0, 2023-12-18 15:46:42
  */
 class AlipayInsAutoAutoinsprodQuoteApplyRequest
 {

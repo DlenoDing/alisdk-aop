@@ -1,5 +1,6 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ssdata.dataservice.risk.alixiaohao.query request
  *

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pcredit.huabei.auth.order.close request
  *
  * @author auto create
- * @since 1.0, 2021-10-27 10:12:55
+ * @since 1.0, 2022-11-14 16:35:57
  */
 class AlipayPcreditHuabeiAuthOrderCloseRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.antest.applist.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:29:12
+ * @since 1.0, 2023-08-21 02:37:41
  */
 class AlipayCommerceAntestApplistQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.offlinepay.record.verify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:55:46
+ * @since 1.0, 2023-08-21 04:38:14
  */
 class AlipayCommerceTransportOfflinepayRecordVerifyRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.trade.repaybill.order.close request
  *
  * @author auto create
- * @since 1.0, 2020-10-09 11:26:19
+ * @since 1.0, 2023-08-20 18:45:55
  */
 class AlipayTradeRepaybillOrderCloseRequest
 {

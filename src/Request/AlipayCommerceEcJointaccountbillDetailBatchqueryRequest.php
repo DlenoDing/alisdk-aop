@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.ec.jointaccountbill.detail.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-07-22 09:48:32
+ * @since 1.0, 2024-04-01 23:17:22
  */
 class AlipayCommerceEcJointaccountbillDetailBatchqueryRequest
 {

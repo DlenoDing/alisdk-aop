@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.overseas.fund.institutionschoolinf.create request
  *
  * @author auto create
- * @since 1.0, 2021-08-09 15:03:33
+ * @since 1.0, 2024-03-01 16:27:39
  */
 class AlipayOverseasFundInstitutionschoolinfCreateRequest
 {

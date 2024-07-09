@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.sp.operation.qrcode.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-12 15:24:27
+ * @since 1.0, 2024-03-01 16:29:18
  */
 class AlipayOpenSpOperationQrcodeQueryRequest
 {

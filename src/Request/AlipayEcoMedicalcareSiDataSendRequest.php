@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.medicalcare.si.data.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:47:25
+ * @since 1.0, 2024-05-14 10:07:00
  */
 class AlipayEcoMedicalcareSiDataSendRequest
 {

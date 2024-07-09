@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.prod.antlescenter.esignresult.query request
  *
  * @author auto create
- * @since 1.0, 2022-04-21 15:10:53
+ * @since 1.0, 2024-02-27 15:06:02
  */
 class AlipayBossProdAntlescenterEsignresultQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.public.advert.create request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 20:58:46
+ * @since 1.0, 2023-09-11 17:10:10
  */
 class AlipayOpenPublicAdvertCreateRequest
 {

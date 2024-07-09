@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.sp.operation.auth.add request
  *
  * @author auto create
- * @since 1.0, 2020-12-30 10:36:21
+ * @since 1.0, 2023-09-04 00:06:05
  */
 class AlipayOpenSpOperationAuthAddRequest
 {

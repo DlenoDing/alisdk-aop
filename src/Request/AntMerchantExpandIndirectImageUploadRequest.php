@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.indirect.image.upload request
  *
  * @author auto create
- * @since 1.0, 2021-09-22 18:41:50
+ * @since 1.0, 2024-04-23 21:51:00
  */
 class AntMerchantExpandIndirectImageUploadRequest
 {

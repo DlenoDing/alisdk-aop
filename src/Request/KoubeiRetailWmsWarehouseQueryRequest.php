@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.retail.wms.warehouse.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:57
+ * @since 1.0, 2024-03-01 16:27:37
  */
 class KoubeiRetailWmsWarehouseQueryRequest
 {

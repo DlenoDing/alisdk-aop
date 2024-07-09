@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.community.pubkey.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:34:26
+ * @since 1.0, 2023-09-04 01:50:07
  */
 class AlipayEbppCommunityPubkeyQueryRequest
 {

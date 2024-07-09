@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.edu.kt.zftschool.modify request
  *
  * @author auto create
- * @since 1.0, 2022-09-05 20:43:11
+ * @since 1.0, 2024-03-01 16:29:05
  */
 class AlipayEcoEduKtZftschoolModifyRequest
 {

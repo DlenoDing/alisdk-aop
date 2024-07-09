@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.ec.voucher.summary.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-22 10:01:49
+ * @since 1.0, 2024-04-01 22:59:06
  */
 class AlipayCommerceEcVoucherSummaryQueryRequest
 {

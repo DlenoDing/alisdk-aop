@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.trans.app.consult request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:03:28
+ * @since 1.0, 2023-09-03 23:14:24
  */
 class AlipayFundTransAppConsultRequest
 {

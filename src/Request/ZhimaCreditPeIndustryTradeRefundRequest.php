@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.pe.industry.trade.refund request
  *
  * @author auto create
- * @since 1.0, 2021-03-12 10:52:47
+ * @since 1.0, 2023-08-21 01:05:53
  */
 class ZhimaCreditPeIndustryTradeRefundRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.base.contentlib.standardcontent.send request
  *
  * @author auto create
- * @since 1.0, 2021-01-18 20:51:40
+ * @since 1.0, 2023-08-23 20:08:29
  */
 class AlipaySocialBaseContentlibStandardcontentSendRequest
 {

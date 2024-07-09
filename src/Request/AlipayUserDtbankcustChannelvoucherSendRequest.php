@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.dtbankcust.channelvoucher.send request
  *
  * @author auto create
- * @since 1.0, 2022-07-19 15:39:29
+ * @since 1.0, 2024-04-01 11:31:59
  */
 class AlipayUserDtbankcustChannelvoucherSendRequest
 {

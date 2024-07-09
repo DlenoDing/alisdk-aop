@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.flexiblestaffing.riskconsult.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-22 11:21:46
+ * @since 1.0, 2024-03-01 16:27:42
  */
 class AlipayUserFlexiblestaffingRiskconsultQueryRequest
 {

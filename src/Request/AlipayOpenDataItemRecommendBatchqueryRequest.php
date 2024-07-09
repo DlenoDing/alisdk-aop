@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.data.item.recommend.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-04-17 13:55:42
+ * @since 1.0, 2023-09-04 00:29:39
  */
 class AlipayOpenDataItemRecommendBatchqueryRequest
 {

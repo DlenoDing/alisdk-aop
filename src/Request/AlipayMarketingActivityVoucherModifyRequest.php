@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.activity.voucher.modify request
  *
  * @author auto create
- * @since 1.0, 2022-08-15 14:49:39
+ * @since 1.0, 2024-04-23 21:51:00
  */
 class AlipayMarketingActivityVoucherModifyRequest
 {

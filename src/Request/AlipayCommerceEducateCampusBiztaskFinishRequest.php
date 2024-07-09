@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.educate.campus.biztask.finish request
  *
  * @author auto create
- * @since 1.0, 2021-12-17 15:15:37
+ * @since 1.0, 2023-06-12 14:34:19
  */
 class AlipayCommerceEducateCampusBiztaskFinishRequest
 {

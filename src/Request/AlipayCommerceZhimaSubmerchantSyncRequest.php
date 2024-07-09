@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.zhima.submerchant.sync request
  *
  * @author auto create
- * @since 1.0, 2022-09-13 10:56:49
+ * @since 1.0, 2023-05-31 21:26:54
  */
 class AlipayCommerceZhimaSubmerchantSyncRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.invoice.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:25:39
+ * @since 1.0, 2023-08-23 19:56:46
  */
 class AlipayBossFncGfsettleprodInvoiceCancelRequest
 {

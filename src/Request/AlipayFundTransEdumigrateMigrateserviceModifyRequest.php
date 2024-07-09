@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.trans.edumigrate.migrateservice.modify request
  *
  * @author auto create
- * @since 1.0, 2020-12-31 11:43:52
+ * @since 1.0, 2023-05-29 23:48:00
  */
 class AlipayFundTransEdumigrateMigrateserviceModifyRequest
 {

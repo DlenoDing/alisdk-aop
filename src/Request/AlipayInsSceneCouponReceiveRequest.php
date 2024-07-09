@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.coupon.receive request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:07
+ * @since 1.0, 2024-03-01 16:25:21
  */
 class AlipayInsSceneCouponReceiveRequest
 {

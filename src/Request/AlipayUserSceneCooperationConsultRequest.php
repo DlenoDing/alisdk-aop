@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.scene.cooperation.consult request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:09
+ * @since 1.0, 2024-03-01 16:28:52
  */
 class AlipayUserSceneCooperationConsultRequest
 {

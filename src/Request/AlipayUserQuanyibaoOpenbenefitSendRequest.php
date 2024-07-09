@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.quanyibao.openbenefit.send request
  *
  * @author auto create
- * @since 1.0, 2022-04-15 10:26:41
+ * @since 1.0, 2024-03-27 08:53:03
  */
 class AlipayUserQuanyibaoOpenbenefitSendRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pay.codec.applepay.credentials.get request
  *
  * @author auto create
- * @since 1.0, 2020-08-20 20:11:59
+ * @since 1.0, 2023-08-21 03:06:43
  */
 class AlipayPayCodecApplepayCredentialsGetRequest
 {

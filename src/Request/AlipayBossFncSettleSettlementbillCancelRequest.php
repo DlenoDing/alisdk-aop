@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.fnc.settle.settlementbill.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:26:13
+ * @since 1.0, 2023-08-21 02:23:13
  */
 class AlipayBossFncSettleSettlementbillCancelRequest
 {

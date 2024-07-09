@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.content.contentcount.set request
  *
  * @author auto create
- * @since 1.0, 2019-03-15 10:40:01
+ * @since 1.0, 2023-09-04 01:23:33
  */
 class KoubeiContentContentcountSetRequest
 {

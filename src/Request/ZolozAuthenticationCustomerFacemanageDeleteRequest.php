@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zoloz.authentication.customer.facemanage.delete request
  *
  * @author auto create
- * @since 1.0, 2020-02-26 17:16:37
+ * @since 1.0, 2024-03-01 16:29:00
  */
 class ZolozAuthenticationCustomerFacemanageDeleteRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.card.delete request
  *
  * @author auto create
- * @since 1.0, 2022-08-17 13:58:40
+ * @since 1.0, 2024-04-23 21:51:00
  */
 class AlipayMarketingCardDeleteRequest
 {

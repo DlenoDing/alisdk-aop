@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.operation.openbizmock.testauthtoken.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-16 21:16:44
+ * @since 1.0, 2023-09-03 23:21:42
  */
 class AlipayOpenOperationOpenbizmockTestauthtokenQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.medical.octoken.auth.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:05:05
+ * @since 1.0, 2023-05-31 00:31:57
  */
 class AlipayCommerceMedicalOctokenAuthQueryRequest
 {

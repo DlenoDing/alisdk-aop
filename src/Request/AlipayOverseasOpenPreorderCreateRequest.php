@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.overseas.open.preorder.create request
  *
  * @author auto create
- * @since 1.0, 2022-07-13 12:14:25
+ * @since 1.0, 2024-05-28 11:52:04
  */
 class AlipayOverseasOpenPreorderCreateRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.aliminiabilityprod.jsapi.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:53:40
+ * @since 1.0, 2024-03-01 16:28:51
  */
 class AlipayOpenMiniAliminiabilityprodJsapiModifyRequest
 {

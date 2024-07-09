@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.memberwallet.balancedetails.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-20 15:21:42
+ * @since 1.0, 2023-08-21 05:12:17
  */
 class AntMerchantMemberwalletBalancedetailsQueryRequest
 {

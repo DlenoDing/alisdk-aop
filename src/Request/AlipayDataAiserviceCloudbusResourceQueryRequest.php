@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.aiservice.cloudbus.resource.query request
  *
  * @author auto create
- * @since 1.0, 2020-10-21 10:33:34
+ * @since 1.0, 2023-08-23 21:05:26
  */
 class AlipayDataAiserviceCloudbusResourceQueryRequest
 {

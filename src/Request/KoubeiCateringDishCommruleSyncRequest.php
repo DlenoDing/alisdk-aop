@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.catering.dish.commrule.sync request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 10:25:23
+ * @since 1.0, 2023-09-04 02:04:33
  */
 class KoubeiCateringDishCommruleSyncRequest
 {

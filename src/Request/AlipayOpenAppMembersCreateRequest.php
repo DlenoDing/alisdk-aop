@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.app.members.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:36:25
+ * @since 1.0, 2024-04-23 21:50:59
  */
 class AlipayOpenAppMembersCreateRequest
 {

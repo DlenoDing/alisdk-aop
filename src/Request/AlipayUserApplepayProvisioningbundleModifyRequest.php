@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.applepay.provisioningbundle.modify request
  *
  * @author auto create
- * @since 1.0, 2020-05-29 10:26:48
+ * @since 1.0, 2023-05-31 00:28:44
  */
 class AlipayUserApplepayProvisioningbundleModifyRequest
 {

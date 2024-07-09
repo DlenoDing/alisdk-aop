@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.ep.lawsuit.record.get request
  *
  * @author auto create
- * @since 1.0, 2021-03-30 15:09:13
+ * @since 1.0, 2023-05-30 20:37:20
  */
 class ZhimaCreditEpLawsuitRecordGetRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.asset.point.voucherprod.benefittemplate.settle request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:56
+ * @since 1.0, 2024-05-27 13:57:34
  */
 class AlipayAssetPointVoucherprodBenefittemplateSettleRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.base.chat.ginv.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:04:45
+ * @since 1.0, 2023-08-24 22:55:11
  */
 class AlipaySocialBaseChatGinvSendRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.finance.yulibao.price.query request
  *
  * @author auto create
- * @since 1.0, 2021-02-02 15:47:27
+ * @since 1.0, 2023-08-23 21:06:48
  */
 class MybankFinanceYulibaoPriceQueryRequest
 {

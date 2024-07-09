@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.doctemplate.settingurl.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-26 15:29:36
+ * @since 1.0, 2023-09-11 19:54:09
  */
 class AlipayEcoDoctemplateSettingurlQueryRequest
 {

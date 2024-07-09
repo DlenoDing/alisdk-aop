@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.educate.campus.identity.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-25 16:58:13
+ * @since 1.0, 2024-03-01 16:34:25
  */
 class AlipayCommerceEducateCampusIdentityQueryRequest
 {

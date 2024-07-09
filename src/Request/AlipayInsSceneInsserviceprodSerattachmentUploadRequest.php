@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.insserviceprod.serattachment.upload request
  *
  * @author auto create
- * @since 1.0, 2020-10-28 16:43:13
+ * @since 1.0, 2023-11-16 13:56:49
  */
 class AlipayInsSceneInsserviceprodSerattachmentUploadRequest
 {
@@ -47,6 +48,11 @@ class AlipayInsSceneInsserviceprodSerattachmentUploadRequest
 	 * 文件类型
 	 **/
 	private $fileType;
+	
+	/** 
+	 * 文件的公网链接，机构可通过此链接向蚂蚁上传文件
+	 **/
+	private $fileUrl;
 	
 	/** 
 	 * 外部业务号
@@ -164,6 +170,17 @@ class AlipayInsSceneInsserviceprodSerattachmentUploadRequest
 	public function getFileType()
 	{
 		return $this->fileType;
+	}
+
+	public function setFileUrl($fileUrl)
+	{
+		$this->fileUrl = $fileUrl;
+		$this->apiParas["file_url"] = $fileUrl;
+	}
+
+	public function getFileUrl()
+	{
+		return $this->fileUrl;
 	}
 
 	public function setOutBizNo($outBizNo)

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.catering.order.info.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-07-01 16:26:26
+ * @since 1.0, 2023-05-30 21:22:58
  */
 class KoubeiCateringOrderInfoCancelRequest
 {

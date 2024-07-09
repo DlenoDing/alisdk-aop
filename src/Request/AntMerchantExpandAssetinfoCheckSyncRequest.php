@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.assetinfo.check.sync request
  *
  * @author auto create
- * @since 1.0, 2022-05-31 10:06:47
+ * @since 1.0, 2023-05-31 19:40:31
  */
 class AntMerchantExpandAssetinfoCheckSyncRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.instantdelivery.merchantshopstatus.modify request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 20:28:58
+ * @since 1.0, 2023-08-20 16:54:50
  */
 class AlipayOpenInstantdeliveryMerchantshopstatusModifyRequest
 {

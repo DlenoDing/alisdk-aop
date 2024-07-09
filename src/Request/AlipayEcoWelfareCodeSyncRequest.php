@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.welfare.code.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:58:22
+ * @since 1.0, 2024-03-01 16:28:45
  */
 class AlipayEcoWelfareCodeSyncRequest
 {

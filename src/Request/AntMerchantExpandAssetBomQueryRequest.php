@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.asset.bom.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-23 22:31:38
+ * @since 1.0, 2024-06-13 10:16:01
  */
 class AntMerchantExpandAssetBomQueryRequest
 {

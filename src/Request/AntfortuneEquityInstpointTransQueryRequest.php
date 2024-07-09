@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: antfortune.equity.instpoint.trans.query request
  *
  * @author auto create
- * @since 1.0, 2019-05-01 11:20:03
+ * @since 1.0, 2023-08-20 18:02:41
  */
 class AntfortuneEquityInstpointTransQueryRequest
 {

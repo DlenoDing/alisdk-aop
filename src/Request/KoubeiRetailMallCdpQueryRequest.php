@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.retail.mall.cdp.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 11:15:03
+ * @since 1.0, 2023-09-04 02:05:29
  */
 class KoubeiRetailMallCdpQueryRequest
 {

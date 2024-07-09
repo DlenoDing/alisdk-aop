@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.base.mcomment.footprint.send request
  *
  * @author auto create
- * @since 1.0, 2020-03-23 15:05:10
+ * @since 1.0, 2023-03-20 21:01:39
  */
 class AlipaySocialBaseMcommentFootprintSendRequest
 {

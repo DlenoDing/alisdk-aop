@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.craftsman.data.work.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:23:54
+ * @since 1.0, 2023-08-21 02:46:30
  */
 class KoubeiCraftsmanDataWorkDeleteRequest
 {

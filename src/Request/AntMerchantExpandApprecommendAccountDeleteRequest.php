@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.apprecommend.account.delete request
  *
  * @author auto create
- * @since 1.0, 2022-07-13 11:21:50
+ * @since 1.0, 2024-01-19 14:31:56
  */
 class AntMerchantExpandApprecommendAccountDeleteRequest
 {

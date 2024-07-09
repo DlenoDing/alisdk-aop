@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.mall.scanpurchase.discountdetail.modify request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 11:05:44
+ * @since 1.0, 2023-09-03 23:51:51
  */
 class KoubeiMallScanpurchaseDiscountdetailModifyRequest
 {

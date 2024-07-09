@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.invoice.expenserules.projectrule.create request
  *
  * @author auto create
- * @since 1.0, 2022-07-29 17:01:23
+ * @since 1.0, 2024-06-19 18:09:15
  */
 class AlipayEbppInvoiceExpenserulesProjectruleCreateRequest
 {

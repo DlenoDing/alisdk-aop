@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.receipt.sync request
  *
  * @author auto create
- * @since 1.0, 2022-09-16 09:52:02
+ * @since 1.0, 2024-04-22 16:00:44
  */
 class AlipayCommerceReceiptSyncRequest
 {

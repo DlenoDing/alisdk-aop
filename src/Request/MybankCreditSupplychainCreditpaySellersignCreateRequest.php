@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.supplychain.creditpay.sellersign.create request
  *
  * @author auto create
- * @since 1.0, 2020-03-04 11:21:07
+ * @since 1.0, 2023-09-04 00:16:46
  */
 class MybankCreditSupplychainCreditpaySellersignCreateRequest
 {

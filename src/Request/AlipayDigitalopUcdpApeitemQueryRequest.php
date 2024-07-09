@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.digitalop.ucdp.apeitem.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-05 14:46:41
+ * @since 1.0, 2024-03-01 16:28:00
  */
 class AlipayDigitalopUcdpApeitemQueryRequest
 {

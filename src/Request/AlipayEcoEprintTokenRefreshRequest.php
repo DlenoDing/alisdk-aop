@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.eprint.token.refresh request
  *
  * @author auto create
- * @since 1.0, 2019-09-06 17:54:38
+ * @since 1.0, 2023-08-23 21:36:27
  */
 class AlipayEcoEprintTokenRefreshRequest
 {

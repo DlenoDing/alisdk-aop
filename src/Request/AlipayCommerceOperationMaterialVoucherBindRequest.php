@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.operation.material.voucher.bind request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:51:39
+ * @since 1.0, 2024-04-29 10:22:52
  */
 class AlipayCommerceOperationMaterialVoucherBindRequest
 {

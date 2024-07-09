@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.catering.cook.condition.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 10:39:39
+ * @since 1.0, 2023-08-20 16:53:14
  */
 class KoubeiCateringCookConditionBatchqueryRequest
 {

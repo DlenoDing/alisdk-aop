@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.cityservice.openevent.appstatus.modify request
  *
  * @author auto create
- * @since 1.0, 2022-04-20 15:46:39
+ * @since 1.0, 2023-08-23 20:26:37
  */
 class AlipayEcoCityserviceOpeneventAppstatusModifyRequest
 {

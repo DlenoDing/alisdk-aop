@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.fnc.antbudget.groupbudget.refund request
  *
  * @author auto create
- * @since 1.0, 2021-08-06 10:20:22
+ * @since 1.0, 2023-05-29 21:55:22
  */
 class AlipayBossFncAntbudgetGroupbudgetRefundRequest
 {

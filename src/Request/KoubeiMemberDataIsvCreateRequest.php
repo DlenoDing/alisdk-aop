@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.member.data.isv.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:32:44
+ * @since 1.0, 2023-05-31 06:01:17
  */
 class KoubeiMemberDataIsvCreateRequest
 {

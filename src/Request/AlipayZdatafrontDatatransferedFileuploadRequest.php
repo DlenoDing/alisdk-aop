@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.zdatafront.datatransfered.fileupload request
  *
  * @author auto create
- * @since 1.0, 2021-09-29 16:32:35
+ * @since 1.0, 2023-08-21 01:53:28
  */
 class AlipayZdatafrontDatatransferedFileuploadRequest
 {

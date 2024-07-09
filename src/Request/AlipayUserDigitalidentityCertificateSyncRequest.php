@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.digitalidentity.certificate.sync request
  *
  * @author auto create
- * @since 1.0, 2022-06-23 13:21:42
+ * @since 1.0, 2023-09-14 22:21:43
  */
 class AlipayUserDigitalidentityCertificateSyncRequest
 {

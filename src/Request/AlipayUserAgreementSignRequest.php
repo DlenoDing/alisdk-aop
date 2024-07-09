@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.agreement.sign request
  *
  * @author auto create
- * @since 1.0, 2021-10-18 11:35:52
+ * @since 1.0, 2024-03-19 17:59:16
  */
 class AlipayUserAgreementSignRequest
 {

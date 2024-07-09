@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.fnc.gfacceptance.bill.accept request
  *
  * @author auto create
- * @since 1.0, 2022-06-30 22:24:52
+ * @since 1.0, 2024-03-22 11:38:15
  */
 class AlipayBossFncGfacceptanceBillAcceptRequest
 {

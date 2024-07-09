@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.app.dedf.dd.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:35:04
+ * @since 1.0, 2023-05-31 22:33:55
  */
 class AlipayOpenAppDedfDdQueryRequest
 {

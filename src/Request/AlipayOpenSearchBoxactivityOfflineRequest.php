@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.search.boxactivity.offline request
  *
  * @author auto create
- * @since 1.0, 2022-08-09 11:08:22
+ * @since 1.0, 2024-04-28 10:37:31
  */
 class AlipayOpenSearchBoxactivityOfflineRequest
 {

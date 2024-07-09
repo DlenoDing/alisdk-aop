@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.identitypay.organization.unsign request
  *
  * @author auto create
- * @since 1.0, 2022-04-11 17:06:44
+ * @since 1.0, 2023-09-19 17:26:16
  */
 class AlipayFundIdentitypayOrganizationUnsignRequest
 {

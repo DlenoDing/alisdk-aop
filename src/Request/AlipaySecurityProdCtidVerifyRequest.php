@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.prod.ctid.verify request
  *
  * @author auto create
- * @since 1.0, 2022-07-18 14:43:40
+ * @since 1.0, 2024-03-01 16:27:36
  */
 class AlipaySecurityProdCtidVerifyRequest
 {

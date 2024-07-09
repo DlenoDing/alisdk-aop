@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.digitalmgmt.landcore.landcoretpsp.cbbpm.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:02:53
+ * @since 1.0, 2024-04-11 19:41:59
  */
 class AlipayDigitalmgmtLandcoreLandcoretpspCbbpmSyncRequest
 {

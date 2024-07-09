@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.catering.dish.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 10:39:08
+ * @since 1.0, 2023-08-21 02:24:53
  */
 class KoubeiCateringDishQueryRequest
 {

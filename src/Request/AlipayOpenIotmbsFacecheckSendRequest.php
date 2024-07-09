@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.iotmbs.facecheck.send request
  *
  * @author auto create
- * @since 1.0, 2022-06-15 19:01:43
+ * @since 1.0, 2024-03-01 16:27:41
  */
 class AlipayOpenIotmbsFacecheckSendRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.ai.cv.tfjs.modelversion.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-04-26 20:47:25
+ * @since 1.0, 2023-08-21 04:26:02
  */
 class AnttechAiCvTfjsModelversionBatchqueryRequest
 {

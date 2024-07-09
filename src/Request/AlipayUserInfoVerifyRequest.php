@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.info.verify request
  *
  * @author auto create
- * @since 1.0, 2019-03-15 15:25:00
+ * @since 1.0, 2024-06-17 20:57:03
  */
 class AlipayUserInfoVerifyRequest
 {

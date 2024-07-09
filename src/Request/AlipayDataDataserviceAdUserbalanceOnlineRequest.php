@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.dataservice.ad.userbalance.online request
  *
  * @author auto create
- * @since 1.0, 2019-11-01 10:52:57
+ * @since 1.0, 2023-08-21 02:33:07
  */
 class AlipayDataDataserviceAdUserbalanceOnlineRequest
 {

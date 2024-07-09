@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.inner.relationconfig.modify request
  *
  * @author auto create
- * @since 1.0, 2022-08-05 14:46:41
+ * @since 1.0, 2023-08-21 01:59:25
  */
 class AlipayOpenMiniInnerRelationconfigModifyRequest
 {

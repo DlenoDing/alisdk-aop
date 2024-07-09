@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.application.issue.confirm request
  *
  * @author auto create
- * @since 1.0, 2019-08-28 14:20:47
+ * @since 1.0, 2023-05-30 21:57:49
  */
 class AlipayInsSceneApplicationIssueConfirmRequest
 {

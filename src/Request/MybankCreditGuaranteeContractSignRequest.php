@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.guarantee.contract.sign request
  *
  * @author auto create
- * @since 1.0, 2022-02-15 15:26:16
+ * @since 1.0, 2024-03-01 16:29:04
  */
 class MybankCreditGuaranteeContractSignRequest
 {

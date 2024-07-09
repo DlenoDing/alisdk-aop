@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.facepay.bill.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-11 16:34:08
+ * @since 1.0, 2024-03-01 16:29:55
  */
 class AlipayEbppFacepayBillQueryRequest
 {

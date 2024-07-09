@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.trade.wap.pay request
  *
  * @author auto create
- * @since 1.0, 2022-09-02 16:05:46
+ * @since 1.0, 2024-05-28 12:27:06
  */
 class AlipayTradeWapPayRequest
 {

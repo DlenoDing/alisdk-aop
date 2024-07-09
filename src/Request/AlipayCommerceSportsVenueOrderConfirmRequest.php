@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.sports.venue.order.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-11-11 18:15:34
+ * @since 1.0, 2023-05-31 22:41:51
  */
 class AlipayCommerceSportsVenueOrderConfirmRequest
 {

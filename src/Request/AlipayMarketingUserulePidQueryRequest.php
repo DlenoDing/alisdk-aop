@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.userule.pid.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 20:13:03
+ * @since 1.0, 2023-11-01 14:32:32
  */
 class AlipayMarketingUserulePidQueryRequest
 {

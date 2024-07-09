@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.iotvsp.orguserfaceout.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-27 14:36:42
+ * @since 1.0, 2023-09-18 14:08:41
  */
 class AlipayOpenIotvspOrguserfaceoutQueryRequest
 {

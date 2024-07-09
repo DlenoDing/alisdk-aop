@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.marketing.data.bizadviser.myreport.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-24 14:22:37
+ * @since 1.0, 2023-05-31 06:29:11
  */
 class KoubeiMarketingDataBizadviserMyreportQueryRequest
 {

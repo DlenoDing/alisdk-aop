@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.bail.collection.finish request
  *
  * @author auto create
- * @since 1.0, 2021-10-12 14:32:46
+ * @since 1.0, 2024-03-01 16:27:59
  */
 class AlipayFundBailCollectionFinishRequest
 {

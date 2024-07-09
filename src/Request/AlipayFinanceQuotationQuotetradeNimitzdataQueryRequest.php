@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.finance.quotation.quotetrade.nimitzdata.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-19 21:16:53
+ * @since 1.0, 2023-08-21 05:59:46
  */
 class AlipayFinanceQuotationQuotetradeNimitzdataQueryRequest
 {

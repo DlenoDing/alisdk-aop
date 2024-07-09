@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.member.citycard.sync request
  *
  * @author auto create
- * @since 1.0, 2022-04-01 11:16:39
+ * @since 1.0, 2024-03-27 08:52:50
  */
 class AlipayUserMemberCitycardSyncRequest
 {

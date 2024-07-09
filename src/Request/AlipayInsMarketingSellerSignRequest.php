@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.marketing.seller.sign request
  *
  * @author auto create
- * @since 1.0, 2019-08-26 16:45:15
+ * @since 1.0, 2023-08-21 04:56:42
  */
 class AlipayInsMarketingSellerSignRequest
 {

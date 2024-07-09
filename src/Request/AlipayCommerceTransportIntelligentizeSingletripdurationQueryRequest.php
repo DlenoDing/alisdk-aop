@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.intelligentize.singletripduration.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-18 17:30:04
+ * @since 1.0, 2023-05-31 00:45:10
  */
 class AlipayCommerceTransportIntelligentizeSingletripdurationQueryRequest
 {

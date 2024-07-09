@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.gamecenter.log.submit request
  *
  * @author auto create
- * @since 1.0, 2022-08-25 20:31:46
+ * @since 1.0, 2024-03-27 08:52:21
  */
 class AlipayUserGamecenterLogSubmitRequest
 {

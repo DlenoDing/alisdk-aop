@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.ipsponsor.consumegold.sign request
  *
  * @author auto create
- * @since 1.0, 2022-08-15 11:17:12
+ * @since 1.0, 2023-08-23 20:30:00
  */
 class AlipayOpenIpsponsorConsumegoldSignRequest
 {

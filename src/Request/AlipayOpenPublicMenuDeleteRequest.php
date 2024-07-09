@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.public.menu.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:29:30
+ * @since 1.0, 2023-08-21 01:06:59
  */
 class AlipayOpenPublicMenuDeleteRequest
 {

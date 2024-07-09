@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pcredit.huabei.goods.category.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-11 18:46:39
+ * @since 1.0, 2023-08-21 01:09:43
  */
 class AlipayPcreditHuabeiGoodsCategoryQueryRequest
 {

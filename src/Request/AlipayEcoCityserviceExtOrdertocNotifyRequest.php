@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.cityservice.ext.ordertoc.notify request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 15:06:54
+ * @since 1.0, 2023-12-07 13:29:39
  */
 class AlipayEcoCityserviceExtOrdertocNotifyRequest
 {

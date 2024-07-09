@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fincore.compliance.sign.status.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-29 14:38:14
+ * @since 1.0, 2023-08-23 19:45:00
  */
 class AlipayFincoreComplianceSignStatusQueryRequest
 {

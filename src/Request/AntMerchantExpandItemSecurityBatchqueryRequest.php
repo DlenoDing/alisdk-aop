@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.item.security.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-01-15 11:35:13
+ * @since 1.0, 2023-08-24 22:54:23
  */
 class AntMerchantExpandItemSecurityBatchqueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.merchant.department.batch.bind request
  *
  * @author auto create
- * @since 1.0, 2022-06-17 16:47:40
+ * @since 1.0, 2023-08-21 05:02:49
  */
 class KoubeiMerchantDepartmentBatchBindRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.insserviceprod.serattachment.delete request
  *
  * @author auto create
- * @since 1.0, 2021-03-02 13:30:16
+ * @since 1.0, 2023-08-21 02:51:21
  */
 class AlipayInsSceneInsserviceprodSerattachmentDeleteRequest
 {

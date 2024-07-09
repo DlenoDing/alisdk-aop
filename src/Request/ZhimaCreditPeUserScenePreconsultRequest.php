@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.pe.user.scene.preconsult request
  *
  * @author auto create
- * @since 1.0, 2021-03-18 11:30:17
+ * @since 1.0, 2024-03-01 16:26:16
  */
 class ZhimaCreditPeUserScenePreconsultRequest
 {

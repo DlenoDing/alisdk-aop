@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.trade.customs.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-01 15:28:56
+ * @since 1.0, 2023-09-12 06:45:55
  */
 class AlipayTradeCustomsQueryRequest
 {

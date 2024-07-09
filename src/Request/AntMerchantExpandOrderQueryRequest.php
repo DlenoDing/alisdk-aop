@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.order.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-25 14:12:23
+ * @since 1.0, 2024-06-18 10:37:07
  */
 class AntMerchantExpandOrderQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.dataservice.ad.conversion.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-06-09 17:15:21
+ * @since 1.0, 2023-08-21 01:59:03
  */
 class AlipayDataDataserviceAdConversionBatchqueryRequest
 {

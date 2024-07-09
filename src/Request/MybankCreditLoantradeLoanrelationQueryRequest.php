@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.loantrade.loanrelation.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-19 15:44:03
+ * @since 1.0, 2023-09-04 00:57:07
  */
 class MybankCreditLoantradeLoanrelationQueryRequest
 {

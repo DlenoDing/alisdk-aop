@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.sceneprod.repay.deputy.apply request
  *
  * @author auto create
- * @since 1.0, 2021-04-27 14:37:52
+ * @since 1.0, 2023-09-03 23:34:56
  */
 class MybankCreditSceneprodRepayDeputyApplyRequest
 {

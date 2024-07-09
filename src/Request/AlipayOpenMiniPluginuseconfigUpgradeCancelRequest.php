@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.pluginuseconfig.upgrade.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-02-27 11:06:37
+ * @since 1.0, 2024-04-23 10:19:06
  */
 class AlipayOpenMiniPluginuseconfigUpgradeCancelRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.fee.adjust.apply request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:48:36
+ * @since 1.0, 2024-03-01 16:27:56
  */
 class AlipayOpenFeeAdjustApplyRequest
 {
@@ -22,6 +23,11 @@ class AlipayOpenFeeAdjustApplyRequest
 	 * 其他支付方式费率证明或者业务补充说明，最小5KB，图片格式必须为：png、bmp、gif、jpg、jpeg
 	 **/
 	private $attachment;
+	
+	/** 
+	 * 证件有效期，格式：yyyy-MM-dd，长期有效传入：9999-12-31
+	 **/
+	private $certDateLimitation;
 	
 	/** 
 	 * 对应证件类型（certType）的证件号，如营业执照为营业执照号
@@ -121,6 +127,17 @@ class AlipayOpenFeeAdjustApplyRequest
 	public function getAttachment()
 	{
 		return $this->attachment;
+	}
+
+	public function setCertDateLimitation($certDateLimitation)
+	{
+		$this->certDateLimitation = $certDateLimitation;
+		$this->apiParas["cert_date_limitation"] = $certDateLimitation;
+	}
+
+	public function getCertDateLimitation()
+	{
+		return $this->certDateLimitation;
 	}
 
 	public function setCertNo($certNo)

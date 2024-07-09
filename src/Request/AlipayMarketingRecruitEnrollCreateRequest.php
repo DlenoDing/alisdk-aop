@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.recruit.enroll.create request
  *
  * @author auto create
- * @since 1.0, 2022-09-16 11:51:52
+ * @since 1.0, 2024-04-23 21:51:00
  */
 class AlipayMarketingRecruitEnrollCreateRequest
 {

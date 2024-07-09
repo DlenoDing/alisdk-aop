@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.merchant.meterial.upload request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:34:37
+ * @since 1.0, 2023-05-29 22:28:58
  */
 class AlipayEbppMerchantMeterialUploadRequest
 {

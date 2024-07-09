@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.sports.greenenergy.check request
  *
  * @author auto create
- * @since 1.0, 2022-07-15 10:36:44
+ * @since 1.0, 2024-03-01 16:28:32
  */
 class AlipayCommerceSportsGreenenergyCheckRequest
 {

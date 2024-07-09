@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.mall.circle.recommenditem.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:01
+ * @since 1.0, 2024-03-01 16:28:34
  */
 class KoubeiMallCircleRecommenditemQueryRequest
 {

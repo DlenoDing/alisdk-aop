@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.order.securitydigest.consumer.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-06-20 10:58:10
+ * @since 1.0, 2023-08-23 20:04:24
  */
 class AlipayMerchantOrderSecuritydigestConsumerBatchqueryRequest
 {

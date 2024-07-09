@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.inspect.create request
  *
  * @author auto create
- * @since 1.0, 2019-03-20 21:45:00
+ * @since 1.0, 2023-08-24 21:46:06
  */
 class AlipayEbppInspectCreateRequest
 {

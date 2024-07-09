@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.receipt.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-01-13 19:40:42
+ * @since 1.0, 2023-05-31 00:00:29
  */
 class AlipayCommerceReceiptBatchqueryRequest
 {

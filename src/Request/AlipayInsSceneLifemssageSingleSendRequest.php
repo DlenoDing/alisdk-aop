@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.lifemssage.single.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:10:44
+ * @since 1.0, 2024-03-20 11:18:30
  */
 class AlipayInsSceneLifemssageSingleSendRequest
 {

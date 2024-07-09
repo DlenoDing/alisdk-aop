@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.overseas.secondmerchant.maintain.querystatus request
  *
  * @author auto create
- * @since 1.0, 2021-10-25 15:25:32
+ * @since 1.0, 2023-06-19 14:00:58
  */
 class AlipayOverseasSecondmerchantMaintainQuerystatusRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.auth.resauth.check request
  *
  * @author auto create
- * @since 1.0, 2022-05-13 17:15:39
+ * @since 1.0, 2023-05-30 22:56:14
  */
 class AlipayOpenAuthResauthCheckRequest
 {

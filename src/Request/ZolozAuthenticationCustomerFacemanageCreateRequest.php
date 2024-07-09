@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zoloz.authentication.customer.facemanage.create request
  *
  * @author auto create
- * @since 1.0, 2021-10-26 09:28:14
+ * @since 1.0, 2024-03-01 16:27:42
  */
 class ZolozAuthenticationCustomerFacemanageCreateRequest
 {

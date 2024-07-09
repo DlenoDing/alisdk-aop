@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.account.cashpool.allocaterule.pay request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:19:12
+ * @since 1.0, 2023-05-30 20:13:28
  */
 class AlipayAccountCashpoolAllocaterulePayRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.activity.ordervoucher.disassociate request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 22:06:49
+ * @since 1.0, 2024-03-01 16:29:02
  */
 class AlipayMarketingActivityOrdervoucherDisassociateRequest
 {

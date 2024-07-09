@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.iservice.cognitive.classification.category.sync request
  *
  * @author auto create
- * @since 1.0, 2019-07-22 12:50:01
+ * @since 1.0, 2023-08-21 03:03:02
  */
 class AlipayIserviceCognitiveClassificationCategorySyncRequest
 {

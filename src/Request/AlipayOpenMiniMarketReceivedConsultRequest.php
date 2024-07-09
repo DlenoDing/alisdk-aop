@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.market.received.consult request
  *
  * @author auto create
- * @since 1.0, 2022-06-08 10:36:44
+ * @since 1.0, 2024-04-01 23:28:16
  */
 class AlipayOpenMiniMarketReceivedConsultRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.bizorder.create request
  *
  * @author auto create
- * @since 1.0, 2020-08-27 11:50:21
+ * @since 1.0, 2024-03-01 16:28:46
  */
 class AlipayFundBizorderCreateRequest
 {

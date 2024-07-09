@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ssdata.dataservice.metainfo.sync request
  *
  * @author auto create
- * @since 1.0, 2020-12-31 13:50:44
+ * @since 1.0, 2023-09-04 01:23:55
  */
 class SsdataDataserviceMetainfoSyncRequest
 {

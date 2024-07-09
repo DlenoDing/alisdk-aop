@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.forest.tree.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:10:27
+ * @since 1.0, 2024-03-14 17:04:12
  */
 class AlipaySocialForestTreeQueryRequest
 {

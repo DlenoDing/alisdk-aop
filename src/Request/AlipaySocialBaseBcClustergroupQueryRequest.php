@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.base.bc.clustergroup.query request
  *
  * @author auto create
- * @since 1.0, 2022-02-21 14:22:28
+ * @since 1.0, 2024-03-27 08:49:18
  */
 class AlipaySocialBaseBcClustergroupQueryRequest
 {

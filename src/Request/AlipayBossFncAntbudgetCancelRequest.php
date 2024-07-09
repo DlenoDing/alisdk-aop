@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.fnc.antbudget.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-05-19 14:26:40
+ * @since 1.0, 2023-05-31 07:04:43
  */
 class AlipayBossFncAntbudgetCancelRequest
 {

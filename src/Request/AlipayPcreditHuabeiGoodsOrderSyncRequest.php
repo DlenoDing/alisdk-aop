@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pcredit.huabei.goods.order.sync request
  *
  * @author auto create
- * @since 1.0, 2022-08-11 18:46:28
+ * @since 1.0, 2023-08-20 17:05:45
  */
 class AlipayPcreditHuabeiGoodsOrderSyncRequest
 {

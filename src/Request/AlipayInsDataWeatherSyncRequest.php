@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.data.weather.sync request
  *
  * @author auto create
- * @since 1.0, 2022-03-28 17:12:34
+ * @since 1.0, 2023-08-21 04:17:27
  */
 class AlipayInsDataWeatherSyncRequest
 {

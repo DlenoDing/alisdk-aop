@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.card.formtemplate.set request
  *
  * @author auto create
- * @since 1.0, 2022-08-17 13:54:28
+ * @since 1.0, 2024-04-23 21:51:00
  */
 class AlipayMarketingCardFormtemplateSetRequest
 {

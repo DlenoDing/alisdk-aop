@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.iservice.cognitive.classification.object.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:13
+ * @since 1.0, 2024-05-14 16:46:05
  */
 class AlipayIserviceCognitiveClassificationObjectQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.agreement.userverify.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-05 21:53:46
+ * @since 1.0, 2024-03-01 14:29:56
  */
 class AlipayUserAgreementUserverifyQueryRequest
 {

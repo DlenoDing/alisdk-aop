@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.instantdelivery.merchantagreement.sign request
  *
  * @author auto create
- * @since 1.0, 2020-12-02 14:12:30
+ * @since 1.0, 2024-04-01 23:03:42
  */
 class AlipayOpenInstantdeliveryMerchantagreementSignRequest
 {

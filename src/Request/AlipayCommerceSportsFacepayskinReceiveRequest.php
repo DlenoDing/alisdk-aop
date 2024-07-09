@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.sports.facepayskin.receive request
  *
  * @author auto create
- * @since 1.0, 2021-12-14 15:25:35
+ * @since 1.0, 2023-08-23 21:36:46
  */
 class AlipayCommerceSportsFacepayskinReceiveRequest
 {

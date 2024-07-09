@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.operation.timescard.item.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:17:00
+ * @since 1.0, 2024-04-10 16:33:16
  */
 class AlipayCommerceOperationTimescardItemBatchqueryRequest
 {

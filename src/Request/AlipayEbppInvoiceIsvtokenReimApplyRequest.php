@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.invoice.isvtoken.reim.apply request
  *
  * @author auto create
- * @since 1.0, 2021-02-02 10:26:25
+ * @since 1.0, 2023-09-11 17:42:33
  */
 class AlipayEbppInvoiceIsvtokenReimApplyRequest
 {

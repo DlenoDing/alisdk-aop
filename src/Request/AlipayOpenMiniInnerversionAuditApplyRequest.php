@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.innerversion.audit.apply request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:02:24
+ * @since 1.0, 2023-08-20 16:42:12
  */
 class AlipayOpenMiniInnerversionAuditApplyRequest
 {

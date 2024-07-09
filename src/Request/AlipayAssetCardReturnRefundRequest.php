@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.asset.card.return.refund request
  *
  * @author auto create
- * @since 1.0, 2020-04-20 13:32:38
+ * @since 1.0, 2024-05-27 13:58:45
  */
 class AlipayAssetCardReturnRefundRequest
 {

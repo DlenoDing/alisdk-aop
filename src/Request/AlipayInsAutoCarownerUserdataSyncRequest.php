@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.auto.carowner.userdata.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:06:06
+ * @since 1.0, 2023-05-29 20:37:18
  */
 class AlipayInsAutoCarownerUserdataSyncRequest
 {

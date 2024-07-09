@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.alipaypoint.budgetlib.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-07 16:47:50
+ * @since 1.0, 2024-01-16 10:57:11
  */
 class AlipayUserAlipaypointBudgetlibQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.iot.device.verify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:24:00
+ * @since 1.0, 2024-03-01 16:27:56
  */
 class AlipayMerchantIotDeviceVerifyRequest
 {

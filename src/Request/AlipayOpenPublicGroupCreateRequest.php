@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.public.group.create request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 20:59:12
+ * @since 1.0, 2023-09-11 18:54:47
  */
 class AlipayOpenPublicGroupCreateRequest
 {

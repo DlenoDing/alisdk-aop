@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.tips.statistic.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-14 16:36:47
+ * @since 1.0, 2024-01-19 15:37:02
  */
 class AlipayOpenMiniTipsStatisticQueryRequest
 {

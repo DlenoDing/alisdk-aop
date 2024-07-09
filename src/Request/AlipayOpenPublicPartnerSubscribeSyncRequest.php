@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.public.partner.subscribe.sync request
  *
  * @author auto create
- * @since 1.0, 2022-08-05 19:30:54
+ * @since 1.0, 2023-05-30 20:21:09
  */
 class AlipayOpenPublicPartnerSubscribeSyncRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.payment.trade.qrcode.create request
  *
  * @author auto create
- * @since 1.0, 2021-09-27 10:07:50
+ * @since 1.0, 2023-08-23 21:31:44
  */
 class MybankPaymentTradeQrcodeCreateRequest
 {

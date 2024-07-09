@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.flow.qualification.detect request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:19
+ * @since 1.0, 2023-01-05 11:30:26
  */
 class AlipayEbppFlowQualificationDetectRequest
 {

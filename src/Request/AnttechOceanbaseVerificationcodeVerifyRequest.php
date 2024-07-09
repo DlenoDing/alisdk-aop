@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.oceanbase.verificationcode.verify request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:12:56
+ * @since 1.0, 2023-09-13 14:55:56
  */
 class AnttechOceanbaseVerificationcodeVerifyRequest
 {

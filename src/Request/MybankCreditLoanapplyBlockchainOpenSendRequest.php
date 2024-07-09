@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.loanapply.blockchain.open.send request
  *
  * @author auto create
- * @since 1.0, 2022-09-19 15:45:05
+ * @since 1.0, 2023-08-24 21:10:56
  */
 class MybankCreditLoanapplyBlockchainOpenSendRequest
 {

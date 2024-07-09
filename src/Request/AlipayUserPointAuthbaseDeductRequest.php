@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.point.authbase.deduct request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:03:12
+ * @since 1.0, 2024-03-01 16:28:01
  */
 class AlipayUserPointAuthbaseDeductRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.billkey.upgrade.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-30 16:10:50
+ * @since 1.0, 2023-08-24 21:44:31
  */
 class AlipayEbppBillkeyUpgradeQueryRequest
 {

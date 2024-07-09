@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.educate.parttimejob.info.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:35:18
+ * @since 1.0, 2023-06-19 21:24:41
  */
 class AlipayCommerceEducateParttimejobInfoCreateRequest
 {

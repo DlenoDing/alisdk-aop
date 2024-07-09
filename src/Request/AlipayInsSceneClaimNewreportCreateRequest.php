@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.claim.newreport.create request
  *
  * @author auto create
- * @since 1.0, 2022-03-08 13:29:58
+ * @since 1.0, 2024-03-01 16:26:57
  */
 class AlipayInsSceneClaimNewreportCreateRequest
 {

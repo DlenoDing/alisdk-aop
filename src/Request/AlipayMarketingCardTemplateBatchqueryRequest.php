@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.card.template.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-08-17 13:58:09
+ * @since 1.0, 2024-04-10 16:32:45
  */
 class AlipayMarketingCardTemplateBatchqueryRequest
 {

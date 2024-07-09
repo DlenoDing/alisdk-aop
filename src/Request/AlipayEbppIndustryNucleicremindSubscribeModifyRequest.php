@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.industry.nucleicremind.subscribe.modify request
  *
  * @author auto create
- * @since 1.0, 2022-09-15 17:25:16
+ * @since 1.0, 2024-03-01 16:29:07
  */
 class AlipayEbppIndustryNucleicremindSubscribeModifyRequest
 {

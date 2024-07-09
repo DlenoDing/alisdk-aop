@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pcredit.huabei.auth.order.freeze request
  *
  * @author auto create
- * @since 1.0, 2019-03-30 21:50:00
+ * @since 1.0, 2023-05-31 07:47:02
  */
 class AlipayPcreditHuabeiAuthOrderFreezeRequest
 {

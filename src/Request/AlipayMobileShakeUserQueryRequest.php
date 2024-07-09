@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.mobile.shake.user.query request
  *
  * @author auto create
- * @since 1.0, 2022-02-10 15:52:19
+ * @since 1.0, 2024-05-17 14:35:12
  */
 class AlipayMobileShakeUserQueryRequest
 {

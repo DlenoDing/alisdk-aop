@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.jointaccount.member.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-04-06 11:31:40
+ * @since 1.0, 2024-03-28 00:26:16
  */
 class AlipayFundJointaccountMemberBatchqueryRequest
 {

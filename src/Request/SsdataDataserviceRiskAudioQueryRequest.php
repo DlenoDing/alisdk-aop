@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ssdata.dataservice.risk.audio.query request
  *
  * @author auto create
- * @since 1.0, 2019-07-29 16:06:05
+ * @since 1.0, 2023-08-20 16:43:48
  */
 class SsdataDataserviceRiskAudioQueryRequest
 {

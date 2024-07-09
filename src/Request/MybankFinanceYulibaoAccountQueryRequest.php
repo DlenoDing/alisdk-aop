@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.finance.yulibao.account.query request
  *
  * @author auto create
- * @since 1.0, 2021-02-02 11:20:01
+ * @since 1.0, 2023-05-29 22:41:52
  */
 class MybankFinanceYulibaoAccountQueryRequest
 {

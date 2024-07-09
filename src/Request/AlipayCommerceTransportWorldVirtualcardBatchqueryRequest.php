@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.world.virtualcard.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:50
+ * @since 1.0, 2024-03-01 16:27:01
  */
 class AlipayCommerceTransportWorldVirtualcardBatchqueryRequest
 {

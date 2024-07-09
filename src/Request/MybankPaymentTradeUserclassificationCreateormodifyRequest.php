@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.payment.trade.userclassification.createormodify request
  *
  * @author auto create
- * @since 1.0, 2019-09-25 10:00:03
+ * @since 1.0, 2023-05-29 23:26:50
  */
 class MybankPaymentTradeUserclassificationCreateormodifyRequest
 {

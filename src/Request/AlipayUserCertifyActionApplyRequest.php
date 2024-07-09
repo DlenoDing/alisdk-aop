@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.certify.action.apply request
  *
  * @author auto create
- * @since 1.0, 2020-08-05 17:26:17
+ * @since 1.0, 2023-05-30 20:33:22
  */
 class AlipayUserCertifyActionApplyRequest
 {

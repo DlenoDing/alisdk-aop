@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.catering.pos.desk.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:19:05
+ * @since 1.0, 2023-05-31 06:42:53
  */
 class KoubeiCateringPosDeskModifyRequest
 {

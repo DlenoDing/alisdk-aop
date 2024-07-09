@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.loanapply.smartcounty.loaninfo.query request
  *
  * @author auto create
- * @since 1.0, 2019-07-30 16:30:01
+ * @since 1.0, 2023-08-10 10:23:47
  */
 class MybankCreditLoanapplySmartcountyLoaninfoQueryRequest
 {

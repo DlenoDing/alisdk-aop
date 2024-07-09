@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.jointaccount.account.modify request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 12:11:47
+ * @since 1.0, 2024-03-28 00:25:59
  */
 class AlipayFundJointaccountAccountModifyRequest
 {

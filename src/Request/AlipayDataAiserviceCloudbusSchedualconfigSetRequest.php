@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.aiservice.cloudbus.schedualconfig.set request
  *
  * @author auto create
- * @since 1.0, 2020-10-21 10:36:43
+ * @since 1.0, 2023-08-21 02:39:22
  */
 class AlipayDataAiserviceCloudbusSchedualconfigSetRequest
 {

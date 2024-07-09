@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.iotdata.anomalydetection.bai.verify request
  *
  * @author auto create
- * @since 1.0, 2019-11-15 14:41:20
+ * @since 1.0, 2023-08-23 20:45:33
  */
 class AlipayDataIotdataAnomalydetectionBaiVerifyRequest
 {

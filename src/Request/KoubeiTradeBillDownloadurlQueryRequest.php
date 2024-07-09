@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.trade.bill.downloadurl.query request
  *
  * @author auto create
- * @since 1.0, 2020-01-03 14:58:06
+ * @since 1.0, 2023-08-21 02:24:19
  */
 class KoubeiTradeBillDownloadurlQueryRequest
 {

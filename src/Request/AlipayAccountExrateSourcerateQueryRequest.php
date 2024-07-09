@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.account.exrate.sourcerate.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-25 11:51:04
+ * @since 1.0, 2023-08-20 17:18:04
  */
 class AlipayAccountExrateSourcerateQueryRequest
 {

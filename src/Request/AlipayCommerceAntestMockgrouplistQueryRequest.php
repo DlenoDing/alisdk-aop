@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.antest.mockgrouplist.query request
  *
  * @author auto create
- * @since 1.0, 2020-04-21 15:50:09
+ * @since 1.0, 2023-08-20 18:17:00
  */
 class AlipayCommerceAntestMockgrouplistQueryRequest
 {

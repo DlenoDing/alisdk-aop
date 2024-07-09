@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.app.alipaycert.download request
  *
  * @author auto create
- * @since 1.0, 2019-08-20 18:15:01
+ * @since 1.0, 2023-08-21 05:25:21
  */
 class AlipayOpenAppAlipaycertDownloadRequest
 {

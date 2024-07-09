@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.community.externalbillsync.upload request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:29:14
+ * @since 1.0, 2023-05-31 22:20:54
  */
 class AlipayEbppCommunityExternalbillsyncUploadRequest
 {

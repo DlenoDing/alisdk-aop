@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.msaas.itap.user.confirm request
  *
  * @author auto create
- * @since 1.0, 2020-10-26 09:58:39
+ * @since 1.0, 2023-08-20 17:23:35
  */
 class AlipayMsaasItapUserConfirmRequest
 {

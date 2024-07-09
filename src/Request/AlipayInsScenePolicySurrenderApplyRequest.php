@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.policy.surrender.apply request
  *
  * @author auto create
- * @since 1.0, 2019-04-11 22:26:31
+ * @since 1.0, 2023-08-21 05:56:36
  */
 class AlipayInsScenePolicySurrenderApplyRequest
 {

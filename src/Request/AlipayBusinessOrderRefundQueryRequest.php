@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.business.order.refund.query request
  *
  * @author auto create
- * @since 1.0, 2019-08-17 17:37:49
+ * @since 1.0, 2023-08-24 22:37:58
  */
 class AlipayBusinessOrderRefundQueryRequest
 {

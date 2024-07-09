@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.certify.customer.relativenum.apply request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:56:10
+ * @since 1.0, 2024-03-01 16:26:13
  */
 class AlipayUserCertifyCustomerRelativenumApplyRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.supplychain.wf.thirdpartylogistics.sync request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:16:59
+ * @since 1.0, 2023-09-03 23:06:47
  */
 class MybankCreditSupplychainWfThirdpartylogisticsSyncRequest
 {

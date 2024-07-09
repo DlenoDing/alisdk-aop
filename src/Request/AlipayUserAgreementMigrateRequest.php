@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.agreement.migrate request
  *
  * @author auto create
- * @since 1.0, 2022-06-29 11:46:47
+ * @since 1.0, 2024-03-01 14:30:19
  */
 class AlipayUserAgreementMigrateRequest
 {

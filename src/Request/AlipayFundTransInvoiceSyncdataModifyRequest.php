@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.trans.invoice.syncdata.modify request
  *
  * @author auto create
- * @since 1.0, 2022-08-24 18:01:51
+ * @since 1.0, 2024-03-01 16:26:19
  */
 class AlipayFundTransInvoiceSyncdataModifyRequest
 {

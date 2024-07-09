@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.industry.gov.fastmode.sync request
  *
  * @author auto create
- * @since 1.0, 2022-07-26 17:19:46
+ * @since 1.0, 2023-08-20 16:46:48
  */
 class AlipayEbppIndustryGovFastmodeSyncRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.contract.borrow.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:44:55
+ * @since 1.0, 2023-08-21 02:08:02
  */
 class ZhimaCreditContractBorrowCancelRequest
 {

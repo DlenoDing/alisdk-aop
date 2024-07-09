@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.family.relation.valid.query request
  *
  * @author auto create
- * @since 1.0, 2020-07-23 14:52:26
+ * @since 1.0, 2023-08-21 03:10:21
  */
 class AlipayUserFamilyRelationValidQueryRequest
 {

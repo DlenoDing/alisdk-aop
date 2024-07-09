@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.app.arater.waitratealgorank.query request
  *
  * @author auto create
- * @since 1.0, 2020-04-29 21:40:09
+ * @since 1.0, 2023-08-21 05:54:13
  */
 class AlipayOpenAppAraterWaitratealgorankQueryRequest
 {

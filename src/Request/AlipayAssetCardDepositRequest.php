@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.asset.card.deposit request
  *
  * @author auto create
- * @since 1.0, 2022-03-22 16:06:37
+ * @since 1.0, 2024-05-27 13:59:54
  */
 class AlipayAssetCardDepositRequest
 {

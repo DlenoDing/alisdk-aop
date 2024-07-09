@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.pe.zmgo.agreement.unsign request
  *
  * @author auto create
- * @since 1.0, 2021-03-04 15:20:16
+ * @since 1.0, 2024-04-15 11:15:06
  */
 class ZhimaCreditPeZmgoAgreementUnsignRequest
 {

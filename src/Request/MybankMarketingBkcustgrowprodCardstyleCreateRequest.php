@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.marketing.bkcustgrowprod.cardstyle.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-27 11:56:02
+ * @since 1.0, 2023-09-04 00:01:46
  */
 class MybankMarketingBkcustgrowprodCardstyleCreateRequest
 {

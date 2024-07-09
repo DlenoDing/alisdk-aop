@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.supplychain.prepayment.apply request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 17:39:50
+ * @since 1.0, 2024-03-01 16:28:34
  */
 class MybankCreditSupplychainPrepaymentApplyRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.account.exrate.traderequest.create request
  *
  * @author auto create
- * @since 1.0, 2021-11-25 11:51:25
+ * @since 1.0, 2023-09-04 02:07:34
  */
 class AlipayAccountExrateTraderequestCreateRequest
 {

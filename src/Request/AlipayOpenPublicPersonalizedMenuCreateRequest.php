@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.public.personalized.menu.create request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 21:00:59
+ * @since 1.0, 2024-01-12 17:55:35
  */
 class AlipayOpenPublicPersonalizedMenuCreateRequest
 {

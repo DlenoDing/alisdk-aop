@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.cplife.roominfo.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:33:14
+ * @since 1.0, 2023-08-21 03:16:13
  */
 class AlipayEcoCplifeRoominfoQueryRequest
 {

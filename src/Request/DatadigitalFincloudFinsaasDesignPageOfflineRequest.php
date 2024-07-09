@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: datadigital.fincloud.finsaas.design.page.offline request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 15:01:39
+ * @since 1.0, 2023-08-23 21:38:15
  */
 class DatadigitalFincloudFinsaasDesignPageOfflineRequest
 {

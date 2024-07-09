@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.text.detect request
  *
  * @author auto create
- * @since 1.0, 2019-09-06 17:57:54
+ * @since 1.0, 2023-08-20 17:03:08
  */
 class AlipayEcoTextDetectRequest
 {

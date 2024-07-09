@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.members.huoban.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:10:20
+ * @since 1.0, 2024-03-01 16:29:19
  */
 class AlipayOpenMiniMembersHuobanCreateRequest
 {

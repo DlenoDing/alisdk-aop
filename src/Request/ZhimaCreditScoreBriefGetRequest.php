@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.score.brief.get request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:44
+ * @since 1.0, 2024-03-28 00:45:49
  */
 class ZhimaCreditScoreBriefGetRequest
 {

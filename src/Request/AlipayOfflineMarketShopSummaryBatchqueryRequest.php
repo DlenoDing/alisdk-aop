@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.offline.market.shop.summary.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-04-22 15:56:34
+ * @since 1.0, 2023-09-12 06:55:50
  */
 class AlipayOfflineMarketShopSummaryBatchqueryRequest
 {

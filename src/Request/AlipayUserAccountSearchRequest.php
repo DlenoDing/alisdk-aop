@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.account.search request
  *
  * @author auto create
- * @since 1.0, 2021-12-30 19:18:33
+ * @since 1.0, 2024-04-17 14:17:00
  */
 class AlipayUserAccountSearchRequest
 {

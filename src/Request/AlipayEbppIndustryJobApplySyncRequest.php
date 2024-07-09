@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.industry.job.apply.sync request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 16:49:58
+ * @since 1.0, 2024-06-14 11:17:03
  */
 class AlipayEbppIndustryJobApplySyncRequest
 {

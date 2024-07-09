@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.morse.marketing.srta.nonanonymous.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-21 15:41:42
+ * @since 1.0, 2024-03-01 16:28:31
  */
 class AnttechMorseMarketingSrtaNonanonymousQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.lottery.region.get request
  *
  * @author auto create
- * @since 1.0, 2020-01-07 19:35:44
+ * @since 1.0, 2023-09-04 01:21:05
  */
 class AlipayOpenLotteryRegionGetRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.risk.verifyidentity.miniapp.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-09-19 14:27:01
+ * @since 1.0, 2024-04-23 21:50:59
  */
 class AlipaySecurityRiskVerifyidentityMiniappConfirmRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.asset.point.order.create request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:04:21
+ * @since 1.0, 2024-05-27 14:00:40
  */
 class AlipayAssetPointOrderCreateRequest
 {

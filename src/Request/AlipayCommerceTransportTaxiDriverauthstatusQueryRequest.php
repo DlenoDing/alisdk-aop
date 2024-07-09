@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.taxi.driverauthstatus.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-15 15:45:28
+ * @since 1.0, 2023-05-29 23:42:47
  */
 class AlipayCommerceTransportTaxiDriverauthstatusQueryRequest
 {

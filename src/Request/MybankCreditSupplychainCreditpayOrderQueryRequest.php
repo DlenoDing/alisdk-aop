@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.supplychain.creditpay.order.query request
  *
  * @author auto create
- * @since 1.0, 2020-07-15 16:59:09
+ * @since 1.0, 2023-08-24 22:06:46
  */
 class MybankCreditSupplychainCreditpayOrderQueryRequest
 {

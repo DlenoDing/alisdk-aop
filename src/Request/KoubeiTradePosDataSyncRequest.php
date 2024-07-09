@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.trade.pos.data.sync request
  *
  * @author auto create
- * @since 1.0, 2019-03-27 16:37:57
+ * @since 1.0, 2023-08-21 02:14:31
  */
 class KoubeiTradePosDataSyncRequest
 {

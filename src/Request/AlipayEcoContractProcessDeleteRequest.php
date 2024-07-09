@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.contract.process.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:40:52
+ * @since 1.0, 2023-05-31 07:43:36
  */
 class AlipayEcoContractProcessDeleteRequest
 {

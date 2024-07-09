@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.ec.department.sublist.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-14 12:21:45
+ * @since 1.0, 2024-05-30 17:55:18
  */
 class AlipayCommerceEcDepartmentSublistQueryRequest
 {

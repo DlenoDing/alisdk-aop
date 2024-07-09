@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.educate.scene.user.unsign request
  *
  * @author auto create
- * @since 1.0, 2021-12-27 11:57:52
+ * @since 1.0, 2024-03-26 21:20:48
  */
 class AlipayCommerceEducateSceneUserUnsignRequest
 {

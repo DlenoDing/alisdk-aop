@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.trade.settle.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-09-15 17:27:22
+ * @since 1.0, 2024-06-05 18:51:09
  */
 class AlipayTradeSettleConfirmRequest
 {

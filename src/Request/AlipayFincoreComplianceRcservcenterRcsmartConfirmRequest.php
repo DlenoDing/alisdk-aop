@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fincore.compliance.rcservcenter.rcsmart.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-08-26 11:11:45
+ * @since 1.0, 2023-08-20 17:17:34
  */
 class AlipayFincoreComplianceRcservcenterRcsmartConfirmRequest
 {

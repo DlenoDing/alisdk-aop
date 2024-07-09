@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.mobile.public.info.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:27:45
+ * @since 1.0, 2023-09-11 16:55:08
  */
 class AlipayMobilePublicInfoQueryRequest
 {

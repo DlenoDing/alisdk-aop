@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.merchant.operator.modify request
  *
  * @author auto create
- * @since 1.0, 2022-06-17 16:38:28
+ * @since 1.0, 2024-03-01 16:27:39
  */
 class KoubeiMerchantOperatorModifyRequest
 {

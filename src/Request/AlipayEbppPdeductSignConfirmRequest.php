@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.pdeduct.sign.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:43:57
+ * @since 1.0, 2024-03-01 16:28:53
  */
 class AlipayEbppPdeductSignConfirmRequest
 {

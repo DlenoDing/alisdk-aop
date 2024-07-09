@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.iotbpaas.lavidabillsum.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-16 11:44:40
+ * @since 1.0, 2023-05-29 20:14:20
  */
 class AlipayOpenIotbpaasLavidabillsumQueryRequest
 {

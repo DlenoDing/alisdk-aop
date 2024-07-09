@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.educate.sign.token.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-20 21:07:13
+ * @since 1.0, 2024-03-26 21:21:03
  */
 class AlipayCommerceEducateSignTokenQueryRequest
 {

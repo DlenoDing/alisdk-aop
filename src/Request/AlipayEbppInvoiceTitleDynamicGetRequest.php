@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.invoice.title.dynamic.get request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:30
+ * @since 1.0, 2024-04-23 14:57:53
  */
 class AlipayEbppInvoiceTitleDynamicGetRequest
 {

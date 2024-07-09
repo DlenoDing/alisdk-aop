@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.iot.device.geofence.bind request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:42:00
+ * @since 1.0, 2024-03-01 16:25:21
  */
 class AlipayCommerceIotDeviceGeofenceBindRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.terminal.powerbank.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:55:35
+ * @since 1.0, 2023-08-21 03:45:43
  */
 class AlipayCommerceTerminalPowerbankModifyRequest
 {

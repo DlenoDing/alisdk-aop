@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.risk.antifraud.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-02-01 11:36:19
+ * @since 1.0, 2023-08-21 02:49:47
  */
 class AlipaySecurityRiskAntifraudBatchqueryRequest
 {

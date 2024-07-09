@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.petprofile.platformprofile.delete request
  *
  * @author auto create
- * @since 1.0, 2022-03-28 16:54:31
+ * @since 1.0, 2023-05-31 00:09:54
  */
 class AlipayInsScenePetprofilePlatformprofileDeleteRequest
 {

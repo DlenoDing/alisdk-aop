@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.iotvsp.logicgroupid.query request
  *
  * @author auto create
- * @since 1.0, 2022-04-11 17:16:41
+ * @since 1.0, 2023-09-19 16:04:20
  */
 class AlipayOpenIotvspLogicgroupidQueryRequest
 {

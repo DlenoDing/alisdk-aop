@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.coupon.wufu.card.accept request
  *
  * @author auto create
- * @since 1.0, 2019-12-28 02:43:57
+ * @since 1.0, 2023-08-21 03:27:06
  */
 class AlipayFundCouponWufuCardAcceptRequest
 {

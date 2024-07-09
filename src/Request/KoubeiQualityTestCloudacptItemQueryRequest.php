@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.quality.test.cloudacpt.item.query request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2022-11-15 11:28:23
  */
 class KoubeiQualityTestCloudacptItemQueryRequest
 {

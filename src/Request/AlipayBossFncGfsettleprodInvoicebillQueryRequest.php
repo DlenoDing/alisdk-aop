@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.fnc.gfsettleprod.invoicebill.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-28 14:25:47
+ * @since 1.0, 2023-08-20 17:15:12
  */
 class AlipayBossFncGfsettleprodInvoicebillQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.indirect.authorder.querystatus request
  *
  * @author auto create
- * @since 1.0, 2022-09-05 14:11:51
+ * @since 1.0, 2023-09-11 17:31:48
  */
 class AlipayMerchantIndirectAuthorderQuerystatusRequest
 {

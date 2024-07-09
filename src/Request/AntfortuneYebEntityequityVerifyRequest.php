@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: antfortune.yeb.entityequity.verify request
  *
  * @author auto create
- * @since 1.0, 2021-11-12 10:55:30
+ * @since 1.0, 2023-09-03 23:48:01
  */
 class AntfortuneYebEntityequityVerifyRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.facetoface.decode.use request
  *
  * @author auto create
- * @since 1.0, 2022-06-20 18:44:15
+ * @since 1.0, 2024-05-17 14:36:26
  */
 class AlipayMarketingFacetofaceDecodeUseRequest
 {

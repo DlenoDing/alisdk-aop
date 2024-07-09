@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.loanapply.bkruralindustry.massif.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 10:12:54
+ * @since 1.0, 2024-03-27 08:54:51
  */
 class MybankCreditLoanapplyBkruralindustryMassifQueryRequest
 {

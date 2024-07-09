@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.qrcode.bind request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 10:53:43
+ * @since 1.0, 2024-06-07 17:30:04
  */
 class AlipayOpenMiniQrcodeBindRequest
 {

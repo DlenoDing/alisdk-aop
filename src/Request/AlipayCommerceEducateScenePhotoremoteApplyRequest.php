@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.educate.scene.photoremote.apply request
  *
  * @author auto create
- * @since 1.0, 2022-07-20 21:07:11
+ * @since 1.0, 2024-03-01 16:25:24
  */
 class AlipayCommerceEducateScenePhotoremoteApplyRequest
 {

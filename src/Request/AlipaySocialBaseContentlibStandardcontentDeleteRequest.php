@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.base.contentlib.standardcontent.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:50:41
+ * @since 1.0, 2024-01-31 11:16:51
  */
 class AlipaySocialBaseContentlibStandardcontentDeleteRequest
 {

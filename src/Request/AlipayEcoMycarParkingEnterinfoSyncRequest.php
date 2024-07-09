@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.mycar.parking.enterinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2022-08-22 17:01:53
+ * @since 1.0, 2024-05-31 11:45:47
  */
 class AlipayEcoMycarParkingEnterinfoSyncRequest
 {

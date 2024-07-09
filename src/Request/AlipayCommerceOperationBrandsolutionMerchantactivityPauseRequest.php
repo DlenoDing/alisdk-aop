@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.operation.brandsolution.merchantactivity.pause request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:16:45
+ * @since 1.0, 2023-05-31 07:33:38
  */
 class AlipayCommerceOperationBrandsolutionMerchantactivityPauseRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.inner.versionproportionset.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-27 12:26:40
+ * @since 1.0, 2023-05-31 03:31:34
  */
 class AlipayOpenMiniInnerVersionproportionsetQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.customer.liferecord.sign request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:44
+ * @since 1.0, 2024-04-29 11:37:49
  */
 class ZhimaCustomerLiferecordSignRequest
 {

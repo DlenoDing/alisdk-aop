@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.finance.quotation.protocol.authorize.subscribe request
  *
  * @author auto create
- * @since 1.0, 2022-08-26 11:01:46
+ * @since 1.0, 2023-08-21 05:26:46
  */
 class AlipayFinanceQuotationProtocolAuthorizeSubscribeRequest
 {

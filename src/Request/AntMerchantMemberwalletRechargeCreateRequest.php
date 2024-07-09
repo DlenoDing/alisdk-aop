@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.memberwallet.recharge.create request
  *
  * @author auto create
- * @since 1.0, 2022-05-20 16:11:43
+ * @since 1.0, 2023-05-29 22:35:43
  */
 class AntMerchantMemberwalletRechargeCreateRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.craftsman.data.work.create request
  *
  * @author auto create
- * @since 1.0, 2020-08-25 17:18:53
+ * @since 1.0, 2023-05-29 23:01:34
  */
 class KoubeiCraftsmanDataWorkCreateRequest
 {

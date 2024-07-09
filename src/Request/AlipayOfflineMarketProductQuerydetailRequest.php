@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.offline.market.product.querydetail request
  *
  * @author auto create
- * @since 1.0, 2021-06-22 19:13:31
+ * @since 1.0, 2023-08-23 21:53:42
  */
 class AlipayOfflineMarketProductQuerydetailRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.invoice.issuerule.delete request
  *
  * @author auto create
- * @since 1.0, 2022-08-18 15:41:51
+ * @since 1.0, 2024-01-30 21:07:36
  */
 class AlipayEbppInvoiceIssueruleDeleteRequest
 {

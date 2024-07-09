@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.open.app.keyan.lql.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:49:59
+ * @since 1.0, 2023-08-23 21:01:31
  */
 class ZhimaOpenAppKeyanLqlCreateRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.innerversion.pre.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:07:57
+ * @since 1.0, 2023-08-24 22:13:07
  */
 class AlipayOpenMiniInnerversionPreCancelRequest
 {

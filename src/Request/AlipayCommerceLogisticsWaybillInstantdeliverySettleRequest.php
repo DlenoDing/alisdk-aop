@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.logistics.waybill.instantdelivery.settle request
  *
  * @author auto create
- * @since 1.0, 2022-05-31 16:09:42
+ * @since 1.0, 2023-08-21 05:39:56
  */
 class AlipayCommerceLogisticsWaybillInstantdeliverySettleRequest
 {

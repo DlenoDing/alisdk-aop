@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: antfortune.equity.message.single.send request
  *
  * @author auto create
- * @since 1.0, 2022-03-08 15:15:03
+ * @since 1.0, 2023-08-24 21:38:24
  */
 class AntfortuneEquityMessageSingleSendRequest
 {

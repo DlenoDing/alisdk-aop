@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.jfexport.inputfield.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-23 09:31:10
+ * @since 1.0, 2024-06-18 20:22:04
  */
 class AlipayEbppJfexportInputfieldQueryRequest
 {

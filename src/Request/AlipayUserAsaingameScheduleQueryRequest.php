@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.asaingame.schedule.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-05 21:01:42
+ * @since 1.0, 2023-05-30 23:46:05
  */
 class AlipayUserAsaingameScheduleQueryRequest
 {

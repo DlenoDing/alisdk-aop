@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.printer.status.get request
  *
  * @author auto create
- * @since 1.0, 2019-10-18 11:06:09
+ * @since 1.0, 2023-09-04 02:09:19
  */
 class AlipayDataPrinterStatusGetRequest
 {

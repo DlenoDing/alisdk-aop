@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.pass.instancebatch.add request
  *
  * @author auto create
- * @since 1.0, 2022-05-09 09:54:28
+ * @since 1.0, 2024-03-01 16:28:00
  */
 class AlipayUserPassInstancebatchAddRequest
 {

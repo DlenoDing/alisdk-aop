@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.educate.tuitioncode.planrule.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:40:39
+ * @since 1.0, 2023-08-21 05:20:05
  */
 class AlipayCommerceEducateTuitioncodePlanruleSendRequest
 {

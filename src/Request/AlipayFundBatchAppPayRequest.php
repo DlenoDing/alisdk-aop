@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.batch.app.pay request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:59:11
+ * @since 1.0, 2024-04-29 10:54:59
  */
 class AlipayFundBatchAppPayRequest
 {

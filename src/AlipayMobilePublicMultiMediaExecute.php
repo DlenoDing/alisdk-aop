@@ -36,7 +36,7 @@ class AlipayMobilePublicMultiMediaExecute
 
     /**
      *
-     * @return int
+     * @return string
      */
     public function getCode()
     {
@@ -72,7 +72,7 @@ class AlipayMobilePublicMultiMediaExecute
 
     /**
      *
-     * @return int
+     * @return string
      */
     public function getContentLength()
     {

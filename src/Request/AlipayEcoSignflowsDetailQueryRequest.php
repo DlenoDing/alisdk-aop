@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.signflows.detail.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-27 15:21:29
+ * @since 1.0, 2023-09-11 16:45:54
  */
 class AlipayEcoSignflowsDetailQueryRequest
 {

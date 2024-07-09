@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.overseas.remit.withdraw.notify request
  *
  * @author auto create
- * @since 1.0, 2021-08-09 15:04:39
+ * @since 1.0, 2023-09-04 00:54:58
  */
 class AlipayOverseasRemitWithdrawNotifyRequest
 {

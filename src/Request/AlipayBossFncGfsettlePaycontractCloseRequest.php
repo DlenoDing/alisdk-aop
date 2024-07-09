@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.fnc.gfsettle.paycontract.close request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:22:56
+ * @since 1.0, 2023-05-31 05:28:08
  */
 class AlipayBossFncGfsettlePaycontractCloseRequest
 {

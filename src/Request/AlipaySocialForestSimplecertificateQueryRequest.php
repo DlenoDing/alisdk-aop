@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.forest.simplecertificate.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:10:11
+ * @since 1.0, 2024-03-14 19:27:22
  */
 class AlipaySocialForestSimplecertificateQueryRequest
 {

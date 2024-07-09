@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.activity.settle.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-08 11:46:48
+ * @since 1.0, 2023-10-27 18:24:52
  */
 class AlipayMarketingActivitySettleQueryRequest
 {

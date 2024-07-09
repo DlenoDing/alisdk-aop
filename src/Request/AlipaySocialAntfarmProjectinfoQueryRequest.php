@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.antfarm.projectinfo.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:48:39
+ * @since 1.0, 2023-08-20 17:48:59
  */
 class AlipaySocialAntfarmProjectinfoQueryRequest
 {

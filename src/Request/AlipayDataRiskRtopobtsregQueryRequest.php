@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.risk.rtopobtsreg.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-12 12:12:09
+ * @since 1.0, 2023-09-03 23:27:25
  */
 class AlipayDataRiskRtopobtsregQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.content.contentinfo.delete request
  *
  * @author auto create
- * @since 1.0, 2019-03-15 10:29:55
+ * @since 1.0, 2023-09-03 23:13:13
  */
 class KoubeiContentContentinfoDeleteRequest
 {

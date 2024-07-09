@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.innerversion.content.rollback request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:04:31
+ * @since 1.0, 2023-09-11 16:13:51
  */
 class AlipayOpenMiniInnerversionContentRollbackRequest
 {

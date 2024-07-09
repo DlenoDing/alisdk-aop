@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.receipt.invalid request
  *
  * @author auto create
- * @since 1.0, 2022-05-30 20:18:58
+ * @since 1.0, 2024-03-01 16:27:03
  */
 class AlipayCommerceReceiptInvalidRequest
 {

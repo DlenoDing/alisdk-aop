@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.certdoc.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:55:54
+ * @since 1.0, 2024-03-01 16:28:50
  */
 class AlipayUserCertdocSyncRequest
 {

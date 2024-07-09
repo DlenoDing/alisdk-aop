@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.ecommerce.pre.order request
  *
  * @author auto create
- * @since 1.0, 2022-08-29 17:07:12
+ * @since 1.0, 2024-06-10 10:26:14
  */
 class AlipayInsSceneEcommercePreOrderRequest
 {

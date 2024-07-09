@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.pe.industry.order.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-12 10:53:01
+ * @since 1.0, 2023-08-21 02:43:26
  */
 class ZhimaCreditPeIndustryOrderQueryRequest
 {

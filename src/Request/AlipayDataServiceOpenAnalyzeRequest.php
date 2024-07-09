@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.service.open.analyze request
  *
  * @author auto create
- * @since 1.0, 2019-08-15 12:27:11
+ * @since 1.0, 2023-08-21 03:53:54
  */
 class AlipayDataServiceOpenAnalyzeRequest
 {

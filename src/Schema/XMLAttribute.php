@@ -21,15 +21,11 @@ class XMLAttribute
             "enum" => "枚举型",
             "object" => "对象型"
         );
-        if (empty($attributeValueType)) {
-            return false;
-        }
+        if (empty($attributeValueType)) return false;
 //        foreach ($valueTypeArr as $key => $value){
 //            if($attributeValueType === $key) return true;
 //        }
-        if (array_key_exists($attributeValueType, $valueTypeArr)) {
-            return true;
-        }
+        if (array_key_exists($attributeValueType, $valueTypeArr)) return true;
         return false;
     }
 
@@ -245,9 +241,7 @@ class XMLAttribute
      */
     protected function appendRulesElement($dom, $parent, $rules, $attributeId)
     {
-        if (empty($rules)) {
-            return;
-        }
+        if (empty($rules)) return;
         if (!is_array($rules)) {
             throw new \Exception("id=[" . $attributeId . "] XMLAttribute属性rules不合法!");
         }
@@ -265,9 +259,7 @@ class XMLAttribute
      */
     protected function appendOptionsElement($dom, $parent, $options, $attributeId)
     {
-        if (empty($options)) {
-            return;
-        }
+        if (empty($options)) return;
         if (!is_array($options)) {
             throw new \Exception("id=[" . $attributeId . "] XMLAttribute属性options不合法!");
         }

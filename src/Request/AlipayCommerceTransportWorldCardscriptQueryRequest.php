@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.world.cardscript.query request
  *
  * @author auto create
- * @since 1.0, 2020-03-23 22:10:11
+ * @since 1.0, 2023-08-23 20:11:07
  */
 class AlipayCommerceTransportWorldCardscriptQueryRequest
 {

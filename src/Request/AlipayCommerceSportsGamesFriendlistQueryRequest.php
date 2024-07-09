@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.sports.games.friendlist.query request
  *
  * @author auto create
- * @since 1.0, 2021-01-14 18:59:59
+ * @since 1.0, 2024-03-01 16:34:27
  */
 class AlipayCommerceSportsGamesFriendlistQueryRequest
 {

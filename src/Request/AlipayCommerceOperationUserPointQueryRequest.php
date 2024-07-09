@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.operation.user.point.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:05:21
+ * @since 1.0, 2023-08-21 05:06:47
  */
 class AlipayCommerceOperationUserPointQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.etc.settlement.refund request
  *
  * @author auto create
- * @since 1.0, 2022-06-17 15:46:45
+ * @since 1.0, 2023-08-21 03:01:46
  */
 class AlipayCommerceTransportEtcSettlementRefundRequest
 {

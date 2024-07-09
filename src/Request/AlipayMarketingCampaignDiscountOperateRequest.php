@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.campaign.discount.operate request
  *
  * @author auto create
- * @since 1.0, 2019-05-15 15:30:25
+ * @since 1.0, 2023-08-23 20:37:12
  */
 class AlipayMarketingCampaignDiscountOperateRequest
 {

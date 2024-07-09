@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.bail.agreement.upgrade request
  *
  * @author auto create
- * @since 1.0, 2022-01-19 10:12:51
+ * @since 1.0, 2023-05-31 07:15:43
  */
 class AlipayFundBailAgreementUpgradeRequest
 {

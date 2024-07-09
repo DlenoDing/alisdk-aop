@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.accountbook.notify.subscribe request
  *
  * @author auto create
- * @since 1.0, 2021-11-04 14:16:40
+ * @since 1.0, 2023-09-11 16:39:14
  */
 class AlipayFundAccountbookNotifySubscribeRequest
 {

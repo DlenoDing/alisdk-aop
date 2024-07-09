@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.kids.msg.scene.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:47:53
+ * @since 1.0, 2023-08-21 04:06:46
  */
 class AlipayCommerceKidsMsgSceneSendRequest
 {

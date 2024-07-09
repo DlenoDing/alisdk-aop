@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.iot.device.personalinfo.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:42:48
+ * @since 1.0, 2023-08-21 04:32:55
  */
 class AlipayCommerceIotDevicePersonalinfoModifyRequest
 {

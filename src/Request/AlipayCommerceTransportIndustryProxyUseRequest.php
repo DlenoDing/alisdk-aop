@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.industry.proxy.use request
  *
  * @author auto create
- * @since 1.0, 2022-01-07 14:33:26
+ * @since 1.0, 2024-03-01 16:28:33
  */
 class AlipayCommerceTransportIndustryProxyUseRequest
 {

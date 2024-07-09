@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.app.lingbalingliu.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:35:20
+ * @since 1.0, 2023-08-20 17:30:43
  */
 class AlipayOpenAppLingbalingliuQueryRequest
 {

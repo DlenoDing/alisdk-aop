@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.activity.recycle.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-09 14:49:36
+ * @since 1.0, 2024-01-09 10:51:58
  */
 class AlipayEcoActivityRecycleQueryRequest
 {

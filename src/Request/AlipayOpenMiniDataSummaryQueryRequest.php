@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.data.summary.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-01 14:33:53
+ * @since 1.0, 2023-08-21 01:46:57
  */
 class AlipayOpenMiniDataSummaryQueryRequest
 {

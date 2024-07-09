@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.cityservice.ext.sync request
  *
  * @author auto create
- * @since 1.0, 2022-06-30 11:25:34
+ * @since 1.0, 2023-12-07 13:29:24
  */
 class AlipayEcoCityserviceExtSyncRequest
 {

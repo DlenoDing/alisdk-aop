@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.prod.edge.colorfeedback.create request
  *
  * @author auto create
- * @since 1.0, 2021-05-20 14:35:21
+ * @since 1.0, 2023-08-20 18:15:29
  */
 class AlipaySecurityProdEdgeColorfeedbackCreateRequest
 {

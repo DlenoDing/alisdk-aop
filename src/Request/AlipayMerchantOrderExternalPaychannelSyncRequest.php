@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.order.external.paychannel.sync request
  *
  * @author auto create
- * @since 1.0, 2021-04-14 14:40:19
+ * @since 1.0, 2023-07-11 10:55:15
  */
 class AlipayMerchantOrderExternalPaychannelSyncRequest
 {

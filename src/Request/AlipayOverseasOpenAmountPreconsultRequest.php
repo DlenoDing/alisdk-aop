@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.overseas.open.amount.preconsult request
  *
  * @author auto create
- * @since 1.0, 2022-07-13 12:15:31
+ * @since 1.0, 2023-08-24 20:58:49
  */
 class AlipayOverseasOpenAmountPreconsultRequest
 {

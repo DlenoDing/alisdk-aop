@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.catering.kms.baking.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-11-24 15:51:55
+ * @since 1.0, 2023-08-21 05:06:47
  */
 class KoubeiCateringKmsBakingBatchqueryRequest
 {

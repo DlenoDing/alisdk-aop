@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.ecommerce.claim.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-08-29 20:41:46
+ * @since 1.0, 2024-03-20 11:21:51
  */
 class AlipayInsSceneEcommerceClaimCancelRequest
 {

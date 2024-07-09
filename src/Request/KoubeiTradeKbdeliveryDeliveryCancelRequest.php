@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.trade.kbdelivery.delivery.cancel request
  *
  * @author auto create
- * @since 1.0, 2020-11-24 15:52:18
+ * @since 1.0, 2023-05-31 09:26:00
  */
 class KoubeiTradeKbdeliveryDeliveryCancelRequest
 {

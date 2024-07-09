@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.invoice.auth.sign request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:05:47
+ * @since 1.0, 2024-03-28 00:50:31
  */
 class AlipayEbppInvoiceAuthSignRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.customer.jobworth.authentication.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-28 15:36:39
+ * @since 1.0, 2024-03-28 00:22:03
  */
 class ZhimaCustomerJobworthAuthenticationQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.operation.promoter.ranking.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-06 14:35:35
+ * @since 1.0, 2023-08-21 01:51:44
  */
 class AlipayCommerceOperationPromoterRankingQueryRequest
 {

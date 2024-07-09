@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.invoice.merchant.enterstatus.query request
  *
  * @author auto create
- * @since 1.0, 2019-11-19 10:06:07
+ * @since 1.0, 2023-09-11 16:25:49
  */
 class AlipayEbppInvoiceMerchantEnterstatusQueryRequest
 {

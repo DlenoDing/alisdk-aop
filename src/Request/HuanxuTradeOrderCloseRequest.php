@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: huanxu.trade.order.close request
  *
  * @author auto create
- * @since 1.0, 2021-03-17 20:20:41
+ * @since 1.0, 2023-05-30 21:56:16
  */
 class HuanxuTradeOrderCloseRequest
 {

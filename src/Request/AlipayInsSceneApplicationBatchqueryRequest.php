@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.application.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-03-28 17:17:46
+ * @since 1.0, 2024-03-01 16:34:30
  */
 class AlipayInsSceneApplicationBatchqueryRequest
 {

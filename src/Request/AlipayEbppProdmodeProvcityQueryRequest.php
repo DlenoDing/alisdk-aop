@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.prodmode.provcity.query request
  *
  * @author auto create
- * @since 1.0, 2020-06-15 10:01:57
+ * @since 1.0, 2023-08-23 21:56:23
  */
 class AlipayEbppProdmodeProvcityQueryRequest
 {

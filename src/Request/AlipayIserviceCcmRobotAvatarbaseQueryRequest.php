@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.iservice.ccm.robot.avatarbase.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-09 20:01:40
+ * @since 1.0, 2024-01-19 11:22:00
  */
 class AlipayIserviceCcmRobotAvatarbaseQueryRequest
 {

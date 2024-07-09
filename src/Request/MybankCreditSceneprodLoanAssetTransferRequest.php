@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.sceneprod.loan.asset.transfer request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-09-04 01:32:02
  */
 class MybankCreditSceneprodLoanAssetTransferRequest
 {

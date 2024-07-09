@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.tradecomplain.feedback.submit request
  *
  * @author auto create
- * @since 1.0, 2022-03-10 14:04:43
+ * @since 1.0, 2023-11-06 10:52:20
  */
 class AlipayMerchantTradecomplainFeedbackSubmitRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.instservice.signresult.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-30 14:16:41
+ * @since 1.0, 2024-04-01 23:09:59
  */
 class AlipayEbppInstserviceSignresultQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.retail.wms.outboundorder.create request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-05-30 22:33:00
  */
 class KoubeiRetailWmsOutboundorderCreateRequest
 {

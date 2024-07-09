@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.fnc.gfcenter.banklogtransfer.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-10 11:55:37
+ * @since 1.0, 2023-08-24 20:58:34
  */
 class AlipayBossFncGfcenterBanklogtransferCreateRequest
 {

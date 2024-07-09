@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.app.service.promo.delete request
  *
  * @author auto create
- * @since 1.0, 2022-04-21 14:44:19
+ * @since 1.0, 2023-09-04 01:01:18
  */
 class AlipayOpenAppServicePromoDeleteRequest
 {

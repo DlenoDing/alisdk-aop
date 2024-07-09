@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.ep.scene.rating.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-30 17:00:10
+ * @since 1.0, 2023-09-04 02:08:44
  */
 class ZhimaCreditEpSceneRatingQueryRequest
 {

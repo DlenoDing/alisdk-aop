@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.catering.order.sync request
  *
  * @author auto create
- * @since 1.0, 2022-07-06 19:56:42
+ * @since 1.0, 2023-05-31 00:04:25
  */
 class KoubeiCateringOrderSyncRequest
 {

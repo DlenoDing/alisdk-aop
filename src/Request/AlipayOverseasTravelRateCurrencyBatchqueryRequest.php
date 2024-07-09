@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.overseas.travel.rate.currency.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-03-25 11:37:54
+ * @since 1.0, 2023-07-14 10:45:58
  */
 class AlipayOverseasTravelRateCurrencyBatchqueryRequest
 {

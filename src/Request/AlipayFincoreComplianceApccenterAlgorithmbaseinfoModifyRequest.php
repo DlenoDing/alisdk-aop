@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fincore.compliance.apccenter.algorithmbaseinfo.modify request
  *
  * @author auto create
- * @since 1.0, 2022-03-25 14:46:38
+ * @since 1.0, 2023-05-31 01:42:11
  */
 class AlipayFincoreComplianceApccenterAlgorithmbaseinfoModifyRequest
 {

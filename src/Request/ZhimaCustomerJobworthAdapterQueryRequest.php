@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.customer.jobworth.adapter.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:44
+ * @since 1.0, 2024-03-27 09:04:18
  */
 class ZhimaCustomerJobworthAdapterQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.public.personalized.extension.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:32:32
+ * @since 1.0, 2023-09-12 06:50:20
  */
 class AlipayOpenPublicPersonalizedExtensionBatchqueryRequest
 {

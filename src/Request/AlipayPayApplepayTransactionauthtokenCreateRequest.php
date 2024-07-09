@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pay.applepay.transactionauthtoken.create request
  *
  * @author auto create
- * @since 1.0, 2020-04-03 14:20:12
+ * @since 1.0, 2024-03-01 16:34:32
  */
 class AlipayPayApplepayTransactionauthtokenCreateRequest
 {

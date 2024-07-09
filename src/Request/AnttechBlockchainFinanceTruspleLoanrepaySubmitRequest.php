@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.blockchain.finance.trusple.loanrepay.submit request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:10:13
+ * @since 1.0, 2024-03-01 16:29:17
  */
 class AnttechBlockchainFinanceTruspleLoanrepaySubmitRequest
 {

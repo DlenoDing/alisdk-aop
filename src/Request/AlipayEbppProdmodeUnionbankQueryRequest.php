@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.prodmode.unionbank.query request
  *
  * @author auto create
- * @since 1.0, 2020-06-15 10:00:52
+ * @since 1.0, 2023-08-21 05:17:35
  */
 class AlipayEbppProdmodeUnionbankQueryRequest
 {

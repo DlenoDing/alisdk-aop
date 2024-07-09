@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.public.label.user.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:11:46
+ * @since 1.0, 2024-03-01 16:27:59
  */
 class AlipayOpenPublicLabelUserQueryRequest
 {

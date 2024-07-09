@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.account.cashpool.basic.query request
  *
  * @author auto create
- * @since 1.0, 2020-07-06 11:21:20
+ * @since 1.0, 2023-05-31 03:29:46
  */
 class AlipayAccountCashpoolBasicQueryRequest
 {

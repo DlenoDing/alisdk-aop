@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.sales.kbasset.stuff.logisticsinstock.sync request
  *
  * @author auto create
- * @since 1.0, 2019-05-31 09:04:04
+ * @since 1.0, 2023-05-31 00:31:11
  */
 class KoubeiSalesKbassetStuffLogisticsinstockSyncRequest
 {

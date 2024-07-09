@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.creditrisk.guarscheme.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-19 15:48:02
+ * @since 1.0, 2024-03-01 16:28:35
  */
 class MybankCreditCreditriskGuarschemeQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.store.miniapp.bind request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:26:09
+ * @since 1.0, 2023-08-23 21:11:10
  */
 class AlipayMerchantStoreMiniappBindRequest
 {

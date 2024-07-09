@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.zhima.preorder.create request
  *
  * @author auto create
- * @since 1.0, 2022-06-30 14:55:00
+ * @since 1.0, 2023-09-04 01:50:18
  */
 class AlipayCommerceZhimaPreorderCreateRequest
 {

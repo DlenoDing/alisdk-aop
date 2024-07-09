@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pcredit.huabei.auth.business.confirm request
  *
  * @author auto create
- * @since 1.0, 2022-07-01 16:41:09
+ * @since 1.0, 2022-11-14 16:35:44
  */
 class AlipayPcreditHuabeiAuthBusinessConfirmRequest
 {

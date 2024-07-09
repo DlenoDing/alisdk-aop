@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.servicemarket.commodity.extendinfos.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:36:22
+ * @since 1.0, 2024-03-01 16:28:53
  */
 class AlipayOpenServicemarketCommodityExtendinfosConfirmRequest
 {

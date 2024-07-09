@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.user.upload request
  *
  * @author auto create
- * @since 1.0, 2022-08-03 11:51:48
+ * @since 1.0, 2023-08-23 21:42:55
  */
 class AlipayMerchantUserUploadRequest
 {

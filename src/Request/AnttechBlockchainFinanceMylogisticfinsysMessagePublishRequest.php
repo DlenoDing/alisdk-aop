@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.blockchain.finance.mylogisticfinsys.message.publish request
  *
  * @author auto create
- * @since 1.0, 2021-10-11 17:12:14
+ * @since 1.0, 2023-08-20 16:38:17
  */
 class AnttechBlockchainFinanceMylogisticfinsysMessagePublishRequest
 {

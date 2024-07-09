@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pay.codec.acode.cert.expire request
  *
  * @author auto create
- * @since 1.0, 2022-06-20 18:42:06
+ * @since 1.0, 2024-05-17 14:37:42
  */
 class AlipayPayCodecAcodeCertExpireRequest
 {

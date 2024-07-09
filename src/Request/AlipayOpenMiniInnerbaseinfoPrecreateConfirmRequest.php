@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.innerbaseinfo.precreate.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:01:21
+ * @since 1.0, 2023-08-21 01:15:23
  */
 class AlipayOpenMiniInnerbaseinfoPrecreateConfirmRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.questionnare.task.verify request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:16
+ * @since 1.0, 2024-03-01 16:25:22
  */
 class AlipaySocialQuestionnareTaskVerifyRequest
 {

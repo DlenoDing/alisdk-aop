@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.blockchain.defin.customer.member.query request
  *
  * @author auto create
- * @since 1.0, 2020-12-15 15:15:15
+ * @since 1.0, 2023-09-03 23:02:16
  */
 class AnttechBlockchainDefinCustomerMemberQueryRequest
 {

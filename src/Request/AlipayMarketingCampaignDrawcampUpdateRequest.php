@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.campaign.drawcamp.update request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:09
+ * @since 1.0, 2024-03-01 16:27:54
  */
 class AlipayMarketingCampaignDrawcampUpdateRequest
 {

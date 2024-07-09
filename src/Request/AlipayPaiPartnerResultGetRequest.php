@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pai.partner.result.get request
  *
  * @author auto create
- * @since 1.0, 2022-08-03 17:38:33
+ * @since 1.0, 2023-05-29 19:38:36
  */
 class AlipayPaiPartnerResultGetRequest
 {

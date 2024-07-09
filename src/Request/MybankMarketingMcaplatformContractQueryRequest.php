@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.marketing.mcaplatform.contract.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-27 11:51:46
+ * @since 1.0, 2023-09-04 01:30:52
  */
 class MybankMarketingMcaplatformContractQueryRequest
 {

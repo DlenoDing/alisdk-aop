@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.msaas.mediarecog.mmtcaftscv.transaction.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-03-31 14:48:18
+ * @since 1.0, 2024-03-01 16:28:30
  */
 class AlipayMsaasMediarecogMmtcaftscvTransactionInitializeRequest
 {

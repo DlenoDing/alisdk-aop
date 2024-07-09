@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.vehicleowner.campaign.online request
  *
  * @author auto create
- * @since 1.0, 2020-01-10 17:34:41
+ * @since 1.0, 2023-09-04 00:53:48
  */
 class AlipayCommerceTransportVehicleownerCampaignOnlineRequest
 {

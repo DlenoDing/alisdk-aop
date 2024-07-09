@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.saving.pass.query request
  *
  * @author auto create
- * @since 1.0, 2020-04-14 19:10:08
+ * @since 1.0, 2024-03-01 16:27:43
  */
 class AntMerchantExpandSavingPassQueryRequest
 {

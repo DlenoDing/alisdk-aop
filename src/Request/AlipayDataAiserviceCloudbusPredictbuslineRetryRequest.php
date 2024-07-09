@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.aiservice.cloudbus.predictbusline.retry request
  *
  * @author auto create
- * @since 1.0, 2019-11-14 09:25:22
+ * @since 1.0, 2023-05-31 07:14:26
  */
 class AlipayDataAiserviceCloudbusPredictbuslineRetryRequest
 {

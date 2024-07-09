@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.merchant.contract.common.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-04-09 10:50:17
+ * @since 1.0, 2023-05-31 05:50:23
  */
 class ZhimaMerchantContractCommonCancelRequest
 {

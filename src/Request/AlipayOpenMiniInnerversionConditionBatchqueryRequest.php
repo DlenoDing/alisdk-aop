@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.innerversion.condition.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-09-30 15:41:35
+ * @since 1.0, 2023-09-11 19:43:23
  */
 class AlipayOpenMiniInnerversionConditionBatchqueryRequest
 {

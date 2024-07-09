@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.mycar.dataservice.maintainvehicle.share request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:21:42
+ * @since 1.0, 2023-05-29 20:45:54
  */
 class AlipayEcoMycarDataserviceMaintainvehicleShareRequest
 {

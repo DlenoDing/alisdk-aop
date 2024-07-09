@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.educate.campus.institutions.add request
  *
  * @author auto create
- * @since 1.0, 2022-08-09 15:59:56
+ * @since 1.0, 2024-03-01 16:26:18
  */
 class AlipayCommerceEducateCampusInstitutionsAddRequest
 {

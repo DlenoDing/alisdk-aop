@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.quality.test.shield.testcase.query request
  *
  * @author auto create
- * @since 1.0, 2020-01-08 15:13:58
+ * @since 1.0, 2023-08-21 04:19:53
  */
 class KoubeiQualityTestShieldTestcaseQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.payment.trade.deposit.verify.query request
  *
  * @author auto create
- * @since 1.0, 2021-02-25 16:32:32
+ * @since 1.0, 2023-08-21 01:11:55
  */
 class MybankPaymentTradeDepositVerifyQueryRequest
 {

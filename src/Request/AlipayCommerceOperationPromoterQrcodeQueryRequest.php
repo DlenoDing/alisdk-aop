@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.operation.promoter.qrcode.query request
  *
  * @author auto create
- * @since 1.0, 2021-10-08 15:10:32
+ * @since 1.0, 2023-05-29 22:52:56
  */
 class AlipayCommerceOperationPromoterQrcodeQueryRequest
 {

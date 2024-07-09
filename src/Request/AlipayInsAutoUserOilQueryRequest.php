@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.auto.user.oil.query request
  *
  * @author auto create
- * @since 1.0, 2019-07-04 17:22:37
+ * @since 1.0, 2024-03-01 16:26:59
  */
 class AlipayInsAutoUserOilQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.encode.shortlink.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:37:43
+ * @since 1.0, 2023-09-03 23:38:40
  */
 class AlipayMarketingEncodeShortlinkCreateRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.coupon.template.create request
  *
  * @author auto create
- * @since 1.0, 2021-11-22 11:32:58
+ * @since 1.0, 2023-11-27 10:23:54
  */
 class AlipayMarketingCouponTemplateCreateRequest
 {

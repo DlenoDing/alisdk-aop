@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fincore.compliance.rcsmart.qtdialogue.check request
  *
  * @author auto create
- * @since 1.0, 2022-05-20 11:36:47
+ * @since 1.0, 2023-08-21 03:25:23
  */
 class AlipayFincoreComplianceRcsmartQtdialogueCheckRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.iotvsp.user.delete request
  *
  * @author auto create
- * @since 1.0, 2022-04-11 19:06:42
+ * @since 1.0, 2023-09-19 16:04:32
  */
 class AlipayOpenIotvspUserDeleteRequest
 {

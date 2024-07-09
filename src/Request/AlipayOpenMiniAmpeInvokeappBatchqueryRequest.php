@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.ampe.invokeapp.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-07-14 10:50:37
+ * @since 1.0, 2024-04-03 11:56:03
  */
 class AlipayOpenMiniAmpeInvokeappBatchqueryRequest
 {

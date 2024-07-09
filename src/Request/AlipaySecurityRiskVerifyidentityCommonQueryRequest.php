@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.risk.verifyidentity.common.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-21 12:01:49
+ * @since 1.0, 2024-03-04 15:01:28
  */
 class AlipaySecurityRiskVerifyidentityCommonQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.insserviceprod.item.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-16 14:25:16
+ * @since 1.0, 2023-08-21 02:27:36
  */
 class AlipayInsSceneInsserviceprodItemQueryRequest
 {

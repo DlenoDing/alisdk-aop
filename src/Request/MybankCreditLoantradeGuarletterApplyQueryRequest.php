@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.loantrade.guarletter.apply.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-24 17:39:07
+ * @since 1.0, 2023-09-18 20:02:02
  */
 class MybankCreditLoantradeGuarletterApplyQueryRequest
 {

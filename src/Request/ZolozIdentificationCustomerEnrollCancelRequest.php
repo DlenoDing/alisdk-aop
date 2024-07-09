@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zoloz.identification.customer.enroll.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-04-14 20:41:42
+ * @since 1.0, 2023-08-20 18:41:37
  */
 class ZolozIdentificationCustomerEnrollCancelRequest
 {

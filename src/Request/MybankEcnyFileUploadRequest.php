@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.ecny.file.upload request
  *
  * @author auto create
- * @since 1.0, 2021-12-10 19:24:04
+ * @since 1.0, 2023-08-23 21:13:46
  */
 class MybankEcnyFileUploadRequest
 {

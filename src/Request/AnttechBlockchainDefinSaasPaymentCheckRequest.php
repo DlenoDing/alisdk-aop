@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.blockchain.defin.saas.payment.check request
  *
  * @author auto create
- * @since 1.0, 2022-08-25 21:01:50
+ * @since 1.0, 2023-11-22 14:50:32
  */
 class AnttechBlockchainDefinSaasPaymentCheckRequest
 {

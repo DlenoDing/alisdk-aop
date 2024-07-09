@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.iot.advertiser.material.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-16 16:41:14
+ * @since 1.0, 2023-09-04 00:16:20
  */
 class AlipayCommerceIotAdvertiserMaterialQueryRequest
 {

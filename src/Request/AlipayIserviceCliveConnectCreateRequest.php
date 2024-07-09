@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.iservice.clive.connect.create request
  *
  * @author auto create
- * @since 1.0, 2021-08-27 15:17:47
+ * @since 1.0, 2023-10-07 15:24:20
  */
 class AlipayIserviceCliveConnectCreateRequest
 {

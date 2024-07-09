@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.risk.offlinevars.query request
  *
  * @author auto create
- * @since 1.0, 2019-07-29 16:06:43
+ * @since 1.0, 2023-08-20 16:39:39
  */
 class AlipaySecurityRiskOfflinevarsQueryRequest
 {

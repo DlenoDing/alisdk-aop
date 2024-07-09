@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.iot.shopcode.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:46:33
+ * @since 1.0, 2023-05-31 22:34:42
  */
 class AlipayCommerceIotShopcodeCancelRequest
 {

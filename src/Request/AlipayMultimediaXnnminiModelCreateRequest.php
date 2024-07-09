@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.multimedia.xnnmini.model.create request
  *
  * @author auto create
- * @since 1.0, 2020-11-19 16:07:27
+ * @since 1.0, 2023-05-29 23:36:58
  */
 class AlipayMultimediaXnnminiModelCreateRequest
 {

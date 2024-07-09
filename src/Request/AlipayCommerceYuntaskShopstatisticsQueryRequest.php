@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.yuntask.shopstatistics.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-27 20:41:43
+ * @since 1.0, 2023-05-31 09:47:03
  */
 class AlipayCommerceYuntaskShopstatisticsQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.auth.operation.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-03-10 14:03:52
+ * @since 1.0, 2024-05-31 16:57:02
  */
 class AlipayFundAuthOperationCancelRequest
 {

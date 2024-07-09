@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.prod.antlegalchain.order.apply request
  *
  * @author auto create
- * @since 1.0, 2022-05-19 14:43:28
+ * @since 1.0, 2024-03-01 16:27:00
  */
 class AlipayBossProdAntlegalchainOrderApplyRequest
 {

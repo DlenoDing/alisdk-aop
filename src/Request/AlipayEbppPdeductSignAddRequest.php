@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.pdeduct.sign.add request
  *
  * @author auto create
- * @since 1.0, 2022-06-01 15:21:14
+ * @since 1.0, 2024-04-23 15:38:46
  */
 class AlipayEbppPdeductSignAddRequest
 {
@@ -71,6 +72,11 @@ min_age: 允许的最小买家年龄,min_age为整数，必须大于等于0.
 	 * 通知方式设置，可为空
 	 **/
 	private $notifyConfig;
+	
+	/** 
+	 * 用户UserId在应用AppId下的唯一用户标识
+	 **/
+	private $openId;
 	
 	/** 
 	 * 外部产生的协议ID
@@ -246,6 +252,17 @@ min_age: 允许的最小买家年龄,min_age为整数，必须大于等于0.
 	public function getNotifyConfig()
 	{
 		return $this->notifyConfig;
+	}
+
+	public function setOpenId($openId)
+	{
+		$this->openId = $openId;
+		$this->apiParas["open_id"] = $openId;
+	}
+
+	public function getOpenId()
+	{
+		return $this->openId;
 	}
 
 	public function setOutAgreementId($outAgreementId)

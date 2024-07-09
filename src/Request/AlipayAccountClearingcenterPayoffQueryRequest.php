@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.account.clearingcenter.payoff.query request
  *
  * @author auto create
- * @since 1.0, 2020-06-28 09:59:20
+ * @since 1.0, 2023-08-21 01:16:09
  */
 class AlipayAccountClearingcenterPayoffQueryRequest
 {

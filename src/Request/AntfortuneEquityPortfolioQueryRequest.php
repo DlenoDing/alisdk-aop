@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: antfortune.equity.portfolio.query request
  *
  * @author auto create
- * @since 1.0, 2019-11-25 10:55:36
+ * @since 1.0, 2023-05-31 01:38:03
  */
 class AntfortuneEquityPortfolioQueryRequest
 {

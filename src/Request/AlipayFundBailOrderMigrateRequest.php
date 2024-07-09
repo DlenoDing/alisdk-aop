@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.bail.order.migrate request
  *
  * @author auto create
- * @since 1.0, 2022-01-19 10:11:47
+ * @since 1.0, 2023-09-04 00:21:49
  */
 class AlipayFundBailOrderMigrateRequest
 {

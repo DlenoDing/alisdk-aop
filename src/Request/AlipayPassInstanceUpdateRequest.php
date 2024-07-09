@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pass.instance.update request
  *
  * @author auto create
- * @since 1.0, 2022-05-09 09:53:40
+ * @since 1.0, 2024-03-28 00:12:44
  */
 class AlipayPassInstanceUpdateRequest
 {

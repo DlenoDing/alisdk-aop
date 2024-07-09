@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.dataservice.ad.group.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-08 11:48:50
+ * @since 1.0, 2023-08-20 18:01:55
  */
 class AlipayDataDataserviceAdGroupQueryRequest
 {

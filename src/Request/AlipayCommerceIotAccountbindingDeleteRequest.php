@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.iot.accountbinding.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:39:21
+ * @since 1.0, 2023-08-21 02:06:33
  */
 class AlipayCommerceIotAccountbindingDeleteRequest
 {

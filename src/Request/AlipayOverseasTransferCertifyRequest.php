@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.overseas.transfer.certify request
  *
  * @author auto create
- * @since 1.0, 2021-07-15 16:32:37
+ * @since 1.0, 2024-03-01 16:28:28
  */
 class AlipayOverseasTransferCertifyRequest
 {

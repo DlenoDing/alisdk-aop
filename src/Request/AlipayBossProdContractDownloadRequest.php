@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.prod.contract.download request
  *
  * @author auto create
- * @since 1.0, 2021-11-12 14:35:34
+ * @since 1.0, 2023-08-24 21:15:50
  */
 class AlipayBossProdContractDownloadRequest
 {

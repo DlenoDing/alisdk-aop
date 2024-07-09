@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.operation.benefit.all.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:50:34
+ * @since 1.0, 2023-08-21 05:19:54
  */
 class AlipayCommerceOperationBenefitAllSyncRequest
 {

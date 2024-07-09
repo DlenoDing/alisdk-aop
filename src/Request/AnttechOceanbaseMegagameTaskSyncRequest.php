@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.oceanbase.megagame.task.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:12:55
+ * @since 1.0, 2023-08-21 03:19:06
  */
 class AnttechOceanbaseMegagameTaskSyncRequest
 {

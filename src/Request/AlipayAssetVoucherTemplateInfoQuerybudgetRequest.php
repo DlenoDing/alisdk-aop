@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.asset.voucher.template.info.querybudget request
  *
  * @author auto create
- * @since 1.0, 2021-02-01 11:19:12
+ * @since 1.0, 2024-05-27 14:00:20
  */
 class AlipayAssetVoucherTemplateInfoQuerybudgetRequest
 {

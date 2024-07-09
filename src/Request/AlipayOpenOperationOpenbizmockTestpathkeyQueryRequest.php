@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.operation.openbizmock.testpathkey.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-16 19:11:48
+ * @since 1.0, 2024-04-11 23:22:52
  */
 class AlipayOpenOperationOpenbizmockTestpathkeyQueryRequest
 {
@@ -29,9 +30,24 @@ class AlipayOpenOperationOpenbizmockTestpathkeyQueryRequest
 	private $d;
 	
 	/** 
+	 * 1
+	 **/
+	private $e;
+	
+	/** 
+	 * 1
+	 **/
+	private $f;
+	
+	/** 
 	 * ceshi
 	 **/
 	private $keykey;
+	
+	/** 
+	 * 1
+	 **/
+	private $testPrice;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -87,6 +103,28 @@ class AlipayOpenOperationOpenbizmockTestpathkeyQueryRequest
 		return $this->d;
 	}
 
+	public function setE($e)
+	{
+		$this->e = $e;
+		$this->apiParas["e"] = $e;
+	}
+
+	public function getE()
+	{
+		return $this->e;
+	}
+
+	public function setF($f)
+	{
+		$this->f = $f;
+		$this->apiParas["f"] = $f;
+	}
+
+	public function getF()
+	{
+		return $this->f;
+	}
+
 	public function setKeykey($keykey)
 	{
 		$this->keykey = $keykey;
@@ -96,6 +134,17 @@ class AlipayOpenOperationOpenbizmockTestpathkeyQueryRequest
 	public function getKeykey()
 	{
 		return $this->keykey;
+	}
+
+	public function setTestPrice($testPrice)
+	{
+		$this->testPrice = $testPrice;
+		$this->apiParas["test_price"] = $testPrice;
+	}
+
+	public function getTestPrice()
+	{
+		return $this->testPrice;
 	}
 
 	public function getApiMethodName()

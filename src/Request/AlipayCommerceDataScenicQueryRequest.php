@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.data.scenic.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:58
+ * @since 1.0, 2024-03-01 16:26:59
  */
 class AlipayCommerceDataScenicQueryRequest
 {

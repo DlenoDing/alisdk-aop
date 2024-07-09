@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.prod.fingerprint.device.verify request
  *
  * @author auto create
- * @since 1.0, 2022-07-18 14:40:08
+ * @since 1.0, 2023-08-21 03:58:54
  */
 class AlipaySecurityProdFingerprintDeviceVerifyRequest
 {

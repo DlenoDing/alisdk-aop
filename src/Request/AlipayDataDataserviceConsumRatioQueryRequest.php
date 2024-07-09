@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.dataservice.consum.ratio.query request
  *
  * @author auto create
- * @since 1.0, 2019-09-06 20:54:40
+ * @since 1.0, 2023-08-20 17:07:19
  */
 class AlipayDataDataserviceConsumRatioQueryRequest
 {

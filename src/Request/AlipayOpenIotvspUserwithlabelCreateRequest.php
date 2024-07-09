@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.iotvsp.userwithlabel.create request
  *
  * @author auto create
- * @since 1.0, 2022-05-27 18:36:41
+ * @since 1.0, 2023-09-19 16:05:06
  */
 class AlipayOpenIotvspUserwithlabelCreateRequest
 {

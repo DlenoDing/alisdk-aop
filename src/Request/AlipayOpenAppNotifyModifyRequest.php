@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.app.notify.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:43:58
+ * @since 1.0, 2023-08-24 23:01:27
  */
 class AlipayOpenAppNotifyModifyRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.medical.card.auth.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-17 11:11:39
+ * @since 1.0, 2024-03-01 16:34:26
  */
 class AlipayCommerceMedicalCardAuthQueryRequest
 {

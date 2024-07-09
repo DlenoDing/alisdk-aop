@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.plan.operate.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:15:10
+ * @since 1.0, 2023-08-20 16:36:29
  */
 class AlipayOpenMiniPlanOperateModifyRequest
 {

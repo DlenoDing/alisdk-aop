@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.trade.royalty.relation.unbind request
  *
  * @author auto create
- * @since 1.0, 2021-09-18 10:56:49
+ * @since 1.0, 2023-11-07 19:06:53
  */
 class AlipayTradeRoyaltyRelationUnbindRequest
 {

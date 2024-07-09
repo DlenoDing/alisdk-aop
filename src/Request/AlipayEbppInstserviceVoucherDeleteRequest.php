@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.instservice.voucher.delete request
  *
  * @author auto create
- * @since 1.0, 2022-06-23 15:11:43
+ * @since 1.0, 2024-03-26 21:32:59
  */
 class AlipayEbppInstserviceVoucherDeleteRequest
 {

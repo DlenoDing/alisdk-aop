@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.indirect.bind.query request
  *
  * @author auto create
- * @since 1.0, 2022-04-20 17:51:48
+ * @since 1.0, 2023-08-20 18:24:41
  */
 class AntMerchantExpandIndirectBindQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.insserviceprod.finish request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:10:12
+ * @since 1.0, 2023-08-23 21:18:02
  */
 class AlipayInsSceneInsserviceprodFinishRequest
 {

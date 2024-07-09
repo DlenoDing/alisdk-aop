@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.industry.gov.healthcode.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:14:05
+ * @since 1.0, 2024-03-01 16:34:28
  */
 class AlipayEbppIndustryGovHealthcodeQueryRequest
 {

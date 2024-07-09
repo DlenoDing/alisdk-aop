@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.ecny.trade.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-14 16:38:07
+ * @since 1.0, 2024-03-12 15:16:03
  */
 class MybankEcnyTradeQueryRequest
 {

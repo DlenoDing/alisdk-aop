@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: datadigital.fincloud.generalsaas.ocr.mobile.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-07-22 17:47:29
+ * @since 1.0, 2023-12-14 09:51:54
  */
 class DatadigitalFincloudGeneralsaasOcrMobileInitializeRequest
 {

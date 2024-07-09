@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.etc.info.modify request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:16:47
+ * @since 1.0, 2024-06-06 20:42:03
  */
 class AlipayCommerceTransportEtcInfoModifyRequest
 {

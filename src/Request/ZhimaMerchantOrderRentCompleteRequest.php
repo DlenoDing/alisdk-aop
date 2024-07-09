@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.merchant.order.rent.complete request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:13
+ * @since 1.0, 2024-03-27 09:49:31
  */
 class ZhimaMerchantOrderRentCompleteRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: datadigital.fincloud.generalsaas.face.certify.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:16:58
+ * @since 1.0, 2024-05-07 16:42:03
  */
 class DatadigitalFincloudGeneralsaasFaceCertifyInitializeRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.dtbank.banktradeinfo.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-27 10:10:29
+ * @since 1.0, 2023-08-23 21:27:35
  */
 class AlipayUserDtbankBanktradeinfoQueryRequest
 {

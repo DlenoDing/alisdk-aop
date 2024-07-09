@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.campaign.unicard.excode.create request
  *
  * @author auto create
- * @since 1.0, 2022-07-23 11:31:41
+ * @since 1.0, 2023-08-24 22:54:41
  */
 class AlipayMarketingCampaignUnicardExcodeCreateRequest
 {

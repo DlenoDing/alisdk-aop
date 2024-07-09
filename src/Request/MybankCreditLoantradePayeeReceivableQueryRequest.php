@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.loantrade.payee.receivable.query request
  *
  * @author auto create
- * @since 1.0, 2022-02-09 10:52:01
+ * @since 1.0, 2024-03-01 16:29:04
  */
 class MybankCreditLoantradePayeeReceivableQueryRequest
 {

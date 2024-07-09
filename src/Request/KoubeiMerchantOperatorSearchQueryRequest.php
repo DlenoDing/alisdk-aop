@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.merchant.operator.search.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-17 16:43:50
+ * @since 1.0, 2023-08-21 03:08:15
  */
 class KoubeiMerchantOperatorSearchQueryRequest
 {

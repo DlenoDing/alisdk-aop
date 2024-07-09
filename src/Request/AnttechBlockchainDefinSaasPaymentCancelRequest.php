@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.blockchain.defin.saas.payment.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-08-25 22:31:46
+ * @since 1.0, 2023-11-22 14:52:15
  */
 class AnttechBlockchainDefinSaasPaymentCancelRequest
 {

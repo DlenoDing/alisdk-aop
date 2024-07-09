@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: antfortune.equity.instpoint.prizeexchange.use request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:56
+ * @since 1.0, 2024-03-01 16:29:04
  */
 class AntfortuneEquityInstpointPrizeexchangeUseRequest
 {

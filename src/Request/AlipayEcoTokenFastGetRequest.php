@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.token.fast.get request
  *
  * @author auto create
- * @since 1.0, 2019-09-06 17:54:51
+ * @since 1.0, 2023-08-21 01:33:08
  */
 class AlipayEcoTokenFastGetRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.merchant.contract.quick.create request
  *
  * @author auto create
- * @since 1.0, 2021-05-17 10:40:52
+ * @since 1.0, 2024-03-27 09:48:57
  */
 class ZhimaMerchantContractQuickCreateRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.base.instance.operatetrace.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-16 15:05:24
+ * @since 1.0, 2023-09-04 00:33:55
  */
 class AlipayBossBaseInstanceOperatetraceQueryRequest
 {

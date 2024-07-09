@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.data.databus.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:45:09
+ * @since 1.0, 2023-08-20 17:38:22
  */
 class AlipaySecurityDataDatabusSendRequest
 {

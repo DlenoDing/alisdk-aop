@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fincore.fundds.account.witness.modify request
  *
  * @author auto create
- * @since 1.0, 2022-08-30 15:13:12
+ * @since 1.0, 2023-09-06 20:26:07
  */
 class AlipayFincoreFunddsAccountWitnessModifyRequest
 {

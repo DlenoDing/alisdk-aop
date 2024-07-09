@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: datadigital.fincloud.finsaas.putplan.recover request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 17:31:38
+ * @since 1.0, 2023-08-21 01:14:36
  */
 class DatadigitalFincloudFinsaasPutplanRecoverRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.bizdata.templatemessage.delete request
  *
  * @author auto create
- * @since 1.0, 2019-12-03 20:10:12
+ * @since 1.0, 2024-03-27 08:42:30
  */
 class AlipayOpenMiniBizdataTemplatemessageDeleteRequest
 {

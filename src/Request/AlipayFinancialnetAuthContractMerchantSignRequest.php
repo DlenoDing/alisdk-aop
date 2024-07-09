@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.financialnet.auth.contract.merchant.sign request
  *
  * @author auto create
- * @since 1.0, 2022-06-10 14:43:02
+ * @since 1.0, 2024-03-01 16:27:35
  */
 class AlipayFinancialnetAuthContractMerchantSignRequest
 {

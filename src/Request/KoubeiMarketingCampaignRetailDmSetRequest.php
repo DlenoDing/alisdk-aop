@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.marketing.campaign.retail.dm.set request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 11:16:42
+ * @since 1.0, 2023-05-31 01:51:03
  */
 class KoubeiMarketingCampaignRetailDmSetRequest
 {

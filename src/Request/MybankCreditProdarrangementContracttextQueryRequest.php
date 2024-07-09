@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.prodarrangement.contracttext.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-19 15:48:56
+ * @since 1.0, 2023-05-29 19:36:53
  */
 class MybankCreditProdarrangementContracttextQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.blockchain.sign.index.create request
  *
  * @author auto create
- * @since 1.0, 2021-09-08 17:30:26
+ * @since 1.0, 2024-03-04 15:01:08
  */
 class AnttechBlockchainSignIndexCreateRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.trans.invoice.resubmit.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:04:33
+ * @since 1.0, 2023-08-21 05:45:23
  */
 class AlipayFundTransInvoiceResubmitModifyRequest
 {

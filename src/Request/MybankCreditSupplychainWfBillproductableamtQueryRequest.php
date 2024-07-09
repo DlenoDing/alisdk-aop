@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.supplychain.wf.billproductableamt.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:16:55
+ * @since 1.0, 2023-08-23 21:45:12
  */
 class MybankCreditSupplychainWfBillproductableamtQueryRequest
 {

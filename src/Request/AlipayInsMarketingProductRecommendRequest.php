@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.marketing.product.recommend request
  *
  * @author auto create
- * @since 1.0, 2021-07-31 22:55:25
+ * @since 1.0, 2024-03-01 16:27:41
  */
 class AlipayInsMarketingProductRecommendRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.antpaas.token.third.trust.login request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:16:24
+ * @since 1.0, 2023-05-29 23:15:31
  */
 class AlipayUserAntpaasTokenThirdTrustLoginRequest
 {

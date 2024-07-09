@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.agent.mini.create request
  *
  * @author auto create
- * @since 1.0, 2022-03-03 16:47:36
+ * @since 1.0, 2023-09-11 18:57:46
  */
 class AlipayOpenAgentMiniCreateRequest
 {

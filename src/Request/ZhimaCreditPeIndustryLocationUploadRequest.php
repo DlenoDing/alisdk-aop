@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.pe.industry.location.upload request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:47:51
+ * @since 1.0, 2024-03-01 16:27:34
  */
 class ZhimaCreditPeIndustryLocationUploadRequest
 {

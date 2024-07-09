@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: monitor.heartbeat.syn request
  *
  * @author auto create
- * @since 1.0, 2022-03-10 16:31:12
+ * @since 1.0, 2024-06-12 10:17:50
  */
 class MonitorHeartbeatSynRequest
 {

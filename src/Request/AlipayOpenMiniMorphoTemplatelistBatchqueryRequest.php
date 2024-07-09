@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.morpho.templatelist.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-08-20 19:52:02
+ * @since 1.0, 2023-08-23 21:18:32
  */
 class AlipayOpenMiniMorphoTemplatelistBatchqueryRequest
 {

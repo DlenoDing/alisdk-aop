@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.mobile.deviceinfo.getidbytoken request
  *
  * @author auto create
- * @since 1.0, 2022-09-07 15:19:12
+ * @since 1.0, 2024-03-01 16:27:35
  */
 class AlipayMobileDeviceinfoGetidbytokenRequest
 {

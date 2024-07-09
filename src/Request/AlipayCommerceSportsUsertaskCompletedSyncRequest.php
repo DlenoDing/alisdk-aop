@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.sports.usertask.completed.sync request
  *
  * @author auto create
- * @since 1.0, 2022-07-04 16:01:59
+ * @since 1.0, 2023-11-08 21:49:57
  */
 class AlipayCommerceSportsUsertaskCompletedSyncRequest
 {

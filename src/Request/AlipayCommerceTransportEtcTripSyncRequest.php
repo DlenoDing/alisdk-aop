@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.etc.trip.sync request
  *
  * @author auto create
- * @since 1.0, 2021-09-29 15:15:30
+ * @since 1.0, 2024-03-01 16:26:18
  */
 class AlipayCommerceTransportEtcTripSyncRequest
 {

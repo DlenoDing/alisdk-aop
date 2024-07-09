@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.offline.provider.indirectisv.activity.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-20 17:37:58
+ * @since 1.0, 2023-08-20 17:18:35
  */
 class AlipayOfflineProviderIndirectisvActivityCreateRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.stepcounter.sync request
  *
  * @author auto create
- * @since 1.0, 2022-03-18 10:51:28
+ * @since 1.0, 2024-03-01 16:26:57
  */
 class AlipayUserStepcounterSyncRequest
 {

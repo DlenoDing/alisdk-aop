@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.oceanbase.passinfo.logininfo.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-26 14:00:31
+ * @since 1.0, 2023-09-13 14:54:37
  */
 class AnttechOceanbasePassinfoLogininfoQueryRequest
 {

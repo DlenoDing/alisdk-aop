@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.inner.mtopsync.modify request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 17:21:33
+ * @since 1.0, 2023-08-24 22:17:32
  */
 class AlipayOpenMiniInnerMtopsyncModifyRequest
 {

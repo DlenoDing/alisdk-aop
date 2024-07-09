@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.overseas.travel.shop.sync request
  *
  * @author auto create
- * @since 1.0, 2022-01-17 17:47:55
+ * @since 1.0, 2024-03-01 16:28:30
  */
 class AlipayOverseasTravelShopSyncRequest
 {

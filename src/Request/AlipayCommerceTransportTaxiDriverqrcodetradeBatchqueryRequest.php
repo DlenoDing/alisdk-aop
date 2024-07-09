@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.taxi.driverqrcodetrade.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-09-09 21:37:44
+ * @since 1.0, 2024-03-28 00:11:47
  */
 class AlipayCommerceTransportTaxiDriverqrcodetradeBatchqueryRequest
 {

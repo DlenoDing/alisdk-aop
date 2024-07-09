@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.poi.powerbanklocation.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-11 16:37:37
+ * @since 1.0, 2023-10-24 13:54:39
  */
 class AlipayCommercePoiPowerbanklocationQueryRequest
 {

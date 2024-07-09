@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.agent.commonsign.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-12-07 21:00:59
+ * @since 1.0, 2024-02-21 10:16:57
  */
 class AlipayOpenAgentCommonsignConfirmRequest
 {

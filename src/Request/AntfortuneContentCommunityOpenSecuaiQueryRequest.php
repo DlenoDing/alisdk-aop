@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: antfortune.content.community.open.secuai.query request
  *
  * @author auto create
- * @since 1.0, 2019-03-27 16:50:04
+ * @since 1.0, 2023-05-30 20:27:37
  */
 class AntfortuneContentCommunityOpenSecuaiQueryRequest
 {

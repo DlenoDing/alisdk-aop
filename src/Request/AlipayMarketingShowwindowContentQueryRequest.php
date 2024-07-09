@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.showwindow.content.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-05 00:38:20
+ * @since 1.0, 2023-08-21 01:33:30
  */
 class AlipayMarketingShowwindowContentQueryRequest
 {

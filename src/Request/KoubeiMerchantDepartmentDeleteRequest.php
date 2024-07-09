@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.merchant.department.delete request
  *
  * @author auto create
- * @since 1.0, 2022-06-17 16:47:26
+ * @since 1.0, 2023-08-23 21:10:08
  */
 class KoubeiMerchantDepartmentDeleteRequest
 {

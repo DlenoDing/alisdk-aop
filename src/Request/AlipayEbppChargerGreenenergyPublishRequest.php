@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.charger.greenenergy.publish request
  *
  * @author auto create
- * @since 1.0, 2022-04-06 10:26:39
+ * @since 1.0, 2023-10-22 11:21:00
  */
 class AlipayEbppChargerGreenenergyPublishRequest
 {

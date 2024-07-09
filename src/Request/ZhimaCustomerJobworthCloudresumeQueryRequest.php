@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.customer.jobworth.cloudresume.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-07 10:01:42
+ * @since 1.0, 2023-12-29 11:41:56
  */
 class ZhimaCustomerJobworthCloudresumeQueryRequest
 {

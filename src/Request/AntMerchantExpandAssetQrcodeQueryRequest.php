@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.asset.qrcode.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-25 16:11:15
+ * @since 1.0, 2023-09-04 02:05:18
  */
 class AntMerchantExpandAssetQrcodeQueryRequest
 {

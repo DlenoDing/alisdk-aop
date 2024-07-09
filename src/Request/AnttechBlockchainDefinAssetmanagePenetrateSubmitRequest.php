@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.blockchain.defin.assetmanage.penetrate.submit request
  *
  * @author auto create
- * @since 1.0, 2020-06-28 11:15:16
+ * @since 1.0, 2024-05-17 12:00:02
  */
 class AnttechBlockchainDefinAssetmanagePenetrateSubmitRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.ampe.enter.apply request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:46:19
+ * @since 1.0, 2024-04-03 11:53:04
  */
 class AlipayOpenMiniAmpeEnterApplyRequest
 {

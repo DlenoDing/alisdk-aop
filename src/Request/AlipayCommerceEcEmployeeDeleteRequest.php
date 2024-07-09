@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.ec.employee.delete request
  *
  * @author auto create
- * @since 1.0, 2022-08-13 00:16:43
+ * @since 1.0, 2024-05-30 17:53:27
  */
 class AlipayCommerceEcEmployeeDeleteRequest
 {

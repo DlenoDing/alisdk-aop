@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.iservice.cognitive.ocr.idcard.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:13:13
+ * @since 1.0, 2024-03-01 16:27:39
  */
 class AlipayIserviceCognitiveOcrIdcardQueryRequest
 {

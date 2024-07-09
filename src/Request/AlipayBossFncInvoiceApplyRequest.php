@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.fnc.invoice.apply request
  *
  * @author auto create
- * @since 1.0, 2021-10-11 11:26:00
+ * @since 1.0, 2024-01-22 09:39:48
  */
 class AlipayBossFncInvoiceApplyRequest
 {

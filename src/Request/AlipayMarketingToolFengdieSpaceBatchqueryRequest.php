@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.tool.fengdie.space.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-01-06 16:28:35
+ * @since 1.0, 2023-05-31 01:07:50
  */
 class AlipayMarketingToolFengdieSpaceBatchqueryRequest
 {

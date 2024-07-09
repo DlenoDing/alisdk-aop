@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.automat.apply.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 11:26:47
+ * @since 1.0, 2023-08-23 20:59:56
  */
 class AntMerchantExpandAutomatApplyModifyRequest
 {

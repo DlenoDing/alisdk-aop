@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.enterprisepay.member.modify request
  *
  * @author auto create
- * @since 1.0, 2022-06-07 16:31:43
+ * @since 1.0, 2024-04-01 23:23:30
  */
 class AlipayFundEnterprisepayMemberModifyRequest
 {

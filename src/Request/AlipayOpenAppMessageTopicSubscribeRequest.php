@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.app.message.topic.subscribe request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 15:48:02
+ * @since 1.0, 2024-05-30 11:21:43
  */
 class AlipayOpenAppMessageTopicSubscribeRequest
 {

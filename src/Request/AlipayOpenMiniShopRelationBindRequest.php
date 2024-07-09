@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.shop.relation.bind request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:18:37
+ * @since 1.0, 2023-09-04 00:31:21
  */
 class AlipayOpenMiniShopRelationBindRequest
 {

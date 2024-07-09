@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.auth.app.aes.set request
  *
  * @author auto create
- * @since 1.0, 2021-08-23 13:40:09
+ * @since 1.0, 2023-09-11 17:46:24
  */
 class AlipayOpenAuthAppAesSetRequest
 {

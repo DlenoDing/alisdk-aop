@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.vehicleowner.message.send request
  *
  * @author auto create
- * @since 1.0, 2021-04-03 10:28:24
+ * @since 1.0, 2024-03-26 21:24:24
  */
 class AlipayCommerceTransportVehicleownerMessageSendRequest
 {

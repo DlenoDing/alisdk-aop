@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.trade.ticket.ticketcode.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-09-14 17:08:24
+ * @since 1.0, 2023-05-31 20:14:37
  */
 class KoubeiTradeTicketTicketcodeCancelRequest
 {

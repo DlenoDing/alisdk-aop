@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.renthouse.ka.baseinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2019-01-07 20:51:15
+ * @since 1.0, 2023-05-31 05:35:33
  */
 class AlipayEcoRenthouseKaBaseinfoSyncRequest
 {

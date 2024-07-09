@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.iot.wifi.result.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:49
+ * @since 1.0, 2024-03-01 16:28:48
  */
 class AlipayCommerceIotWifiResultQueryRequest
 {

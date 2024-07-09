@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.supplychain.creditpay.sellersignadmit.query request
  *
  * @author auto create
- * @since 1.0, 2020-03-04 11:22:50
+ * @since 1.0, 2023-05-29 21:21:58
  */
 class MybankCreditSupplychainCreditpaySellersignadmitQueryRequest
 {

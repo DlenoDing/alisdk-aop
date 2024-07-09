@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: datadigital.fincloud.finsaas.crowd.logical.create request
  *
  * @author auto create
- * @since 1.0, 2022-08-03 16:56:42
+ * @since 1.0, 2023-08-24 22:14:41
  */
 class DatadigitalFincloudFinsaasCrowdLogicalCreateRequest
 {

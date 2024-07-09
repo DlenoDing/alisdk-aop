@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.business.order.pay request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:12
+ * @since 1.0, 2024-03-01 16:27:59
  */
 class AlipayBusinessOrderPayRequest
 {

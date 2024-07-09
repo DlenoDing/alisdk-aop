@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.ampe.tracer.sync request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 14:22:55
+ * @since 1.0, 2023-09-04 01:49:08
  */
 class AlipayOpenMiniAmpeTracerSyncRequest
 {

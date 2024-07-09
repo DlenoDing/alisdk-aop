@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.blockchain.defin.insurance.apply.create request
  *
  * @author auto create
- * @since 1.0, 2022-03-31 11:26:39
+ * @since 1.0, 2024-06-19 11:09:47
  */
 class AnttechBlockchainDefinInsuranceApplyCreateRequest
 {

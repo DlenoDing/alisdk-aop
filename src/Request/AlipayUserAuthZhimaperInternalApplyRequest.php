@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.auth.zhimaper.internal.apply request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:53
+ * @since 1.0, 2024-03-01 16:26:17
  */
 class AlipayUserAuthZhimaperInternalApplyRequest
 {

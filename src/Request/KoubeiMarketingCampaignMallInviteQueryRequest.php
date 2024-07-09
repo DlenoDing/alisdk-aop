@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.marketing.campaign.mall.invite.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 11:14:18
+ * @since 1.0, 2023-09-04 00:51:05
  */
 class KoubeiMarketingCampaignMallInviteQueryRequest
 {

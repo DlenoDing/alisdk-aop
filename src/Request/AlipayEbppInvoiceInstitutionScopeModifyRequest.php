@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.invoice.institution.scope.modify request
  *
  * @author auto create
- * @since 1.0, 2022-08-18 15:34:29
+ * @since 1.0, 2024-01-30 21:02:12
  */
 class AlipayEbppInvoiceInstitutionScopeModifyRequest
 {

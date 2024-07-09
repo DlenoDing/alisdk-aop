@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.educate.authenticate.campuscard.delete request
  *
  * @author auto create
- * @since 1.0, 2022-05-13 14:17:27
+ * @since 1.0, 2024-03-01 16:27:41
  */
 class AlipayCommerceEducateAuthenticateCampuscardDeleteRequest
 {

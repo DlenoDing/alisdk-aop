@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fincore.compliance.caas.merchantlevel.consult request
  *
  * @author auto create
- * @since 1.0, 2022-01-06 20:51:44
+ * @since 1.0, 2023-09-03 23:22:20
  */
 class AlipayFincoreComplianceCaasMerchantlevelConsultRequest
 {

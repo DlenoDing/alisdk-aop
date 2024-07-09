@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.safebox.agreement.sign request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:04:00
+ * @since 1.0, 2024-03-01 16:26:59
  */
 class AlipayUserSafeboxAgreementSignRequest
 {

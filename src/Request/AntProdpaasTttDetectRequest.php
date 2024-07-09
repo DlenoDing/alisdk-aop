@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.prodpaas.ttt.detect request
  *
  * @author auto create
- * @since 1.0, 2022-08-16 16:56:47
+ * @since 1.0, 2022-11-07 20:49:58
  */
 class AntProdpaasTttDetectRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.aiservice.cloudbus.predictbusline.submit request
  *
  * @author auto create
- * @since 1.0, 2021-01-21 23:34:09
+ * @since 1.0, 2023-05-31 19:53:47
  */
 class AlipayDataAiserviceCloudbusPredictbuslineSubmitRequest
 {

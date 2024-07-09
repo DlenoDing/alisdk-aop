@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.lottery.camp.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-01-07 19:36:00
+ * @since 1.0, 2023-09-03 23:49:12
  */
 class AlipayOpenLotteryCampBatchqueryRequest
 {

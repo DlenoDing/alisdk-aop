@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.base.bcgroup.joined.consult request
  *
  * @author auto create
- * @since 1.0, 2022-02-25 11:13:46
+ * @since 1.0, 2024-03-27 08:49:50
  */
 class AlipaySocialBaseBcgroupJoinedConsultRequest
 {

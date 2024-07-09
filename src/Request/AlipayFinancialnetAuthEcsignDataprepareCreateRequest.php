@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.financialnet.auth.ecsign.dataprepare.create request
  *
  * @author auto create
- * @since 1.0, 2022-01-20 11:26:33
+ * @since 1.0, 2023-08-21 05:21:47
  */
 class AlipayFinancialnetAuthEcsignDataprepareCreateRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.prod.face.pay request
  *
  * @author auto create
- * @since 1.0, 2021-02-04 11:14:13
+ * @since 1.0, 2023-08-21 03:06:32
  */
 class AlipaySecurityProdFacePayRequest
 {

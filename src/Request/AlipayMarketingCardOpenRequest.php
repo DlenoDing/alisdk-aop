@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.card.open request
  *
  * @author auto create
- * @since 1.0, 2022-08-17 13:53:54
+ * @since 1.0, 2024-04-25 16:55:38
  */
 class AlipayMarketingCardOpenRequest
 {

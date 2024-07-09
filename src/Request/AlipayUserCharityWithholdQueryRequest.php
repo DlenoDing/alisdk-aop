@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.charity.withhold.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-30 20:02:02
+ * @since 1.0, 2023-05-30 21:16:58
  */
 class AlipayUserCharityWithholdQueryRequest
 {

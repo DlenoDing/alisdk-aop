@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.trade.credit.apply.query request
  *
  * @author auto create
- * @since 1.0, 2020-07-10 19:41:13
+ * @since 1.0, 2024-01-29 11:13:32
  */
 class AlipayTradeCreditApplyQueryRequest
 {

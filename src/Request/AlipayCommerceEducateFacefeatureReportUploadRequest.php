@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.educate.facefeature.report.upload request
  *
  * @author auto create
- * @since 1.0, 2021-07-23 15:20:19
+ * @since 1.0, 2023-05-31 21:56:05
  */
 class AlipayCommerceEducateFacefeatureReportUploadRequest
 {

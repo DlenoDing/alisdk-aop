@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.loanapply.qrcode.invalid.delete request
  *
  * @author auto create
- * @since 1.0, 2019-09-23 15:40:33
+ * @since 1.0, 2023-08-21 05:41:14
  */
 class MybankCreditLoanapplyQrcodeInvalidDeleteRequest
 {

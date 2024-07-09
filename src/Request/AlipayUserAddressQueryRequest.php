@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.address.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-12 15:24:06
+ * @since 1.0, 2024-03-04 14:50:05
  */
 class AlipayUserAddressQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pcredit.huabei.sceneprod.benefit.send request
  *
  * @author auto create
- * @since 1.0, 2022-04-19 17:50:49
+ * @since 1.0, 2024-03-01 16:29:01
  */
 class AlipayPcreditHuabeiSceneprodBenefitSendRequest
 {

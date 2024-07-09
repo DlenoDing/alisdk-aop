@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.xuanyitest.transfer request
  *
  * @author auto create
- * @since 1.0, 2022-08-16 17:51:48
+ * @since 1.0, 2023-11-09 10:16:48
  */
 class AlipayMarketingXuanyitestTransferRequest
 {

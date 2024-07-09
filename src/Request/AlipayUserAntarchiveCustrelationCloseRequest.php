@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.antarchive.custrelation.close request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:53:45
+ * @since 1.0, 2023-09-03 23:12:17
  */
 class AlipayUserAntarchiveCustrelationCloseRequest
 {

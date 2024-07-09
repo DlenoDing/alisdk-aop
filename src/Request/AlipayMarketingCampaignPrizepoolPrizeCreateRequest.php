@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.campaign.prizepool.prize.create request
  *
  * @author auto create
- * @since 1.0, 2019-08-19 16:10:01
+ * @since 1.0, 2023-08-21 04:03:14
  */
 class AlipayMarketingCampaignPrizepoolPrizeCreateRequest
 {

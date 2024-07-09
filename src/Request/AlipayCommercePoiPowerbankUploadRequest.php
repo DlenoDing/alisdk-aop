@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.poi.powerbank.upload request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:55:38
+ * @since 1.0, 2023-05-29 21:19:53
  */
 class AlipayCommercePoiPowerbankUploadRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.iotbpaas.devicebind.apply request
  *
  * @author auto create
- * @since 1.0, 2021-09-06 18:45:58
+ * @since 1.0, 2024-03-01 16:27:43
  */
 class AlipayOpenIotbpaasDevicebindApplyRequest
 {

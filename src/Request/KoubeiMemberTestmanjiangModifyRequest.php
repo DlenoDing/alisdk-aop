@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.member.testmanjiang.modify request
  *
  * @author auto create
- * @since 1.0, 2022-09-15 18:41:48
+ * @since 1.0, 2023-08-21 03:09:59
  */
 class KoubeiMemberTestmanjiangModifyRequest
 {

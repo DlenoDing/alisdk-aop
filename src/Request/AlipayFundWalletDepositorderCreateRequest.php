@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.wallet.depositorder.create request
  *
  * @author auto create
- * @since 1.0, 2022-08-01 12:01:46
+ * @since 1.0, 2024-03-26 21:46:58
  */
 class AlipayFundWalletDepositorderCreateRequest
 {

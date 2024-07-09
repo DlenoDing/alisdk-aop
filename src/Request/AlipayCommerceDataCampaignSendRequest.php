@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.data.campaign.send request
  *
  * @author auto create
- * @since 1.0, 2021-01-07 16:35:15
+ * @since 1.0, 2023-05-31 20:21:47
  */
 class AlipayCommerceDataCampaignSendRequest
 {

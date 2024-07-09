@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.iotbpaas.device.unbind request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:50:45
+ * @since 1.0, 2023-05-30 22:28:30
  */
 class AlipayOpenIotbpaasDeviceUnbindRequest
 {

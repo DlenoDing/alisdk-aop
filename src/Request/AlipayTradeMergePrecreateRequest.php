@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.trade.merge.precreate request
  *
  * @author auto create
- * @since 1.0, 2022-07-12 15:55:24
+ * @since 1.0, 2024-05-08 10:13:09
  */
 class AlipayTradeMergePrecreateRequest
 {

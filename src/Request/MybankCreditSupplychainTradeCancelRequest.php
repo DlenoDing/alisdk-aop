@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.supplychain.trade.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-03-10 16:27:08
+ * @since 1.0, 2024-03-13 10:34:39
  */
 class MybankCreditSupplychainTradeCancelRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.antforest.energy.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:03:53
+ * @since 1.0, 2024-05-22 14:52:02
  */
 class AlipaySocialAntforestEnergyQueryRequest
 {

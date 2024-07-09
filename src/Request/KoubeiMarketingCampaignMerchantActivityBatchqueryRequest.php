@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.marketing.campaign.merchant.activity.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-06-27 11:31:12
+ * @since 1.0, 2023-08-23 20:12:42
  */
 class KoubeiMarketingCampaignMerchantActivityBatchqueryRequest
 {

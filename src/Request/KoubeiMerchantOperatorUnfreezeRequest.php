@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.merchant.operator.unfreeze request
  *
  * @author auto create
- * @since 1.0, 2022-06-17 16:44:48
+ * @since 1.0, 2023-08-23 20:14:51
  */
 class KoubeiMerchantOperatorUnfreezeRequest
 {

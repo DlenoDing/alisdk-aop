@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.risk.mobileactivity.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:11
+ * @since 1.0, 2024-03-04 14:58:40
  */
 class AlipaySecurityRiskMobileactivityQueryRequest
 {

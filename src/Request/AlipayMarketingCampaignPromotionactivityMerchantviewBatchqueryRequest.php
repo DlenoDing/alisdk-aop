@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.campaign.promotionactivity.merchantview.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-09-18 15:05:29
+ * @since 1.0, 2023-08-23 21:20:05
  */
 class AlipayMarketingCampaignPromotionactivityMerchantviewBatchqueryRequest
 {

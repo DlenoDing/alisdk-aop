@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.mycar.image.upload request
  *
  * @author auto create
- * @since 1.0, 2020-12-31 11:49:04
+ * @since 1.0, 2023-05-30 20:12:09
  */
 class AlipayEcoMycarImageUploadRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.contract.merchant.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:40:20
+ * @since 1.0, 2023-09-03 23:28:32
  */
 class AlipayEcoContractMerchantSyncRequest
 {

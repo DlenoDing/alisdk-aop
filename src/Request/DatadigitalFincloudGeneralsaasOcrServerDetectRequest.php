@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: datadigital.fincloud.generalsaas.ocr.server.detect request
  *
  * @author auto create
- * @since 1.0, 2022-08-19 14:01:47
+ * @since 1.0, 2024-01-16 19:57:02
  */
 class DatadigitalFincloudGeneralsaasOcrServerDetectRequest
 {
@@ -14,7 +15,7 @@ class DatadigitalFincloudGeneralsaasOcrServerDetectRequest
 	private $fileContent;
 	
 	/** 
-	 * 可识别OCR类型。如，ID_CARD_FRONT 身份证正面；ID_CARD_FRONT 身份证反面等。具体支持的类型以接入文档为准。
+	 * 可识别OCR类型。如，ID_CARD_FRONT 身份证含照片的一面；ID_CARD_BACK 身份证带国徽的一面。具体支持的类型以接入文档为准。
 	 **/
 	private $ocrType;
 	

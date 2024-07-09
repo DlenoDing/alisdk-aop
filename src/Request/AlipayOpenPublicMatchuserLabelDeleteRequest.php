@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.public.matchuser.label.delete request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 20:59:59
+ * @since 1.0, 2024-03-27 08:44:54
  */
 class AlipayOpenPublicMatchuserLabelDeleteRequest
 {

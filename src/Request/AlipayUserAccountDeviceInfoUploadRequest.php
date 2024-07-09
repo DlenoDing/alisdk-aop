@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.account.device.info.upload request
  *
  * @author auto create
- * @since 1.0, 2021-08-30 15:44:19
+ * @since 1.0, 2023-09-04 02:12:16
  */
 class AlipayUserAccountDeviceInfoUploadRequest
 {

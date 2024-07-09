@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.account.exrate.rate.sync request
  *
  * @author auto create
- * @since 1.0, 2021-06-10 11:36:34
+ * @since 1.0, 2023-05-31 10:13:34
  */
 class AlipayAccountExrateRateSyncRequest
 {

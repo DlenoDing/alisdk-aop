@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.campaign.rule.crowd.count request
  *
  * @author auto create
- * @since 1.0, 2021-06-23 15:39:38
+ * @since 1.0, 2023-08-21 04:57:05
  */
 class AlipayMarketingCampaignRuleCrowdCountRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.risk.aml.analyze.submit request
  *
  * @author auto create
- * @since 1.0, 2020-05-07 13:31:14
+ * @since 1.0, 2023-08-21 02:38:49
  */
 class AlipaySecurityRiskAmlAnalyzeSubmitRequest
 {

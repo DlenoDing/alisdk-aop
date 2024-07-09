@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.open.app.risktag.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-14 17:46:45
+ * @since 1.0, 2023-05-30 20:08:35
  */
 class ZhimaOpenAppRisktagQueryRequest
 {

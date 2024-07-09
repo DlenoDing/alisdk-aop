@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: datadigital.fincloud.generalsaas.face.source.certify request
  *
  * @author auto create
- * @since 1.0, 2022-08-19 17:56:44
+ * @since 1.0, 2024-05-07 14:37:03
  */
 class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 {
@@ -29,6 +30,19 @@ class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 	private $fileContent;
 	
 	/** 
+	 * 活体检测类型，当前枚举支持：
+OFF：关闭活体检测；
+CHECK：正常活体检测。
+不传默认CHECK。
+	 **/
+	private $livenessStrategy;
+	
+	/** 
+	 * 国家地区代码，当证件类型为外国人永久居留证时必填。
+	 **/
+	private $nation;
+	
+	/** 
 	 * 客户业务单据号
 	 **/
 	private $outerBizNo;
@@ -42,6 +56,11 @@ class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 	 * true：需要留底；false：无需留底。默认留底
 	 **/
 	private $reserved;
+	
+	/** 
+	 * ON：开启安全拦截。OFF：关闭安全拦截。默认取值为ON。
+	 **/
+	private $securityStrategy;
 
 	private $apiParas = array();
 	private $terminalType;
@@ -97,6 +116,28 @@ class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 		return $this->fileContent;
 	}
 
+	public function setLivenessStrategy($livenessStrategy)
+	{
+		$this->livenessStrategy = $livenessStrategy;
+		$this->apiParas["liveness_strategy"] = $livenessStrategy;
+	}
+
+	public function getLivenessStrategy()
+	{
+		return $this->livenessStrategy;
+	}
+
+	public function setNation($nation)
+	{
+		$this->nation = $nation;
+		$this->apiParas["nation"] = $nation;
+	}
+
+	public function getNation()
+	{
+		return $this->nation;
+	}
+
 	public function setOuterBizNo($outerBizNo)
 	{
 		$this->outerBizNo = $outerBizNo;
@@ -128,6 +169,17 @@ class DatadigitalFincloudGeneralsaasFaceSourceCertifyRequest
 	public function getReserved()
 	{
 		return $this->reserved;
+	}
+
+	public function setSecurityStrategy($securityStrategy)
+	{
+		$this->securityStrategy = $securityStrategy;
+		$this->apiParas["security_strategy"] = $securityStrategy;
+	}
+
+	public function getSecurityStrategy()
+	{
+		return $this->securityStrategy;
 	}
 
 	public function getApiMethodName()

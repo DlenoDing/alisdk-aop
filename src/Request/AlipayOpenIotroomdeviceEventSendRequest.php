@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.iotroomdevice.event.send request
  *
  * @author auto create
- * @since 1.0, 2022-08-29 16:11:46
+ * @since 1.0, 2023-08-23 21:50:22
  */
 class AlipayOpenIotroomdeviceEventSendRequest
 {

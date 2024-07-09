@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: antfortune.marketing.equitystatus.thirdpart.modify request
  *
  * @author auto create
- * @since 1.0, 2022-03-21 16:31:39
+ * @since 1.0, 2024-05-15 16:47:01
  */
 class AntfortuneMarketingEquitystatusThirdpartModifyRequest
 {

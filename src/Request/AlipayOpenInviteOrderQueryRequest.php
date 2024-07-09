@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.invite.order.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-28 10:33:17
+ * @since 1.0, 2023-12-21 13:47:47
  */
 class AlipayOpenInviteOrderQueryRequest
 {

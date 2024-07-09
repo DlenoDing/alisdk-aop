@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.iservice.ccm.agent.schedulelog.query request
  *
  * @author auto create
- * @since 1.0, 2020-12-15 11:55:14
+ * @since 1.0, 2024-04-24 11:07:54
  */
 class AlipayIserviceCcmAgentSchedulelogQueryRequest
 {

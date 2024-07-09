@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.msaas.mediarecog.mmtcaftscv.goodsinfo.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-03-31 15:02:12
+ * @since 1.0, 2023-08-24 22:11:04
  */
 class AlipayMsaasMediarecogMmtcaftscvGoodsinfoBatchqueryRequest
 {

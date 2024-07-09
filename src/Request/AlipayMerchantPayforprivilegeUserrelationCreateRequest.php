@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.payforprivilege.userrelation.create request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 20:57:45
+ * @since 1.0, 2024-03-01 16:27:02
  */
 class AlipayMerchantPayforprivilegeUserrelationCreateRequest
 {

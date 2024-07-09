@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.multimedia.resource.masstoken.get request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:30:24
+ * @since 1.0, 2023-08-21 02:28:22
  */
 class AlipayMultimediaResourceMasstokenGetRequest
 {

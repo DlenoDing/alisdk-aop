@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.iservice.icontrol.dispatch.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-26 21:01:43
+ * @since 1.0, 2024-05-13 13:57:01
  */
 class AlipayIserviceIcontrolDispatchQueryRequest
 {

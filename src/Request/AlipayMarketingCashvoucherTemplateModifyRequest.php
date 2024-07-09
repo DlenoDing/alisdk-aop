@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.cashvoucher.template.modify request
  *
  * @author auto create
- * @since 1.0, 2021-03-23 09:57:48
+ * @since 1.0, 2023-11-27 10:25:07
  */
 class AlipayMarketingCashvoucherTemplateModifyRequest
 {

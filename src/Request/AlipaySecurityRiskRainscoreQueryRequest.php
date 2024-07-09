@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.risk.rainscore.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:11
+ * @since 1.0, 2023-05-31 05:17:21
  */
 class AlipaySecurityRiskRainscoreQueryRequest
 {

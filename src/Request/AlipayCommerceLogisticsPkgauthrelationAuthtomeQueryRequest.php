@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.logistics.pkgauthrelation.authtome.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:06
+ * @since 1.0, 2024-03-01 16:34:26
  */
 class AlipayCommerceLogisticsPkgauthrelationAuthtomeQueryRequest
 {

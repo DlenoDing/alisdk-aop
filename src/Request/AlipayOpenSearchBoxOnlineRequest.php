@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.search.box.online request
  *
  * @author auto create
- * @since 1.0, 2022-08-09 11:07:44
+ * @since 1.0, 2024-04-26 15:24:55
  */
 class AlipayOpenSearchBoxOnlineRequest
 {

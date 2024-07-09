@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.innerdeploypackage.query request
  *
  * @author auto create
- * @since 1.0, 2020-07-22 20:01:39
+ * @since 1.0, 2023-08-21 05:46:50
  */
 class AlipayOpenMiniInnerdeploypackageQueryRequest
 {

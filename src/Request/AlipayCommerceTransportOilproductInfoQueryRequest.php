@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.oilproduct.info.query request
  *
  * @author auto create
- * @since 1.0, 2020-01-10 17:36:09
+ * @since 1.0, 2023-09-04 01:40:38
  */
 class AlipayCommerceTransportOilproductInfoQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.loanapply.arrangement.create request
  *
  * @author auto create
- * @since 1.0, 2022-02-17 13:48:12
+ * @since 1.0, 2023-01-05 11:02:05
  */
 class MybankCreditLoanapplyArrangementCreateRequest
 {

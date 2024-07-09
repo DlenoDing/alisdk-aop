@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.marketing.gift.contract.apply request
  *
  * @author auto create
- * @since 1.0, 2022-07-22 12:51:39
+ * @since 1.0, 2023-08-21 04:09:57
  */
 class AlipayInsMarketingGiftContractApplyRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.sports.cheer.result.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-05-14 13:40:20
+ * @since 1.0, 2024-03-27 10:26:03
  */
 class AlipayCommerceSportsCheerResultConfirmRequest
 {

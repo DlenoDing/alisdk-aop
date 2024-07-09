@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.iservice.ccm.function.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:12:11
+ * @since 1.0, 2023-09-11 18:36:30
  */
 class AlipayIserviceCcmFunctionQueryRequest
 {

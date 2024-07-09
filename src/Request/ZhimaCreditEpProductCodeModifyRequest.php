@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.ep.product.code.modify request
  *
  * @author auto create
- * @since 1.0, 2021-03-30 15:10:42
+ * @since 1.0, 2023-08-20 16:36:44
  */
 class ZhimaCreditEpProductCodeModifyRequest
 {

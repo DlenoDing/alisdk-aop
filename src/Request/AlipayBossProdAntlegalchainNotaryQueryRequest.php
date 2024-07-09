@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.prod.antlegalchain.notary.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-07 18:58:36
+ * @since 1.0, 2023-08-20 17:05:00
  */
 class AlipayBossProdAntlegalchainNotaryQueryRequest
 {

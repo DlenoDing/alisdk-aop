@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.recharge.flow.send request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:15
+ * @since 1.0, 2023-01-11 04:29:23
  */
 class AlipayEbppRechargeFlowSendRequest
 {

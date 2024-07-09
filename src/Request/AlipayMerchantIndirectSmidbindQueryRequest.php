@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.indirect.smidbind.query request
  *
  * @author auto create
- * @since 1.0, 2022-09-15 17:21:01
+ * @since 1.0, 2024-03-01 16:28:01
  */
 class AlipayMerchantIndirectSmidbindQueryRequest
 {

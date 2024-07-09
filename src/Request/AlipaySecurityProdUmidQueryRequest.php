@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.prod.umid.query request
  *
  * @author auto create
- * @since 1.0, 2022-04-01 16:05:25
+ * @since 1.0, 2023-08-20 18:18:50
  */
 class AlipaySecurityProdUmidQueryRequest
 {

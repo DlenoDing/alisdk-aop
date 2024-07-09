@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.fnc.pid.unwriteoff.query request
  *
  * @author auto create
- * @since 1.0, 2019-10-25 14:08:30
+ * @since 1.0, 2023-09-04 00:22:30
  */
 class AlipayBossFncPidUnwriteoffQueryRequest
 {

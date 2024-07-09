@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.customer.behavior.sync request
  *
  * @author auto create
- * @since 1.0, 2021-05-17 10:40:30
+ * @since 1.0, 2024-04-01 23:34:18
  */
 class ZhimaCustomerBehaviorSyncRequest
 {

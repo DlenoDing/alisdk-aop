@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.iot.sdarttool.message.send request
  *
  * @author auto create
- * @since 1.0, 2021-04-07 15:15:43
+ * @since 1.0, 2023-09-11 18:37:38
  */
 class AlipayCommerceIotSdarttoolMessageSendRequest
 {

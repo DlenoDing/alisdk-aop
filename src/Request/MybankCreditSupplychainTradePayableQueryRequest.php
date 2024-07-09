@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.supplychain.trade.payable.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 17:46:00
+ * @since 1.0, 2024-03-01 16:27:54
  */
 class MybankCreditSupplychainTradePayableQueryRequest
 {

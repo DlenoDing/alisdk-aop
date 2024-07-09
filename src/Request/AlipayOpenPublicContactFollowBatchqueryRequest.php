@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.public.contact.follow.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:48:12
+ * @since 1.0, 2023-09-12 06:54:17
  */
 class AlipayOpenPublicContactFollowBatchqueryRequest
 {

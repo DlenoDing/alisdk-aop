@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.enterprisepay.group.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-07 16:36:42
+ * @since 1.0, 2023-09-11 19:16:54
  */
 class AlipayFundEnterprisepayGroupQueryRequest
 {

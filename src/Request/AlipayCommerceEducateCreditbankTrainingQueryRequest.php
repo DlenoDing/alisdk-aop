@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.educate.creditbank.training.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-19 17:21:21
+ * @since 1.0, 2023-08-21 01:43:45
  */
 class AlipayCommerceEducateCreditbankTrainingQueryRequest
 {

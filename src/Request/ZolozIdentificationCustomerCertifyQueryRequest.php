@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zoloz.identification.customer.certify.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-15 10:03:03
+ * @since 1.0, 2023-08-24 22:46:48
  */
 class ZolozIdentificationCustomerCertifyQueryRequest
 {

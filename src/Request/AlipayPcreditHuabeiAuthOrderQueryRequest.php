@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pcredit.huabei.auth.order.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-01 16:52:02
+ * @since 1.0, 2024-03-28 00:42:22
  */
 class AlipayPcreditHuabeiAuthOrderQueryRequest
 {

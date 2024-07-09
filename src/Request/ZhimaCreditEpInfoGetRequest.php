@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.ep.info.get request
  *
  * @author auto create
- * @since 1.0, 2021-03-30 15:11:30
+ * @since 1.0, 2023-08-23 20:24:16
  */
 class ZhimaCreditEpInfoGetRequest
 {

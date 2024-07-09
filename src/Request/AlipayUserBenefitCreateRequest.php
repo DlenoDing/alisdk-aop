@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.benefit.create request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:03:20
+ * @since 1.0, 2023-08-21 02:15:27
  */
 class AlipayUserBenefitCreateRequest
 {

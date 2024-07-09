@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: datadigital.fincloud.finsaas.design.pagetemplate.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 15:01:40
+ * @since 1.0, 2023-08-23 20:47:19
  */
 class DatadigitalFincloudFinsaasDesignPagetemplateBatchqueryRequest
 {

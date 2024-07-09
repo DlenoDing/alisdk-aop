@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.funditem.get request
  *
  * @author auto create
- * @since 1.0, 2022-05-24 11:18:43
+ * @since 1.0, 2023-05-29 20:52:01
  */
 class AlipayUserFunditemGetRequest
 {

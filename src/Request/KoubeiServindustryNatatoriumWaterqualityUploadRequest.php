@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.servindustry.natatorium.waterquality.upload request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:40:34
+ * @since 1.0, 2023-08-21 03:40:21
  */
 class KoubeiServindustryNatatoriumWaterqualityUploadRequest
 {

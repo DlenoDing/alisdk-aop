@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.agent.signstatus.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-07 20:57:52
+ * @since 1.0, 2024-01-17 17:33:36
  */
 class AlipayOpenAgentSignstatusQueryRequest
 {

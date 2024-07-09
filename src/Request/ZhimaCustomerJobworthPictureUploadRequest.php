@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.customer.jobworth.picture.upload request
  *
  * @author auto create
- * @since 1.0, 2022-05-07 10:21:41
+ * @since 1.0, 2024-03-14 14:58:28
  */
 class ZhimaCustomerJobworthPictureUploadRequest
 {

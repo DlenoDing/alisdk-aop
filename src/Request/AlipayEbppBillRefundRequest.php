@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.bill.refund request
  *
  * @author auto create
- * @since 1.0, 2022-05-11 16:32:27
+ * @since 1.0, 2023-05-30 22:59:04
  */
 class AlipayEbppBillRefundRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.prod.iris.verify request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:44:10
+ * @since 1.0, 2024-03-01 16:29:02
  */
 class AlipaySecurityProdIrisVerifyRequest
 {

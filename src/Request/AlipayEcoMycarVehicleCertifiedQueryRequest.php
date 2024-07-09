@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.mycar.vehicle.certified.query request
  *
  * @author auto create
- * @since 1.0, 2021-05-14 10:25:19
+ * @since 1.0, 2023-05-29 19:42:03
  */
 class AlipayEcoMycarVehicleCertifiedQueryRequest
 {

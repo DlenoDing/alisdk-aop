@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.voucher.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-06-03 20:01:58
+ * @since 1.0, 2024-05-27 13:56:40
  */
 class AlipayMarketingVoucherConfirmRequest
 {

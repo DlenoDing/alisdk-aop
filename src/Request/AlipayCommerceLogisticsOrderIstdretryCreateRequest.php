@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.logistics.order.istdretry.create request
  *
  * @author auto create
- * @since 1.0, 2022-05-31 16:12:09
+ * @since 1.0, 2024-04-01 22:59:22
  */
 class AlipayCommerceLogisticsOrderIstdretryCreateRequest
 {

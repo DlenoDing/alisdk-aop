@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.asset.point.pointprod.budgetlib.modify request
  *
  * @author auto create
- * @since 1.0, 2019-08-29 17:46:42
+ * @since 1.0, 2024-05-27 13:59:23
  */
 class AlipayAssetPointPointprodBudgetlibModifyRequest
 {

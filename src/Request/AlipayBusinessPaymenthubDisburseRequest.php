@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.business.paymenthub.disburse request
  *
  * @author auto create
- * @since 1.0, 2020-03-23 22:00:11
+ * @since 1.0, 2023-05-29 23:18:16
  */
 class AlipayBusinessPaymenthubDisburseRequest
 {

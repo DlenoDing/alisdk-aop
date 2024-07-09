@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.indirect.transfer request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:06:58
+ * @since 1.0, 2023-05-30 20:13:12
  */
 class AntMerchantExpandIndirectTransferRequest
 {

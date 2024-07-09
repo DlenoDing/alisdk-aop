@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.iotmbs.roomstate.sync request
  *
  * @author auto create
- * @since 1.0, 2022-05-07 10:52:30
+ * @since 1.0, 2023-09-04 01:56:27
  */
 class AlipayOpenIotmbsRoomstateSyncRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.public.label.create request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:06:33
+ * @since 1.0, 2023-09-11 17:43:46
  */
 class AlipayOpenPublicLabelCreateRequest
 {

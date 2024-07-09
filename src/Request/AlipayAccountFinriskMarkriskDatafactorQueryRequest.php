@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.account.finrisk.markrisk.datafactor.query request
  *
  * @author auto create
- * @since 1.0, 2019-07-25 11:38:03
+ * @since 1.0, 2023-08-20 18:01:39
  */
 class AlipayAccountFinriskMarkriskDatafactorQueryRequest
 {

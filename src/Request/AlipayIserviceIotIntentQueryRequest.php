@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.iservice.iot.intent.query request
  *
  * @author auto create
- * @since 1.0, 2020-07-07 21:37:27
+ * @since 1.0, 2023-08-21 05:27:16
  */
 class AlipayIserviceIotIntentQueryRequest
 {

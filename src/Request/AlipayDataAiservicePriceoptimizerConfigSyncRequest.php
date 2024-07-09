@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.aiservice.priceoptimizer.config.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:59:36
+ * @since 1.0, 2023-05-31 22:21:26
  */
 class AlipayDataAiservicePriceoptimizerConfigSyncRequest
 {

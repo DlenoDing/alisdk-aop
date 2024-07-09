@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.community.isv.create request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:30:01
+ * @since 1.0, 2024-04-29 12:06:27
  */
 class AlipayEbppCommunityIsvCreateRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.sp.isv.relation.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-31 14:50:11
+ * @since 1.0, 2023-09-11 17:15:36
  */
 class AlipayOpenSpIsvRelationQueryRequest
 {

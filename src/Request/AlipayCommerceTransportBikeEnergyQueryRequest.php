@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.bike.energy.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-04 19:51:38
+ * @since 1.0, 2024-05-08 17:42:02
  */
 class AlipayCommerceTransportBikeEnergyQueryRequest
 {

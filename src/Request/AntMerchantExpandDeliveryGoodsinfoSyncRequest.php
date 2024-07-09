@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.delivery.goodsinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2021-11-19 16:01:43
+ * @since 1.0, 2024-04-29 20:52:00
  */
 class AntMerchantExpandDeliveryGoodsinfoSyncRequest
 {

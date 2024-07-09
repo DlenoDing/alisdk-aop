@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fincore.compliance.rcsmart.livecontent.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-04 14:25:36
+ * @since 1.0, 2024-03-01 16:27:41
  */
 class AlipayFincoreComplianceRcsmartLivecontentQueryRequest
 {

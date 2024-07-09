@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pass.template.add request
  *
  * @author auto create
- * @since 1.0, 2021-03-26 14:51:26
+ * @since 1.0, 2023-08-21 02:56:43
  */
 class AlipayPassTemplateAddRequest
 {

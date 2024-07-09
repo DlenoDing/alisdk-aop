@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.account.instfund.withdraw.apply request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:55
+ * @since 1.0, 2024-03-01 16:28:46
  */
 class AlipayAccountInstfundWithdrawApplyRequest
 {

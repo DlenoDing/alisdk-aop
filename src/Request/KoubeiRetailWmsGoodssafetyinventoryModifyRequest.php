@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.retail.wms.goodssafetyinventory.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:35:10
+ * @since 1.0, 2023-05-30 20:38:37
  */
 class KoubeiRetailWmsGoodssafetyinventoryModifyRequest
 {

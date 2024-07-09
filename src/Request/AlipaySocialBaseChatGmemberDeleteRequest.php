@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.base.chat.gmember.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:05:19
+ * @since 1.0, 2023-09-04 00:53:15
  */
 class AlipaySocialBaseChatGmemberDeleteRequest
 {

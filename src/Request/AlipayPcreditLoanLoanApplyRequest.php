@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pcredit.loan.loan.apply request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:52:37
+ * @since 1.0, 2023-05-31 00:17:08
  */
 class AlipayPcreditLoanLoanApplyRequest
 {

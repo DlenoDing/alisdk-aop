@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.miniapp.favoriteext.delete request
  *
  * @author auto create
- * @since 1.0, 2019-11-21 19:56:36
+ * @since 1.0, 2024-03-01 16:28:33
  */
 class AlipayOpenMiniMiniappFavoriteextDeleteRequest
 {

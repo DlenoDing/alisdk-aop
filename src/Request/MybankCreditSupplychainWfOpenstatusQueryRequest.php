@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.supplychain.wf.openstatus.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:21:53
+ * @since 1.0, 2023-08-21 01:34:39
  */
 class MybankCreditSupplychainWfOpenstatusQueryRequest
 {

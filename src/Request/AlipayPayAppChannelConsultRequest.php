@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pay.app.channel.consult request
  *
  * @author auto create
- * @since 1.0, 2022-03-21 16:55:37
+ * @since 1.0, 2024-06-11 20:08:00
  */
 class AlipayPayAppChannelConsultRequest
 {

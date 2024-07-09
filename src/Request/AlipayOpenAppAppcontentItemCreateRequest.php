@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.app.appcontent.item.create request
  *
  * @author auto create
- * @since 1.0, 2021-01-15 11:38:22
+ * @since 1.0, 2023-08-21 05:53:18
  */
 class AlipayOpenAppAppcontentItemCreateRequest
 {

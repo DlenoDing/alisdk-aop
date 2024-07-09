@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.invoice.expense.progress.sync request
  *
  * @author auto create
- * @since 1.0, 2022-06-20 16:41:09
+ * @since 1.0, 2024-05-30 19:27:03
  */
 class AlipayEbppInvoiceExpenseProgressSyncRequest
 {

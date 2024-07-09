@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.blockchain.version.query request
  *
  * @author auto create
- * @since 1.0, 2022-06-08 17:51:47
+ * @since 1.0, 2023-05-31 23:06:57
  */
 class AnttechBlockchainVersionQueryRequest
 {

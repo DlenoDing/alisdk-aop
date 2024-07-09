@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.certify.open.certify request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 21:56:59
+ * @since 1.0, 2024-03-04 14:35:45
  */
 class AlipayUserCertifyOpenCertifyRequest
 {

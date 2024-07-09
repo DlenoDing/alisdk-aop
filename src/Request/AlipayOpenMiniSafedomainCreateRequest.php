@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.safedomain.create request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:17:49
+ * @since 1.0, 2024-04-23 21:50:59
  */
 class AlipayOpenMiniSafedomainCreateRequest
 {

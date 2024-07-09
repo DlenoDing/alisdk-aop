@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.operator.sync request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:23:13
+ * @since 1.0, 2023-01-10 16:55:34
  */
 class AlipayOpenOperatorSyncRequest
 {

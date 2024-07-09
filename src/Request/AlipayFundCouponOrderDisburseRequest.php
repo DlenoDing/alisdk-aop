@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.coupon.order.disburse request
  *
  * @author auto create
- * @since 1.0, 2021-12-20 15:19:57
+ * @since 1.0, 2024-03-01 16:28:31
  */
 class AlipayFundCouponOrderDisburseRequest
 {

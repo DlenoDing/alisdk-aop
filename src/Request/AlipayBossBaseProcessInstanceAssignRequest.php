@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.base.process.instance.assign request
  *
  * @author auto create
- * @since 1.0, 2022-03-18 10:21:41
+ * @since 1.0, 2023-08-23 21:33:01
  */
 class AlipayBossBaseProcessInstanceAssignRequest
 {

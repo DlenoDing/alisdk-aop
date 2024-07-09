@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.mobile.screen.apply request
  *
  * @author auto create
- * @since 1.0, 2022-07-04 09:49:13
+ * @since 1.0, 2024-04-24 10:32:06
  */
 class AlipayInsSceneMobileScreenApplyRequest
 {

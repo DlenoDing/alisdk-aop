@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.pcredit.huabei.discount.solution.offline request
  *
  * @author auto create
- * @since 1.0, 2022-05-16 17:48:07
+ * @since 1.0, 2023-08-23 21:15:38
  */
 class AlipayPcreditHuabeiDiscountSolutionOfflineRequest
 {

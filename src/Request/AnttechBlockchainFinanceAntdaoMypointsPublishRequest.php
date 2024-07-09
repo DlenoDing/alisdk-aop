@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.blockchain.finance.antdao.mypoints.publish request
  *
  * @author auto create
- * @since 1.0, 2020-07-03 13:21:25
+ * @since 1.0, 2023-08-23 21:10:40
  */
 class AnttechBlockchainFinanceAntdaoMypointsPublishRequest
 {

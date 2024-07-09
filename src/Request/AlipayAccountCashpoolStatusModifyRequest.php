@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.account.cashpool.status.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 21:20:16
+ * @since 1.0, 2023-08-21 01:26:35
  */
 class AlipayAccountCashpoolStatusModifyRequest
 {

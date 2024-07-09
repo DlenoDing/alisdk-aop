@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.invoice.expensecontrol.quota.modify request
  *
  * @author auto create
- * @since 1.0, 2022-08-18 15:36:45
+ * @since 1.0, 2024-01-30 21:00:39
  */
 class AlipayEbppInvoiceExpensecontrolQuotaModifyRequest
 {

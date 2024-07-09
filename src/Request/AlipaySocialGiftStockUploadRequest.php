@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.gift.stock.upload request
  *
  * @author auto create
- * @since 1.0, 2021-08-17 15:50:26
+ * @since 1.0, 2023-08-21 02:03:31
  */
 class AlipaySocialGiftStockUploadRequest
 {

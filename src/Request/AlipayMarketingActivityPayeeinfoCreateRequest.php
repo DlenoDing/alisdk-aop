@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.activity.payeeinfo.create request
  *
  * @author auto create
- * @since 1.0, 2022-09-08 19:46:55
+ * @since 1.0, 2023-10-27 17:05:39
  */
 class AlipayMarketingActivityPayeeinfoCreateRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.offline.material.image.upload request
  *
  * @author auto create
- * @since 1.0, 2022-05-30 14:39:02
+ * @since 1.0, 2024-05-08 20:37:31
  */
 class AlipayOfflineMaterialImageUploadRequest
 {

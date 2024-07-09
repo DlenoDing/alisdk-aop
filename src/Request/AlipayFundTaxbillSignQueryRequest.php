@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.taxbill.sign.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-21 16:26:22
+ * @since 1.0, 2024-04-01 17:57:00
  */
 class AlipayFundTaxbillSignQueryRequest
 {

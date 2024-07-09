@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.educate.tuitioncode.refund.apply request
  *
  * @author auto create
- * @since 1.0, 2021-04-25 17:11:24
+ * @since 1.0, 2024-03-28 00:11:10
  */
 class AlipayCommerceEducateTuitioncodeRefundApplyRequest
 {

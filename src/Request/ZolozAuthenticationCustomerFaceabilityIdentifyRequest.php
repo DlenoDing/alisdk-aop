@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zoloz.authentication.customer.faceability.identify request
  *
  * @author auto create
- * @since 1.0, 2022-06-15 10:03:49
+ * @since 1.0, 2024-03-04 14:57:30
  */
 class ZolozAuthenticationCustomerFaceabilityIdentifyRequest
 {

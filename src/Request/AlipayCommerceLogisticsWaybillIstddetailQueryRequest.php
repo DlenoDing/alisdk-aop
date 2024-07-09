@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.logistics.waybill.istddetail.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-31 16:11:37
+ * @since 1.0, 2024-03-01 16:34:26
  */
 class AlipayCommerceLogisticsWaybillIstddetailQueryRequest
 {

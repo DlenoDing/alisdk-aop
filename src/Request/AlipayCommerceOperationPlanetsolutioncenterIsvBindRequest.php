@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.operation.planetsolutioncenter.isv.bind request
  *
  * @author auto create
- * @since 1.0, 2022-04-25 18:31:38
+ * @since 1.0, 2023-08-23 21:28:36
  */
 class AlipayCommerceOperationPlanetsolutioncenterIsvBindRequest
 {

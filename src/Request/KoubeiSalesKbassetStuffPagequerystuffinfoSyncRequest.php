@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.sales.kbasset.stuff.pagequerystuffinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2019-05-31 09:15:01
+ * @since 1.0, 2023-08-21 02:10:10
  */
 class KoubeiSalesKbassetStuffPagequerystuffinfoSyncRequest
 {

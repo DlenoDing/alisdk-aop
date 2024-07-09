@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.overseas.travel.promotion.receive request
  *
  * @author auto create
- * @since 1.0, 2022-01-17 17:49:07
+ * @since 1.0, 2023-07-14 10:48:22
  */
 class AlipayOverseasTravelPromotionReceiveRequest
 {

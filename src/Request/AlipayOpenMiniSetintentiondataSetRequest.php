@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.setintentiondata.set request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:18:21
+ * @since 1.0, 2023-08-23 21:32:46
  */
 class AlipayOpenMiniSetintentiondataSetRequest
 {

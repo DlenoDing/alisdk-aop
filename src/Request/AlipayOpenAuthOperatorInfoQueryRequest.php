@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.auth.operator.info.query request
  *
  * @author auto create
- * @since 1.0, 2022-07-14 16:34:53
+ * @since 1.0, 2023-05-30 20:10:26
  */
 class AlipayOpenAuthOperatorInfoQueryRequest
 {

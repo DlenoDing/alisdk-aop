@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.sales.leads.saleleads.create request
  *
  * @author auto create
- * @since 1.0, 2021-05-06 14:58:20
+ * @since 1.0, 2023-08-20 17:07:04
  */
 class KoubeiSalesLeadsSaleleadsCreateRequest
 {

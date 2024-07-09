@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.tool.fengdie.activity.query request
  *
  * @author auto create
- * @since 1.0, 2019-05-22 14:28:30
+ * @since 1.0, 2023-05-29 19:39:10
  */
 class AlipayMarketingToolFengdieActivityQueryRequest
 {

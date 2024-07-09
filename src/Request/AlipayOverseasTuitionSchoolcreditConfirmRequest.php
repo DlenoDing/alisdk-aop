@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.overseas.tuition.schoolcredit.confirm request
  *
  * @author auto create
- * @since 1.0, 2021-08-09 15:06:12
+ * @since 1.0, 2023-08-23 21:19:19
  */
 class AlipayOverseasTuitionSchoolcreditConfirmRequest
 {

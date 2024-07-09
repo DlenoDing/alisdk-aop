@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.auto.point.receive.query request
  *
  * @author auto create
- * @since 1.0, 2019-09-06 17:18:46
+ * @since 1.0, 2024-03-01 16:29:19
  */
 class AlipayInsAutoPointReceiveQueryRequest
 {

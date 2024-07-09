@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.dataservice.property.businessproperty.modify request
  *
  * @author auto create
- * @since 1.0, 2019-10-16 21:36:01
+ * @since 1.0, 2023-08-24 21:20:49
  */
 class AlipayDataDataservicePropertyBusinesspropertyModifyRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.account.query request
  *
  * @author auto create
- * @since 1.0, 2022-04-12 16:49:20
+ * @since 1.0, 2024-06-14 10:27:04
  */
 class AlipayFundAccountQueryRequest
 {

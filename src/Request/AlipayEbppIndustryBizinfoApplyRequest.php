@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.industry.bizinfo.apply request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:13:49
+ * @since 1.0, 2023-08-21 02:48:50
  */
 class AlipayEbppIndustryBizinfoApplyRequest
 {

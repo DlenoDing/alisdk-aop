@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.iot.mdeviceprod.whitelist.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 11:26:42
+ * @since 1.0, 2023-08-23 21:20:20
  */
 class AlipayCommerceIotMdeviceprodWhitelistQueryRequest
 {

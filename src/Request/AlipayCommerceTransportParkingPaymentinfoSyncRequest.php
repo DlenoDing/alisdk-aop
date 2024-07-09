@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.parking.paymentinfo.sync request
  *
  * @author auto create
- * @since 1.0, 2022-08-17 21:31:43
+ * @since 1.0, 2024-03-01 16:27:43
  */
 class AlipayCommerceTransportParkingPaymentinfoSyncRequest
 {

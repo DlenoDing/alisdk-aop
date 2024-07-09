@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.employment.policy.cancel request
  *
  * @author auto create
- * @since 1.0, 2022-08-22 14:07:02
+ * @since 1.0, 2024-03-26 21:44:42
  */
 class AlipayInsSceneEmploymentPolicyCancelRequest
 {

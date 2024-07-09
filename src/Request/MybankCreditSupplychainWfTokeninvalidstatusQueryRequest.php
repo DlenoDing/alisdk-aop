@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.supplychain.wf.tokeninvalidstatus.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-18 15:16:59
+ * @since 1.0, 2023-08-21 04:58:42
  */
 class MybankCreditSupplychainWfTokeninvalidstatusQueryRequest
 {

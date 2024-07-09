@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.bill.ereceiptagent.apply request
  *
  * @author auto create
- * @since 1.0, 2022-03-14 22:38:03
+ * @since 1.0, 2024-01-15 15:08:34
  */
 class AlipayDataBillEreceiptagentApplyRequest
 {

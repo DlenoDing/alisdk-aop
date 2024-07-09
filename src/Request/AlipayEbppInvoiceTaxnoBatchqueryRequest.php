@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.invoice.taxno.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:15:12
+ * @since 1.0, 2024-05-30 19:17:02
  */
 class AlipayEbppInvoiceTaxnoBatchqueryRequest
 {

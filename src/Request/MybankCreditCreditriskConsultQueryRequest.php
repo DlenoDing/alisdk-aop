@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.credit.creditrisk.consult.query request
  *
  * @author auto create
- * @since 1.0, 2022-02-15 21:27:46
+ * @since 1.0, 2024-03-01 16:28:52
  */
 class MybankCreditCreditriskConsultQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.wallet.scene.sign request
  *
  * @author auto create
- * @since 1.0, 2022-08-01 12:06:47
+ * @since 1.0, 2024-06-16 16:17:02
  */
 class AlipayFundWalletSceneSignRequest
 {

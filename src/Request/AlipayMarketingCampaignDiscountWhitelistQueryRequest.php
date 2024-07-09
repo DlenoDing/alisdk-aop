@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.campaign.discount.whitelist.query request
  *
  * @author auto create
- * @since 1.0, 2019-05-15 15:30:35
+ * @since 1.0, 2023-05-29 22:06:03
  */
 class AlipayMarketingCampaignDiscountWhitelistQueryRequest
 {

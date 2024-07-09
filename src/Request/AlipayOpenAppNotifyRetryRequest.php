@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.app.notify.retry request
  *
  * @author auto create
- * @since 1.0, 2022-05-26 21:33:22
+ * @since 1.0, 2023-08-21 02:51:32
  */
 class AlipayOpenAppNotifyRetryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.merchant.kbdevice.dispenser.query request
  *
  * @author auto create
- * @since 1.0, 2021-03-23 09:51:50
+ * @since 1.0, 2023-09-04 00:49:09
  */
 class KoubeiMerchantKbdeviceDispenserQueryRequest
 {

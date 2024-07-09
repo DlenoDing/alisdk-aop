@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.payforprivilege.promconfigure.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-18 19:56:14
+ * @since 1.0, 2023-08-20 17:47:41
  */
 class AlipayMerchantPayforprivilegePromconfigureQueryRequest
 {

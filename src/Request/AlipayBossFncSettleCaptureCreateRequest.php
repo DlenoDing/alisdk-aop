@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.fnc.settle.capture.create request
  *
  * @author auto create
- * @since 1.0, 2020-03-26 17:41:15
+ * @since 1.0, 2023-05-31 05:03:52
  */
 class AlipayBossFncSettleCaptureCreateRequest
 {

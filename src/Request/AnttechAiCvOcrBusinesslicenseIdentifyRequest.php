@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.ai.cv.ocr.businesslicense.identify request
  *
  * @author auto create
- * @since 1.0, 2020-03-04 18:42:24
+ * @since 1.0, 2023-05-30 19:46:09
  */
 class AnttechAiCvOcrBusinesslicenseIdentifyRequest
 {

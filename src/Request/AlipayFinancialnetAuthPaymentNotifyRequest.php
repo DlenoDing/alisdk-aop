@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.financialnet.auth.payment.notify request
  *
  * @author auto create
- * @since 1.0, 2021-01-15 11:35:18
+ * @since 1.0, 2023-05-31 05:06:54
  */
 class AlipayFinancialnetAuthPaymentNotifyRequest
 {

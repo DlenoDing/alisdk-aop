@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.security.risk.hufu.auth.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-06 13:51:58
+ * @since 1.0, 2023-08-23 21:02:02
  */
 class AlipaySecurityRiskHufuAuthQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.pe.zmgo.settle.refund request
  *
  * @author auto create
- * @since 1.0, 2022-08-22 16:26:45
+ * @since 1.0, 2024-04-19 16:42:58
  */
 class ZhimaCreditPeZmgoSettleRefundRequest
 {

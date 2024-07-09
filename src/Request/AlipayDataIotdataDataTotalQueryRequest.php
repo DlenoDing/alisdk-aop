@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.iotdata.data.total.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:09:57
+ * @since 1.0, 2023-08-20 18:34:46
  */
 class AlipayDataIotdataDataTotalQueryRequest
 {

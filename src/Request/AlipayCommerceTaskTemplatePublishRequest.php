@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.task.template.publish request
  *
  * @author auto create
- * @since 1.0, 2022-06-30 14:54:17
+ * @since 1.0, 2023-09-04 00:47:37
  */
 class AlipayCommerceTaskTemplatePublishRequest
 {

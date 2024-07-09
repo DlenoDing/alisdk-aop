@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.inshealthcareprod.record.upload request
  *
  * @author auto create
- * @since 1.0, 2022-05-31 16:41:43
+ * @since 1.0, 2023-08-21 01:18:43
  */
 class AlipayInsSceneInshealthcareprodRecordUploadRequest
 {

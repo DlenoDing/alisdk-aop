@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.servindustry.reservation.shop.unbind request
  *
  * @author auto create
- * @since 1.0, 2020-12-16 20:50:26
+ * @since 1.0, 2023-08-21 01:21:28
  */
 class KoubeiServindustryReservationShopUnbindRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.business.relation.shop.delete request
  *
  * @author auto create
- * @since 1.0, 2022-06-23 20:07:09
+ * @since 1.0, 2023-08-24 21:26:44
  */
 class AlipayBusinessRelationShopDeleteRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.app.mini.templatemessage.send request
  *
  * @author auto create
- * @since 1.0, 2022-09-16 12:05:55
+ * @since 1.0, 2024-06-17 22:12:04
  */
 class AlipayOpenAppMiniTemplatemessageSendRequest
 {

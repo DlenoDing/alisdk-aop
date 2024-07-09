@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.partnerships.create request
  *
  * @author auto create
- * @since 1.0, 2022-08-19 12:59:00
+ * @since 1.0, 2023-11-27 10:22:12
  */
 class AlipayMarketingPartnershipsCreateRequest
 {

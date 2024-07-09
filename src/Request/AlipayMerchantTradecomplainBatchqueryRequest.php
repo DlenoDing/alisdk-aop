@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.tradecomplain.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-03-08 10:53:40
+ * @since 1.0, 2024-06-17 14:07:03
  */
 class AlipayMerchantTradecomplainBatchqueryRequest
 {

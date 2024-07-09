@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.prodmode.chargeoffinst.query request
  *
  * @author auto create
- * @since 1.0, 2020-06-15 10:01:09
+ * @since 1.0, 2023-08-23 19:54:25
  */
 class AlipayEbppProdmodeChargeoffinstQueryRequest
 {

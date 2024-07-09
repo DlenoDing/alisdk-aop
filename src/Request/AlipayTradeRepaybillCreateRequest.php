@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.trade.repaybill.create request
  *
  * @author auto create
- * @since 1.0, 2019-11-25 20:58:42
+ * @since 1.0, 2024-01-29 11:13:45
  */
 class AlipayTradeRepaybillCreateRequest
 {

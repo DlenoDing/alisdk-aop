@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: anttech.oceanbase.notify.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:12:55
+ * @since 1.0, 2023-09-13 14:57:27
  */
 class AnttechOceanbaseNotifySendRequest
 {

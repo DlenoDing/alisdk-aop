@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ssdata.dataservice.dataproperty.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-04-12 20:00:42
+ * @since 1.0, 2023-08-20 18:04:12
  */
 class SsdataDataserviceDatapropertyBatchqueryRequest
 {

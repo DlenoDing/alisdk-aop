@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.invoice.open.red.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 15:43:56
+ * @since 1.0, 2022-10-24 16:06:45
  */
 class AlipayEbppInvoiceOpenRedCreateRequest
 {

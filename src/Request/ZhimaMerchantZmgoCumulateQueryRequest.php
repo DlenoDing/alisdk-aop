@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.merchant.zmgo.cumulate.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-29 17:22:38
+ * @since 1.0, 2024-03-28 00:46:05
  */
 class ZhimaMerchantZmgoCumulateQueryRequest
 {

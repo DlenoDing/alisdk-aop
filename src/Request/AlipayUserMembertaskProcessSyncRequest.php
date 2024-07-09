@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.membertask.process.sync request
  *
  * @author auto create
- * @since 1.0, 2021-10-25 17:10:32
+ * @since 1.0, 2024-03-01 16:27:39
  */
 class AlipayUserMembertaskProcessSyncRequest
 {

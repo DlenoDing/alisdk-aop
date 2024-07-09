@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.activity.ordervoucher.stop request
  *
  * @author auto create
- * @since 1.0, 2022-08-15 17:56:43
+ * @since 1.0, 2024-04-23 21:51:00
  */
 class AlipayMarketingActivityOrdervoucherStopRequest
 {

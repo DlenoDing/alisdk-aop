@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.benefit.multibundle.consult request
  *
  * @author auto create
- * @since 1.0, 2022-05-20 14:50:17
+ * @since 1.0, 2023-05-29 23:05:29
  */
 class AlipayOpenMiniBenefitMultibundleConsultRequest
 {

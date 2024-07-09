@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.pdeduct.pay request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:17:22
+ * @since 1.0, 2024-04-01 23:01:08
  */
 class AlipayEbppPdeductPayRequest
 {
@@ -50,6 +51,11 @@ class AlipayEbppPdeductPayRequest
 	 * 备注信息
 	 **/
 	private $memo;
+	
+	/** 
+	 * 用户UserId在应用AppId下的唯一用户标识
+	 **/
+	private $openId;
 	
 	/** 
 	 * 商户外部业务流水号
@@ -167,6 +173,17 @@ class AlipayEbppPdeductPayRequest
 	public function getMemo()
 	{
 		return $this->memo;
+	}
+
+	public function setOpenId($openId)
+	{
+		$this->openId = $openId;
+		$this->apiParas["open_id"] = $openId;
+	}
+
+	public function getOpenId()
+	{
+		return $this->openId;
 	}
 
 	public function setOutOrderNo($outOrderNo)

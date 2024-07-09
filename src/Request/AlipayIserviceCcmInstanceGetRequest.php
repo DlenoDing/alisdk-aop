@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.iservice.ccm.instance.get request
  *
  * @author auto create
- * @since 1.0, 2020-12-10 17:57:29
+ * @since 1.0, 2023-09-11 18:48:13
  */
 class AlipayIserviceCcmInstanceGetRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.mall.event.send request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 11:08:27
+ * @since 1.0, 2023-08-21 04:05:51
  */
 class KoubeiMallEventSendRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.public.contentlib.datacollect.send request
  *
  * @author auto create
- * @since 1.0, 2021-12-09 00:25:41
+ * @since 1.0, 2023-05-31 04:44:55
  */
 class AlipayOpenPublicContentlibDatacollectSendRequest
 {

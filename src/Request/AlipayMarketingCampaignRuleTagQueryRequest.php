@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.campaign.rule.tag.query request
  *
  * @author auto create
- * @since 1.0, 2021-06-23 15:40:00
+ * @since 1.0, 2023-05-29 21:57:54
  */
 class AlipayMarketingCampaignRuleTagQueryRequest
 {

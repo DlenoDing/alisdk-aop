@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.prodpaas.grmcore.program.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-31 20:52:43
+ * @since 1.0, 2024-03-01 16:29:03
  */
 class AntProdpaasGrmcoreProgramQueryRequest
 {

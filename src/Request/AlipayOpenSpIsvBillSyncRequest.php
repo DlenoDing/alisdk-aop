@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.sp.isv.bill.sync request
  *
  * @author auto create
- * @since 1.0, 2022-05-23 19:36:11
+ * @since 1.0, 2024-03-07 10:56:59
  */
 class AlipayOpenSpIsvBillSyncRequest
 {

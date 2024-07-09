@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.public.template.message.get request
  *
  * @author auto create
- * @since 1.0, 2022-01-13 13:44:56
+ * @since 1.0, 2023-09-11 18:08:32
  */
 class AlipayOpenPublicTemplateMessageGetRequest
 {

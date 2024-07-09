@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.campaign.activity.offline.trigger request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:05:29
+ * @since 1.0, 2023-09-04 00:44:45
  */
 class AlipayMarketingCampaignActivityOfflineTriggerRequest
 {

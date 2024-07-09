@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.payforprivilege.memberremaining.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-13 20:56:35
+ * @since 1.0, 2024-03-01 16:34:31
  */
 class AlipayMerchantPayforprivilegeMemberremainingQueryRequest
 {

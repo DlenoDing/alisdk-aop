@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.iot.shopcode.query request
  *
  * @author auto create
- * @since 1.0, 2021-09-06 18:47:44
+ * @since 1.0, 2023-08-21 04:33:05
  */
 class AlipayCommerceIotShopcodeQueryRequest
 {

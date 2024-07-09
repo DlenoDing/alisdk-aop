@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: mybank.payment.trade.qrcode.delete request
  *
  * @author auto create
- * @since 1.0, 2019-12-31 19:36:46
+ * @since 1.0, 2023-09-04 01:27:14
  */
 class MybankPaymentTradeQrcodeDeleteRequest
 {

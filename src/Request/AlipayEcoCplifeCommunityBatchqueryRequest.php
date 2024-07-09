@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.cplife.community.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-11-09 14:35:13
+ * @since 1.0, 2023-08-21 04:42:28
  */
 class AlipayEcoCplifeCommunityBatchqueryRequest
 {

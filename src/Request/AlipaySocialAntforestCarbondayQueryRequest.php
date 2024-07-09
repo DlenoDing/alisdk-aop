@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.antforest.carbonday.query request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:05:48
+ * @since 1.0, 2024-03-15 16:06:57
  */
 class AlipaySocialAntforestCarbondayQueryRequest
 {

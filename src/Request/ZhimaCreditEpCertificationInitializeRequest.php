@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.ep.certification.initialize request
  *
  * @author auto create
- * @since 1.0, 2022-06-29 15:51:47
+ * @since 1.0, 2024-03-27 09:02:04
  */
 class ZhimaCreditEpCertificationInitializeRequest
 {

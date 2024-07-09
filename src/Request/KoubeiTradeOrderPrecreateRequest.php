@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.trade.order.precreate request
  *
  * @author auto create
- * @since 1.0, 2021-03-10 16:57:59
+ * @since 1.0, 2023-08-21 01:14:48
  */
 class KoubeiTradeOrderPrecreateRequest
 {

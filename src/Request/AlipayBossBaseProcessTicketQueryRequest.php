@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.boss.base.process.ticket.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-16 15:05:24
+ * @since 1.0, 2024-01-09 16:47:22
  */
 class AlipayBossBaseProcessTicketQueryRequest
 {

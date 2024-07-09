@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.agreement.quota.query request
  *
  * @author auto create
- * @since 1.0, 2022-04-24 08:41:42
+ * @since 1.0, 2023-09-11 17:49:16
  */
 class AlipayFundAgreementQuotaQueryRequest
 {

@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.green.item.upload request
  *
  * @author auto create
- * @since 1.0, 2022-08-05 17:04:40
+ * @since 1.0, 2023-09-03 23:01:47
  */
 class AlipayCommerceGreenItemUploadRequest
 {

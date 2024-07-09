@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.operation.benefit.single.query request
  *
  * @author auto create
- * @since 1.0, 2021-10-27 19:57:49
+ * @since 1.0, 2023-05-31 03:34:34
  */
 class AlipayCommerceOperationBenefitSingleQueryRequest
 {

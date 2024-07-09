@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.card.activateurl.query request
  *
  * @author auto create
- * @since 1.0, 2022-08-17 13:57:20
+ * @since 1.0, 2024-04-10 16:33:33
  */
 class AlipayUserCardActivateurlQueryRequest
 {

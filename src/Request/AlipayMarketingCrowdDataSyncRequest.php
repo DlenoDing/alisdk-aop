@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.crowd.data.sync request
  *
  * @author auto create
- * @since 1.0, 2019-06-06 16:35:01
+ * @since 1.0, 2023-11-27 10:29:31
  */
 class AlipayMarketingCrowdDataSyncRequest
 {

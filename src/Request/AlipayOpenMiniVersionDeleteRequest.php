@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.version.delete request
  *
  * @author auto create
- * @since 1.0, 2022-06-14 12:40:34
+ * @since 1.0, 2024-05-06 10:32:46
  */
 class AlipayOpenMiniVersionDeleteRequest
 {

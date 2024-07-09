@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.signatory.info.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-10 20:51:43
+ * @since 1.0, 2024-03-01 16:34:54
  */
 class AlipayUserSignatoryInfoQueryRequest
 {

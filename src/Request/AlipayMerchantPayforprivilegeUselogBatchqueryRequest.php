@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.payforprivilege.uselog.batchquery request
  *
  * @author auto create
- * @since 1.0, 2022-03-29 09:56:13
+ * @since 1.0, 2024-03-01 16:34:31
  */
 class AlipayMerchantPayforprivilegeUselogBatchqueryRequest
 {

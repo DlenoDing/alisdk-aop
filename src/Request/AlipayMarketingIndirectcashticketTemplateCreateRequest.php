@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.indirectcashticket.template.create request
  *
  * @author auto create
- * @since 1.0, 2019-12-09 11:11:28
+ * @since 1.0, 2023-11-27 10:29:05
  */
 class AlipayMarketingIndirectcashticketTemplateCreateRequest
 {

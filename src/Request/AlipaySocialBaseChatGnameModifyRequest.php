@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.social.base.chat.gname.modify request
  *
  * @author auto create
- * @since 1.0, 2021-12-22 00:05:52
+ * @since 1.0, 2023-08-21 02:58:50
  */
 class AlipaySocialBaseChatGnameModifyRequest
 {

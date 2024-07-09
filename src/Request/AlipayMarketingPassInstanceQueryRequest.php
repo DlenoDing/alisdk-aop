@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.pass.instance.query request
  *
  * @author auto create
- * @since 1.0, 2022-02-15 10:41:06
+ * @since 1.0, 2023-05-30 23:52:45
  */
 class AlipayMarketingPassInstanceQueryRequest
 {

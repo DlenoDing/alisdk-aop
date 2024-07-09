@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.data.feedbackurl.query request
  *
  * @author auto create
- * @since 1.0, 2021-11-05 15:09:00
+ * @since 1.0, 2023-09-04 00:56:09
  */
 class ZhimaDataFeedbackurlQueryRequest
 {

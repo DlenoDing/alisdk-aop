@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.finance.quotation.quotetrade.tradingday.batchquery request
  *
  * @author auto create
- * @since 1.0, 2020-12-02 23:10:14
+ * @since 1.0, 2023-08-21 05:36:51
  */
 class AlipayFinanceQuotationQuotetradeTradingdayBatchqueryRequest
 {

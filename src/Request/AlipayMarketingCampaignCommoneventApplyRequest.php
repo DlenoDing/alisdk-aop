@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.campaign.commonevent.apply request
  *
  * @author auto create
- * @since 1.0, 2020-03-06 14:10:07
+ * @since 1.0, 2023-05-31 00:54:06
  */
 class AlipayMarketingCampaignCommoneventApplyRequest
 {

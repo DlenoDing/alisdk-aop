@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.credit.ep.scene.fulfillmentlist.sync request
  *
  * @author auto create
- * @since 1.0, 2021-10-27 17:12:31
+ * @since 1.0, 2023-09-04 01:53:10
  */
 class ZhimaCreditEpSceneFulfillmentlistSyncRequest
 {

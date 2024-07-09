@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.promorulecenter.rule.analyze request
  *
  * @author auto create
- * @since 1.0, 2021-07-13 10:41:50
+ * @since 1.0, 2024-05-23 18:03:29
  */
 class AlipayPromorulecenterRuleAnalyzeRequest
 {
@@ -12,6 +13,11 @@ class AlipayPromorulecenterRuleAnalyzeRequest
 	 * 业务id
 	 **/
 	private $bizId;
+	
+	/** 
+	 * 支付宝用户id
+	 **/
+	private $openId;
 	
 	/** 
 	 * 规则id
@@ -42,6 +48,17 @@ class AlipayPromorulecenterRuleAnalyzeRequest
 	public function getBizId()
 	{
 		return $this->bizId;
+	}
+
+	public function setOpenId($openId)
+	{
+		$this->openId = $openId;
+		$this->apiParas["open_id"] = $openId;
+	}
+
+	public function getOpenId()
+	{
+		return $this->openId;
 	}
 
 	public function setRuleUuid($ruleUuid)

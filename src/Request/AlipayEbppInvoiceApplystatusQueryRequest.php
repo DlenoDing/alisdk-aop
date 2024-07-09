@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.invoice.applystatus.query request
  *
  * @author auto create
- * @since 1.0, 2020-08-31 23:10:11
+ * @since 1.0, 2023-09-11 20:21:49
  */
 class AlipayEbppInvoiceApplystatusQueryRequest
 {

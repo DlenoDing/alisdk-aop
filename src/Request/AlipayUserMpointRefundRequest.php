@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.mpoint.refund request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:00:42
+ * @since 1.0, 2023-08-20 18:01:45
  */
 class AlipayUserMpointRefundRequest
 {

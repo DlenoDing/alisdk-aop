@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.material.image.upload request
  *
  * @author auto create
- * @since 1.0, 2022-09-07 19:47:16
+ * @since 1.0, 2024-04-23 21:51:00
  */
 class AlipayMarketingMaterialImageUploadRequest
 {
@@ -31,16 +32,12 @@ delivery_base_info.delivery_material.delivery_single_material.delivery_image
 
 alipay.marketing.activity.ordervoucher.create接口中
 voucher_display_info.brand_logo字段,file_key=PROMO_BRAND_LOGO，上传图片尺寸600*600，支持格式：png、jpg、jpeg、bmp，大小不超过2MB
-voucher_display_info.voucher_image字段,file_key=PROMO_VOUCHER_IMAGE,上传图片尺寸670*335，支持格式：png、jpg、jpeg、bmp，大小不超过2MB
+voucher_display_info.voucher_image字段,file_key=PROMO_VOUCHER_IMAGE,上传图片尺寸600*600，支持格式：png、jpg、jpeg、bmp，大小不超过2MB
 	 **/
 	private $fileKey;
 	
 	/** 
 	 * 商户接入模式
-
-枚举值
-SELF_MODE 商户自接入模式
-AGENCY_MODE 服务商代接入模式
 	 **/
 	private $merchantAccessMode;
 

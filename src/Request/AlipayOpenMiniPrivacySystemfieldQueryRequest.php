@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.privacy.systemfield.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-04 10:11:18
+ * @since 1.0, 2023-09-04 00:49:44
  */
 class AlipayOpenMiniPrivacySystemfieldQueryRequest
 {

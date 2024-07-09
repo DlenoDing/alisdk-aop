@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.pdeduct.sign.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 23:17:54
+ * @since 1.0, 2024-03-26 21:35:55
  */
 class AlipayEbppPdeductSignCancelRequest
 {
@@ -22,6 +23,11 @@ class AlipayEbppPdeductSignCancelRequest
 	 * 支付宝代扣协议ID
 	 **/
 	private $agreementId;
+	
+	/** 
+	 * 用户UserId在应用AppId下的唯一用户标识
+	 **/
+	private $openId;
 	
 	/** 
 	 * 需要用户首先处于登陆态，然后访问https://ebppprod.alipay.com/deduct/enterMobileicPayPassword.htm?cb=自己指定的回跳连接地址,访问页面后会进到独立密码校验页，用户输入密码校验成功后，会生成token回调到指定的回跳地址，如果设置cb=www.baidu.com则最后回调的内容是www.baidu.com?token=312314ADFDSFAS,然后签约时直接取得地址后token的值即可
@@ -74,6 +80,17 @@ class AlipayEbppPdeductSignCancelRequest
 	public function getAgreementId()
 	{
 		return $this->agreementId;
+	}
+
+	public function setOpenId($openId)
+	{
+		$this->openId = $openId;
+		$this->apiParas["open_id"] = $openId;
+	}
+
+	public function getOpenId()
+	{
+		return $this->openId;
 	}
 
 	public function setPayPasswordToken($payPasswordToken)

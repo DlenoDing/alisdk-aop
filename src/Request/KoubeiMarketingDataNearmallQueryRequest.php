@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.marketing.data.nearmall.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:12:34
+ * @since 1.0, 2024-03-01 16:28:37
  */
 class KoubeiMarketingDataNearmallQueryRequest
 {

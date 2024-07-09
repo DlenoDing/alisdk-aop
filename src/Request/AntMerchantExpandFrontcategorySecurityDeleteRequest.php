@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.frontcategory.security.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:05:53
+ * @since 1.0, 2023-07-05 10:58:26
  */
 class AntMerchantExpandFrontcategorySecurityDeleteRequest
 {

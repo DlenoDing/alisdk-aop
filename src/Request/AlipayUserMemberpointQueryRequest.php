@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.user.memberpoint.query request
  *
  * @author auto create
- * @since 1.0, 2022-01-14 17:35:37
+ * @since 1.0, 2023-08-24 22:57:32
  */
 class AlipayUserMemberpointQueryRequest
 {

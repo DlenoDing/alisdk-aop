@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.merchant.order.securitydetail.consumer.query request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:09:10
+ * @since 1.0, 2024-03-01 16:29:07
  */
 class AlipayMerchantOrderSecuritydetailConsumerQueryRequest
 {

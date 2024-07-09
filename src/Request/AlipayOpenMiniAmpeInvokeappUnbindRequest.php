@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.ampe.invokeapp.unbind request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 23:55:31
+ * @since 1.0, 2024-04-03 11:57:13
  */
 class AlipayOpenMiniAmpeInvokeappUnbindRequest
 {

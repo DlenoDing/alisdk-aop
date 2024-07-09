@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.mycar.system.templatemessage.send request
  *
  * @author auto create
- * @since 1.0, 2022-05-26 17:01:41
+ * @since 1.0, 2023-08-21 03:56:46
  */
 class AlipayEcoMycarSystemTemplatemessageSendRequest
 {

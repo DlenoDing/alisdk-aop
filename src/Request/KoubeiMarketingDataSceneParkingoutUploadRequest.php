@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.marketing.data.scene.parkingout.upload request
  *
  * @author auto create
- * @since 1.0, 2022-06-02 11:02:55
+ * @since 1.0, 2023-08-24 22:44:12
  */
 class KoubeiMarketingDataSceneParkingoutUploadRequest
 {

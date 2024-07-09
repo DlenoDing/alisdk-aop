@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.membercard.operation.query request
  *
  * @author auto create
- * @since 1.0, 2022-05-10 14:02:31
+ * @since 1.0, 2024-05-07 16:12:34
  */
 class AntMerchantExpandMembercardOperationQueryRequest
 {

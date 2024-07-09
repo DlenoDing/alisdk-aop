@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.dataservice.code.reco request
  *
  * @author auto create
- * @since 1.0, 2021-12-30 15:02:39
+ * @since 1.0, 2023-05-30 21:49:48
  */
 class AlipayDataDataserviceCodeRecoRequest
 {

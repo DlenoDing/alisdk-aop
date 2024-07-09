@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.msaas.mediarecog.mmtcaftscv.machinetype.query request
  *
  * @author auto create
- * @since 1.0, 2022-03-31 15:11:54
+ * @since 1.0, 2023-09-04 01:36:25
  */
 class AlipayMsaasMediarecogMmtcaftscvMachinetypeQueryRequest
 {

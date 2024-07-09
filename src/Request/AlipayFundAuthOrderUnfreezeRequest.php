@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.fund.auth.order.unfreeze request
  *
  * @author auto create
- * @since 1.0, 2022-05-19 16:53:57
+ * @since 1.0, 2024-01-04 12:24:26
  */
 class AlipayFundAuthOrderUnfreezeRequest
 {

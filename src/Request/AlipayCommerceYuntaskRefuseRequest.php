@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.yuntask.refuse request
  *
  * @author auto create
- * @since 1.0, 2022-06-27 11:26:45
+ * @since 1.0, 2023-08-23 20:41:47
  */
 class AlipayCommerceYuntaskRefuseRequest
 {

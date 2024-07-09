@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: zhima.merchant.logo.image.upload request
  *
  * @author auto create
- * @since 1.0, 2021-03-30 17:00:30
+ * @since 1.0, 2023-05-30 21:40:18
  */
 class ZhimaMerchantLogoImageUploadRequest
 {

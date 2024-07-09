@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.auth.binding.get request
  *
  * @author auto create
- * @since 1.0, 2022-08-22 20:13:49
+ * @since 1.0, 2024-03-01 16:27:59
  */
 class AlipayCommerceTransportAuthBindingGetRequest
 {

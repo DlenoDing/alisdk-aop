@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.shop.mantestsds.send request
  *
  * @author auto create
- * @since 1.0, 2022-08-16 17:51:50
+ * @since 1.0, 2023-11-02 19:53:57
  */
 class KoubeiShopMantestsdsSendRequest
 {

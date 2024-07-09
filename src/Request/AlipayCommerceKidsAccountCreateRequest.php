@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.kids.account.create request
  *
  * @author auto create
- * @since 1.0, 2021-07-14 10:10:05
+ * @since 1.0, 2024-03-01 16:25:20
  */
 class AlipayCommerceKidsAccountCreateRequest
 {

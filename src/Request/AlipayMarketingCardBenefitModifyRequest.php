@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.marketing.card.benefit.modify request
  *
  * @author auto create
- * @since 1.0, 2021-03-23 10:07:05
+ * @since 1.0, 2024-01-19 14:22:24
  */
 class AlipayMarketingCardBenefitModifyRequest
 {

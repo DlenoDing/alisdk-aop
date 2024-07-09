@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.catering.dish.removedish.delete request
  *
  * @author auto create
- * @since 1.0, 2022-01-04 10:40:28
+ * @since 1.0, 2023-08-21 05:48:49
  */
 class KoubeiCateringDishRemovedishDeleteRequest
 {

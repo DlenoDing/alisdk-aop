@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ins.scene.claim.report.modify request
  *
  * @author auto create
- * @since 1.0, 2022-03-28 17:11:57
+ * @since 1.0, 2024-03-01 16:29:16
  */
 class AlipayInsSceneClaimReportModifyRequest
 {

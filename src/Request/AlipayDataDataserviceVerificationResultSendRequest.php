@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.data.dataservice.verification.result.send request
  *
  * @author auto create
- * @since 1.0, 2019-08-14 15:13:41
+ * @since 1.0, 2023-08-20 16:38:01
  */
 class AlipayDataDataserviceVerificationResultSendRequest
 {

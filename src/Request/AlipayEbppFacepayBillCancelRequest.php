@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.ebpp.facepay.bill.cancel request
  *
  * @author auto create
- * @since 1.0, 2021-12-08 22:05:15
+ * @since 1.0, 2024-03-01 16:29:05
  */
 class AlipayEbppFacepayBillCancelRequest
 {

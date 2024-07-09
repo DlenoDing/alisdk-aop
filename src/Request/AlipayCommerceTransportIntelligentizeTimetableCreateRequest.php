@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.intelligentize.timetable.create request
  *
  * @author auto create
- * @since 1.0, 2022-08-18 17:29:00
+ * @since 1.0, 2023-09-03 23:26:13
  */
 class AlipayCommerceTransportIntelligentizeTimetableCreateRequest
 {

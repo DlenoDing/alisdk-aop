@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.iservice.ccm.sw.tree.batchquery request
  *
  * @author auto create
- * @since 1.0, 2021-03-30 20:17:32
+ * @since 1.0, 2023-09-11 16:23:25
  */
 class AlipayIserviceCcmSwTreeBatchqueryRequest
 {

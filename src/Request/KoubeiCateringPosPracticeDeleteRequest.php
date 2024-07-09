@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: koubei.catering.pos.practice.delete request
  *
  * @author auto create
- * @since 1.0, 2021-12-21 22:21:12
+ * @since 1.0, 2023-08-21 05:18:23
  */
 class KoubeiCateringPosPracticeDeleteRequest
 {

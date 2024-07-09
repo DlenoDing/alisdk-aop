@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: ant.merchant.expand.indirect.bind.qrcodecreate request
  *
  * @author auto create
- * @since 1.0, 2021-11-25 18:17:53
+ * @since 1.0, 2023-08-21 05:36:41
  */
 class AntMerchantExpandIndirectBindQrcodecreateRequest
 {

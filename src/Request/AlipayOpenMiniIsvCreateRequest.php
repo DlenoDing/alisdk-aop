@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.open.mini.isv.create request
  *
  * @author auto create
- * @since 1.0, 2022-09-16 16:11:51
+ * @since 1.0, 2024-04-26 11:22:01
  */
 class AlipayOpenMiniIsvCreateRequest
 {

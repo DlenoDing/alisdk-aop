@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.operation.timescard.refund.apply request
  *
  * @author auto create
- * @since 1.0, 2022-04-21 16:34:45
+ * @since 1.0, 2024-04-10 16:28:20
  */
 class AlipayCommerceOperationTimescardRefundApplyRequest
 {

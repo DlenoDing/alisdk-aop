@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.eco.edu.kt.downloadurl.query request
  *
  * @author auto create
- * @since 1.0, 2021-08-30 17:10:27
+ * @since 1.0, 2023-09-22 09:57:43
  */
 class AlipayEcoEduKtDownloadurlQueryRequest
 {

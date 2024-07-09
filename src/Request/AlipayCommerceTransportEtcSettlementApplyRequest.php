@@ -1,10 +1,11 @@
 <?php
 namespace Dleno\AliSdkAop\Request;
+
 /**
  * ALIPAY API: alipay.commerce.transport.etc.settlement.apply request
  *
  * @author auto create
- * @since 1.0, 2022-09-09 13:46:52
+ * @since 1.0, 2024-03-01 16:27:43
  */
 class AlipayCommerceTransportEtcSettlementApplyRequest
 {
